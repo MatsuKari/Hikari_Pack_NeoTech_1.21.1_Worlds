@@ -2842,5 +2842,767 @@
     },
     "done": true
   },
+  "silentgear:recipes/misc/azure_electrum_dust_blasting": {
+    "criteria": {
+      "has_item": "2024-11-16 15:09:17 -0300"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/azure_repair_kit": {
+    "criteria": {
+      "has_item": "2024-11-16 15:09:17 -0300"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/azure_electrum_ingot_from_nugget": {
+    "criteria": {
+      "has_item": "2024-11-16 15:09:17 -0300"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/azure_electrum_ingot_from_block": {
+    "criteria": {
+      "has_item": "2024-11-16 15:09:17 -0300"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/azure_electrum_block": {
+    "criteria": {
+      "has_item": "2024-11-16 15:09:17 -0300"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/azure_electrum_nugget": {
+    "criteria": {
+      "has_item": "2024-11-16 15:09:17 -0300"
+    },
+    "done": true
+  },
+  "silentgear:recipes/decorations/recrystallizer": {
+    "criteria": {
+      "has_item": "2024-11-16 15:09:17 -0300"
+    },
+    "done": true
+  },
+  "silentgear:azure_electrum": {
+    "criteria": {
+      "get_ingot": "2024-11-16 15:09:17 -0300"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/azure_electrum_dust_smelting": {
+    "criteria": {
+      "has_item": "2024-11-16 15:09:17 -0300"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/rough_rod2": {
+    "criteria": {
+      "has_item": "2024-11-16 15:10:31 -0300"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/tyrian_steel_block": {
+    "criteria": {
+      "has_item": "2024-11-16 15:11:49 -0300"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/tyrian_steel_nugget": {
+    "criteria": {
+      "has_item": "2024-11-16 15:11:49 -0300"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/tyrian_steel_dust_smelting": {
+    "criteria": {
+      "has_item": "2024-11-16 15:11:49 -0300"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/tyrian_steel_ingot_from_nugget": {
+    "criteria": {
+      "has_item": "2024-11-16 15:11:49 -0300"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/tyrian_steel_dust_blasting": {
+    "criteria": {
+      "has_item": "2024-11-16 15:11:49 -0300"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/tyrian_steel_ingot_from_block": {
+    "criteria": {
+      "has_item": "2024-11-16 15:11:49 -0300"
+    },
+    "done": true
+  },
+  "silentgear:recipes/decorations/metal_press": {
+    "criteria": {
+      "has_item": "2024-11-16 15:11:49 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-11-16 17:03:30 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-11-16 17:03:30 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-11-16 17:03:30 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-11-16 17:03:30 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-11-16 17:03:30 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-11-16 17:03:30 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-11-16 17:03:30 -0300"
+    },
+    "done": true
+  },
+  "powah:recipes/misc/crafting/energizing_orb": {
+    "criteria": {
+      "has_glass": "2024-11-16 17:03:30 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-11-16 17:03:30 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2024-11-16 17:03:30 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-11-16 17:03:30 -0300"
+    },
+    "done": true
+  },
+  "xnet:recipes/misc/facade": {
+    "criteria": {
+      "glass": "2024-11-16 17:03:30 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-11-16 17:03:30 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-11-16 17:03:30 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-11-16 17:03:30 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-11-16 17:03:30 -0300"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/building_blocks/deorum_glass": {
+    "criteria": {
+      "has_glass": "2024-11-16 17:03:30 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-11-16 17:03:30 -0300"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/building_blocks/runic_glass": {
+    "criteria": {
+      "has_glass": "2024-11-16 17:03:30 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2024-11-16 17:03:30 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-11-16 17:03:30 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-11-16 17:03:30 -0300"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/decorations/utrem_jar": {
+    "criteria": {
+      "has_glass_blocks/colorless": "2024-11-16 17:03:30 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-11-16 17:03:44 -0300"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/calcite_dust": {
+    "criteria": {
+      "has_calcite": "2024-11-16 17:08:54 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-11-17 12:38:56 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-11-17 12:38:56 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-11-17 12:38:56 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-11-17 12:38:56 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-11-17 12:38:56 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-11-17 12:38:56 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-11-17 12:38:56 -0300"
+    },
+    "done": true
+  },
+  "quarryplus:recipes/misc/adv_quarry": {
+    "criteria": {
+      "has_quarry": "2024-11-17 16:01:09 -0300"
+    },
+    "done": true
+  },
+  "quarryplus:recipes/misc/remove_bedrock_module": {
+    "criteria": {
+      "has_quarry": "2024-11-17 16:01:09 -0300"
+    },
+    "done": true
+  },
+  "quarryplus:recipes/misc/mover": {
+    "criteria": {
+      "has_anvil": "2024-11-17 16:03:36 -0300"
+    },
+    "done": true
+  },
+  "quarryplus:recipes/misc/status_checker": {
+    "criteria": {
+      "has_markers": "2024-11-17 16:05:23 -0300"
+    },
+    "done": true
+  },
+  "quarryplus:recipes/misc/chunk_marker": {
+    "criteria": {
+      "has_marker": "2024-11-17 16:05:23 -0300"
+    },
+    "done": true
+  },
+  "quarryplus:recipes/misc/pump_module": {
+    "criteria": {
+      "has_markers": "2024-11-17 16:05:23 -0300"
+    },
+    "done": true
+  },
+  "quarryplus:recipes/misc/quarry": {
+    "criteria": {
+      "has_markers": "2024-11-17 16:05:23 -0300"
+    },
+    "done": true
+  },
+  "quarryplus:recipes/misc/repeat_tick_module": {
+    "criteria": {
+      "has_markers": "2024-11-17 16:05:23 -0300"
+    },
+    "done": true
+  },
+  "quarryplus:recipes/misc/exp_module": {
+    "criteria": {
+      "has_markers": "2024-11-17 16:05:23 -0300"
+    },
+    "done": true
+  },
+  "quarryplus:recipes/misc/flexible_marker": {
+    "criteria": {
+      "has_marker": "2024-11-17 16:05:23 -0300"
+    },
+    "done": true
+  },
+  "quarryplus:recipes/misc/y_setter": {
+    "criteria": {
+      "has_markers": "2024-11-17 16:05:23 -0300"
+    },
+    "done": true
+  },
+  "quarryplus:recipes/misc/filter_module": {
+    "criteria": {
+      "has_markers": "2024-11-17 16:05:23 -0300"
+    },
+    "done": true
+  },
+  "quarryplus:recipes/misc/marker": {
+    "criteria": {
+      "has_redstone_torch": "2024-11-17 16:06:54 -0300"
+    },
+    "done": true
+  },
+  "quarryplus:recipes/misc/chunk_marker_from_flexible_marker": {
+    "criteria": {
+      "has_flexible_marker": "2024-11-17 17:40:02 -0300"
+    },
+    "done": true
+  },
+  "quarryplus:recipes/misc/flexible_marker_from_chunk_marker": {
+    "criteria": {
+      "has_chunk_marker": "2024-11-17 17:40:41 -0300"
+    },
+    "done": true
+  },
+  "powah:recipes/misc/crafting/ender_cell_niotic_2": {
+    "criteria": {
+      "has_ender_cell_niotic": "2024-11-17 17:50:36 -0300"
+    },
+    "done": true
+  },
+  "powah:recipes/misc/crafting/battery_spirited": {
+    "criteria": {
+      "has_battery_niotic": "2024-11-17 17:50:57 -0300"
+    },
+    "done": true
+  },
+  "powah:recipes/misc/crafting/battery_niotic": {
+    "criteria": {
+      "has_battery_blazing": "2024-11-17 17:51:39 -0300"
+    },
+    "done": true
+  },
+  "powah:recipes/misc/crafting/ender_cell_blazing_2": {
+    "criteria": {
+      "has_ender_cell_blazing": "2024-11-17 17:52:14 -0300"
+    },
+    "done": true
+  },
+  "powah:recipes/misc/crafting/ender_gate_blazing_2": {
+    "criteria": {
+      "has_ender_gate_blazing": "2024-11-17 17:54:21 -0300"
+    },
+    "done": true
+  },
+  "powah:recipes/misc/crafting/ender_gate_nitro_2": {
+    "criteria": {
+      "has_ender_gate_nitro": "2024-11-17 17:54:56 -0300"
+    },
+    "done": true
+  },
+  "powah:recipes/misc/crafting/player_tranmitter_spirited": {
+    "criteria": {
+      "has_player_transmitter_niotic": "2024-11-17 17:56:24 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/io_port": {
+    "criteria": {
+      "has_drive": "2024-11-24 11:34:14 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/wireless_crafting_terminal": {
+    "criteria": {
+      "has_terminal": "2024-11-24 11:34:23 -0300"
+    },
+    "done": true
+  },
+  "ae2:main/crafting_terminal": {
+    "criteria": {
+      "certus": "2024-11-24 11:34:23 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/terminals_pattern_encoding": {
+    "criteria": {
+      "has_crafting_terminal": "2024-11-24 11:34:23 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/crafting/patterns_blank": {
+    "criteria": {
+      "has_pattern_encoding_terminal": "2024-11-24 11:34:27 -0300"
+    },
+    "done": true
+  },
+  "ae2:main/pattern_encoding_terminal": {
+    "criteria": {
+      "certus": "2024-11-24 11:34:27 -0300"
+    },
+    "done": true
+  },
+  "extendedae:recipes/misc/wireless_ex_pat": {
+    "criteria": {
+      "has_item": "2024-11-24 11:34:32 -0300"
+    },
+    "done": true
+  },
+  "extendedae:recipes/misc/ex_pattern_access_terminal_upgrade": {
+    "criteria": {
+      "has_item": "2024-11-24 11:34:32 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_yellow": {
+    "criteria": {
+      "has_fluix_glass_cable": "2024-11-24 11:34:44 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_cyan": {
+    "criteria": {
+      "has_fluix_glass_cable": "2024-11-24 11:34:44 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/toggle_bus": {
+    "criteria": {
+      "has_glass_cable": "2024-11-24 11:34:44 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_green": {
+    "criteria": {
+      "has_fluix_glass_cable": "2024-11-24 11:34:44 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_light_blue": {
+    "criteria": {
+      "has_fluix_glass_cable": "2024-11-24 11:34:44 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_black": {
+    "criteria": {
+      "has_fluix_glass_cable": "2024-11-24 11:34:44 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_pink": {
+    "criteria": {
+      "has_fluix_glass_cable": "2024-11-24 11:34:44 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_orange": {
+    "criteria": {
+      "has_fluix_glass_cable": "2024-11-24 11:34:44 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/covered_fluix": {
+    "criteria": {
+      "has_glass_cable": "2024-11-24 11:34:44 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_gray": {
+    "criteria": {
+      "has_fluix_glass_cable": "2024-11-24 11:34:44 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_fluix_clean": {
+    "criteria": {
+      "has_glass_cable": "2024-11-24 11:34:44 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_white": {
+    "criteria": {
+      "has_fluix_glass_cable": "2024-11-24 11:34:44 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_blue": {
+    "criteria": {
+      "has_fluix_glass_cable": "2024-11-24 11:34:44 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_lime": {
+    "criteria": {
+      "has_fluix_glass_cable": "2024-11-24 11:34:44 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_brown": {
+    "criteria": {
+      "has_fluix_glass_cable": "2024-11-24 11:34:44 -0300"
+    },
+    "done": true
+  },
+  "megacells:recipes/misc/network/cell_dock": {
+    "criteria": {
+      "has_glass_cable": "2024-11-24 11:34:44 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/crystal_processing_growth_accelerator": {
+    "criteria": {
+      "has_glass_cable": "2024-11-24 11:34:44 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/storage_chest": {
+    "criteria": {
+      "has_glass_cable": "2024-11-24 11:34:44 -0300"
+    },
+    "done": true
+  },
+  "ae2:main/glass_cable": {
+    "criteria": {
+      "certus": "2024-11-24 11:34:44 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/spatial_io_pylon": {
+    "criteria": {
+      "has_glass_cable": "2024-11-24 11:34:44 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_magenta": {
+    "criteria": {
+      "has_fluix_glass_cable": "2024-11-24 11:34:44 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_light_gray": {
+    "criteria": {
+      "has_fluix_glass_cable": "2024-11-24 11:34:44 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_purple": {
+    "criteria": {
+      "has_fluix_glass_cable": "2024-11-24 11:34:44 -0300"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_red": {
+    "criteria": {
+      "has_fluix_glass_cable": "2024-11-24 11:34:44 -0300"
+    },
+    "done": true
+  },
+  "ae2:main/storage_cell": {
+    "criteria": {
+      "c64k": "2024-11-24 11:35:20 -0300"
+    },
+    "done": true
+  },
+  "extendedae:recipes/misc/precise_storage_bus": {
+    "criteria": {
+      "has_item": "2024-11-24 12:13:39 -0300"
+    },
+    "done": true
+  },
+  "ae2:main/storage_bus": {
+    "criteria": {
+      "part": "2024-11-24 12:13:39 -0300"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/eclipsealloy_hoe-hammer": {
+    "criteria": {
+      "has_the_recipe": "2024-11-24 21:39:56 -0300"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/eclipsealloy_ingot_smelted": {
+    "criteria": {
+      "has_eclipsealloy_raw": "2024-11-24 21:43:49 -0300"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/eclipsealloy_ingot_blasted": {
+    "criteria": {
+      "has_eclipsealloy_raw": "2024-11-24 21:43:49 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2024-11-24 21:49:32 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-11-24 21:49:32 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-11-24 21:49:32 -0300"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mining_boat": {
+    "criteria": {
+      "in_water": "2024-11-24 21:49:32 -0300"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2024-11-24 21:49:32 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-11-24 21:49:32 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2024-11-24 21:49:32 -0300"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/canopy_boat": {
+    "criteria": {
+      "in_water": "2024-11-24 21:49:32 -0300"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/sorting_boat": {
+    "criteria": {
+      "in_water": "2024-11-24 21:49:32 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-11-24 21:49:32 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2024-11-24 21:49:32 -0300"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/twilight_oak_boat": {
+    "criteria": {
+      "in_water": "2024-11-24 21:49:32 -0300"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/time_boat": {
+    "criteria": {
+      "in_water": "2024-11-24 21:49:32 -0300"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/transformation_boat": {
+    "criteria": {
+      "in_water": "2024-11-24 21:49:32 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-11-24 21:49:32 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-11-24 21:49:32 -0300"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/dark_boat": {
+    "criteria": {
+      "in_water": "2024-11-24 21:49:32 -0300"
+    },
+    "done": true
+  },
+  "justdirethings:recipes/misc/celestigem_hoe-hammer": {
+    "criteria": {
+      "has_the_recipe": "2024-11-24 22:24:32 -0300"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
