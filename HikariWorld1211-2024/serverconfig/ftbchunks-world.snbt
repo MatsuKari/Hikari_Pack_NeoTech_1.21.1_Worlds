@@ -31,6 +31,10 @@
 	# Default: []
 	no_wilderness_dimensions: [ ]
 	
+	# If true, pistons are prevented from pushing/pulling blocks across claims owned by different teams (unless the target claim has public 'edit block' permissions defined). If 'disable_protection' is set to true, this setting is ignored.
+	# Default: true
+	piston_protection: true
+	
 	# When true, standard FTB Chunk explosion protection is applied in protected chunks when the source of the explosion cannot be determined
 	# (Ghast fireballs are a common case - vanilla supplies a null entity source)
 	# Default: true
