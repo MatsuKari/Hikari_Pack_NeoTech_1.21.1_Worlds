@@ -1,0 +1,146 @@
+{
+  "apothic_spawners:capturing": {
+    "criteria": {
+      "egg": "2025-01-23 21:26:26 -0300"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/magnet_card": {
+    "criteria": {
+      "has_wct": "2025-01-23 21:26:26 -0300"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_pattern_encoding_terminal": {
+    "criteria": {
+      "has_wt": "2025-01-23 21:26:26 -0300"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/upgrade_crafting": {
+    "criteria": {
+      "has_wct": "2025-01-23 21:26:26 -0300"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/ce": {
+    "criteria": {
+      "has_wpt": "2025-01-23 21:26:26 -0300",
+      "has_wct": "2025-01-23 21:26:26 -0300"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/ca": {
+    "criteria": {
+      "has_wit": "2025-01-23 21:26:26 -0300",
+      "has_wct": "2025-01-23 21:26:26 -0300"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/upgrade_pattern_access": {
+    "criteria": {
+      "has_wit": "2025-01-23 21:26:26 -0300"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/upgrade_pattern_encoding": {
+    "criteria": {
+      "has_wpt": "2025-01-23 21:26:26 -0300"
+    },
+    "done": true
+  },
+  "ars_nouveau:root": {
+    "criteria": {
+      "ars_nouveau:worn_notebook": "2025-01-23 21:26:26 -0300"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/quantum_bridge_card": {
+    "criteria": {
+      "has_wit": "2025-01-23 21:26:26 -0300",
+      "has_wpt": "2025-01-23 21:26:26 -0300",
+      "has_wct": "2025-01-23 21:26:26 -0300"
+    },
+    "done": true
+  },
+  "occultism:chalks/root": {
+    "criteria": {
+      "always": "2025-01-23 21:26:26 -0300"
+    },
+    "done": true
+  },
+  "mekanism:root": {
+    "criteria": {
+      "automatic": "2025-01-23 21:26:26 -0300"
+    },
+    "done": true
+  },
+  "occultism:occultism/root": {
+    "criteria": {
+      "occultism_present": "2025-01-23 21:26:26 -0300"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/ae": {
+    "criteria": {
+      "has_wit": "2025-01-23 21:26:26 -0300",
+      "has_wpt": "2025-01-23 21:26:26 -0300"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_pattern_access_terminal": {
+    "criteria": {
+      "has_wt": "2025-01-23 21:26:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:old_growth_birch_forest": "2025-01-23 21:26:27 -0300"
+    },
+    "done": false
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2025-01-23 21:26:27 -0300"
+    },
+    "done": true
+  },
+  "integrateddynamics:root": {
+    "criteria": {
+      "criteria_0": "2025-01-23 21:27:34 -0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-01-23 21:48:21 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-01-23 21:36:48 -0300"
+    },
+    "done": true
+  },
+  "occultism:occultism/summon_marid_crusher": {
+    "criteria": {
+      "summon_marid_crusher": "2025-01-23 21:48:21 -0300"
+    },
+    "done": true
+  },
+  "ars_nouveau:mob_jar": {
+    "criteria": {
+      "has_mob_jar": "2025-01-23 21:43:38 -0300"
+    },
+    "done": true
+  },
+  "integratedtunnels:root": {
+    "criteria": {
+      "criteria_0": "2025-01-23 21:58:01 -0300"
+    },
+    "done": true
+  },
+  "DataVersion": 3955
+}

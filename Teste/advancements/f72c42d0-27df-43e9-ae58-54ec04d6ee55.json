@@ -226,5 +226,29 @@
     },
     "done": true
   },
+  "apothic_spawners:capturing": {
+    "criteria": {
+      "egg": "2025-01-14 17:31:30 -0300"
+    },
+    "done": true
+  },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2025-01-19 11:47:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-01-19 11:47:26 -0300"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-01-19 11:47:26 -0300"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
