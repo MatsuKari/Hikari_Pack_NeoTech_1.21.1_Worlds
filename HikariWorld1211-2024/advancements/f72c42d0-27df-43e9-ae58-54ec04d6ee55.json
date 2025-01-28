@@ -2233,5 +2233,17 @@
     },
     "done": true
   },
+  "mekanism:heat_transport": {
+    "criteria": {
+      "basic_thermodynamic_conductor": "2025-01-26 00:54:12 -0300"
+    },
+    "done": true
+  },
+  "mekanism:chemical_crystallizer": {
+    "criteria": {
+      "chemical_crystallizer": "2025-01-26 14:06:46 -0300"
+    },
+    "done": false
+  },
   "DataVersion": 3955
 }
