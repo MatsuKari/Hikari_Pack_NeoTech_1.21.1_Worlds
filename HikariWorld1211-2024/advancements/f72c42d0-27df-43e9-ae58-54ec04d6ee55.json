@@ -2241,9 +2241,180 @@
   },
   "mekanism:chemical_crystallizer": {
     "criteria": {
+      "chemical_dissolution_chamber": "2025-01-31 20:02:07 -0300",
       "chemical_crystallizer": "2025-01-26 14:06:46 -0300"
     },
     "done": false
+  },
+  "ae2:main/ioport": {
+    "criteria": {
+      "certus": "2025-01-28 21:38:56 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-01-29 00:57:28 -0300"
+    },
+    "done": true
+  },
+  "mekanism:configuration_copying": {
+    "criteria": {
+      "paste": "2025-01-31 19:54:48 -0300",
+      "copy": "2025-01-31 19:54:46 -0300"
+    },
+    "done": true
+  },
+  "mekanism:yellow_cake": {
+    "criteria": {
+      "yellow_cake_uranium": "2025-01-31 19:57:16 -0300"
+    },
+    "done": true
+  },
+  "mekanism:sna": {
+    "criteria": {
+      "solar_neutron_activator": "2025-01-31 20:41:28 -0300"
+    },
+    "done": true
+  },
+  "mekanism:laser": {
+    "criteria": {
+      "laser": "2025-01-31 21:14:37 -0300"
+    },
+    "done": true
+  },
+  "mekanism:auto_collection": {
+    "criteria": {
+      "laser_tractor_beam": "2025-01-31 21:17:51 -0300"
+    },
+    "done": true
+  },
+  "mekanism:chemical_transport": {
+    "criteria": {
+      "basic_pressurized_tube": "2025-01-31 22:00:35 -0300"
+    },
+    "done": true
+  },
+  "mekanism:waste_removal": {
+    "criteria": {
+      "radioactive_waste_barrel": "2025-01-31 22:02:52 -0300"
+    },
+    "done": true
+  },
+  "mekanism:polonium": {
+    "criteria": {
+      "pellet_polonium": "2025-02-01 11:18:17 -0300"
+    },
+    "done": true
+  },
+  "mekanism:pump": {
+    "criteria": {
+      "electric_pump": "2025-02-01 13:13:28 -0300"
+    },
+    "done": true
+  },
+  "mekanism:plutonium": {
+    "criteria": {
+      "pellet_plutonium": "2025-02-01 14:04:52 -0300"
+    },
+    "done": true
+  },
+  "mekanism:radiation_poisoning": {
+    "criteria": {
+      "poisoned": "2025-02-03 14:31:44 -0300"
+    },
+    "done": true
+  },
+  "mekanism:sps": {
+    "criteria": {
+      "sps_casing": "2025-02-03 18:16:04 -0300",
+      "sps_port": "2025-02-03 18:28:30 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2025-02-05 12:11:25 -0300"
+    },
+    "done": true
+  },
+  "apothic_spawners:ultimate_spawner": {
+    "criteria": {
+      "modifier": "2025-02-05 14:30:30 -0300"
+    },
+    "done": true
+  },
+  "apothic_spawners:players": {
+    "criteria": {
+      "modifier": "2025-02-05 14:30:30 -0300"
+    },
+    "done": true
+  },
+  "mekanism:qio_drive_array": {
+    "criteria": {
+      "qio_drive_array": "2025-02-06 20:49:51 -0300"
+    },
+    "done": true
+  },
+  "mekanism:ultimate_qio_drive": {
+    "criteria": {
+      "qio_drive_supermassive": "2025-02-06 20:59:25 -0300"
+    },
+    "done": true
+  },
+  "mekanism:advanced_qio_drive": {
+    "criteria": {
+      "qio_drive_hyper_dense": "2025-02-06 21:00:21 -0300"
+    },
+    "done": true
+  },
+  "mekanism:basic_qio_drive": {
+    "criteria": {
+      "qio_drive_base": "2025-02-06 21:00:31 -0300"
+    },
+    "done": true
+  },
+  "mekanism:elite_qio_drive": {
+    "criteria": {
+      "qio_drive_time_dilating": "2025-02-06 21:00:40 -0300"
+    },
+    "done": true
+  },
+  "mekanism:qio_importer": {
+    "criteria": {
+      "qio_importer": "2025-02-06 21:02:07 -0300"
+    },
+    "done": true
+  },
+  "mekanism:qio_exporter": {
+    "criteria": {
+      "qio_exporter": "2025-02-06 21:02:56 -0300"
+    },
+    "done": true
+  },
+  "mekanism:qio_dashboard": {
+    "criteria": {
+      "qio_dashboard": "2025-02-06 21:03:40 -0300"
+    },
+    "done": true
+  },
+  "mekanism:portable_qio_dashboard": {
+    "criteria": {
+      "portable_qio_dashboard": "2025-02-06 21:04:13 -0300"
+    },
+    "done": true
+  },
+  "mekanism:modification_station": {
+    "criteria": {
+      "modification_station": "2025-02-07 20:54:54 -0300"
+    },
+    "done": true
+  },
+  "mekanism:antimatter": {
+    "criteria": {
+      "pellet_antimatter": "2025-02-07 21:11:50 -0300"
+    },
+    "done": true
   },
   "DataVersion": 3955
 }
