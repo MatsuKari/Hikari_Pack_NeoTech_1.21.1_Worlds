@@ -307,6 +307,7 @@
       "minecraft:ghast": "2024-12-03 22:39:26 -0300",
       "minecraft:ender_dragon": "2024-11-13 23:31:23 -0300",
       "minecraft:shulker": "2024-11-11 21:04:34 -0300",
+      "minecraft:piglin": "2025-02-10 22:55:35 -0300",
       "minecraft:guardian": "2025-01-20 15:37:28 -0300",
       "minecraft:enderman": "2024-11-06 00:00:24 -0300",
       "minecraft:magma_cube": "2024-11-13 23:13:35 -0300",
@@ -1413,9 +1414,14 @@
   },
   "apotheosis:progression/summit": {
     "criteria": {
-      "kill_wither": "2025-01-20 00:24:42 -0300"
+      "kill_wither": "2025-01-20 00:24:42 -0300",
+      "rare_chest": "2025-02-10 22:59:02 -0300",
+      "rare_legs": "2025-02-10 22:59:03 -0300",
+      "rare_hand": "2025-02-10 22:57:11 -0300",
+      "rare_helm": "2025-02-10 22:59:02 -0300",
+      "rare_feet": "2025-02-10 23:02:53 -0300"
     },
-    "done": false
+    "done": true
   },
   "occultism:occultism/craft_witherite_dust": {
     "criteria": {
@@ -2413,6 +2419,50 @@
   "mekanism:antimatter": {
     "criteria": {
       "pellet_antimatter": "2025-02-07 21:11:50 -0300"
+    },
+    "done": true
+  },
+  "apothic_enchanting:enchanter": {
+    "criteria": {
+      "enchanting_table": "2025-02-08 23:05:15 -0300"
+    },
+    "done": true
+  },
+  "twilightforest:fiery_set": {
+    "criteria": {
+      "fiery_boots": "2025-02-10 23:03:36 -0300"
+    },
+    "done": false
+  },
+  "apotheosis:progression/ascent": {
+    "criteria": {
+      "uncommon_legs": "2025-02-10 22:50:47 -0300",
+      "uncommon_chest": "2025-02-10 22:50:40 -0300",
+      "kill_apothic_invader": "2025-02-10 22:55:35 -0300",
+      "uncommon_hand": "2025-02-10 22:49:28 -0300",
+      "uncommon_helm": "2025-02-10 22:50:26 -0300",
+      "uncommon_feet": "2025-02-10 22:50:53 -0300"
+    },
+    "done": true
+  },
+  "apotheosis:progression/pinnacle": {
+    "criteria": {
+      "epic_legs": "2025-02-10 23:06:42 -0300",
+      "epic_feet": "2025-02-10 23:06:38 -0300",
+      "epic_hand": "2025-02-10 23:04:09 -0300",
+      "epic_helm": "2025-02-10 22:59:02 -0300",
+      "kill_ender_dragon": "2025-02-10 23:09:00 -0300",
+      "epic_chest": "2025-02-10 23:06:42 -0300"
+    },
+    "done": true
+  },
+  "apotheosis:progression/frontier": {
+    "criteria": {
+      "common_helm": "2025-02-10 22:50:26 -0300",
+      "common_hand": "2025-02-10 22:49:28 -0300",
+      "common_chest": "2025-02-10 22:50:40 -0300",
+      "common_legs": "2025-02-10 22:50:47 -0300",
+      "common_feet": "2025-02-10 22:50:53 -0300"
     },
     "done": true
   },
