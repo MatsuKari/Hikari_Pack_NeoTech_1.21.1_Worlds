@@ -250,5 +250,23 @@
     },
     "done": true
   },
+  "apothic_enchanting:enchanter": {
+    "criteria": {
+      "enchanting_table": "2025-02-11 21:50:41 -0300"
+    },
+    "done": true
+  },
+  "apothic_enchanting:upgrade_endshelf": {
+    "criteria": {
+      "draconic": "2025-02-11 21:48:14 -0300"
+    },
+    "done": true
+  },
+  "apothic_enchanting:sculkshelf": {
+    "criteria": {
+      "echoing": "2025-02-11 21:47:41 -0300"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }

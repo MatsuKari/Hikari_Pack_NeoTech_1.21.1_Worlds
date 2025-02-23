@@ -2428,12 +2428,6 @@
     },
     "done": true
   },
-  "twilightforest:fiery_set": {
-    "criteria": {
-      "fiery_boots": "2025-02-10 23:03:36 -0300"
-    },
-    "done": false
-  },
   "apotheosis:progression/ascent": {
     "criteria": {
       "uncommon_legs": "2025-02-10 22:50:47 -0300",
@@ -2442,6 +2436,16 @@
       "uncommon_hand": "2025-02-10 22:49:28 -0300",
       "uncommon_helm": "2025-02-10 22:50:26 -0300",
       "uncommon_feet": "2025-02-10 22:50:53 -0300"
+    },
+    "done": true
+  },
+  "apotheosis:progression/frontier": {
+    "criteria": {
+      "common_helm": "2025-02-10 22:50:26 -0300",
+      "common_hand": "2025-02-10 22:49:28 -0300",
+      "common_chest": "2025-02-10 22:50:40 -0300",
+      "common_legs": "2025-02-10 22:50:47 -0300",
+      "common_feet": "2025-02-10 22:50:53 -0300"
     },
     "done": true
   },
@@ -2456,13 +2460,33 @@
     },
     "done": true
   },
-  "apotheosis:progression/frontier": {
+  "twilightforest:fiery_set": {
     "criteria": {
-      "common_helm": "2025-02-10 22:50:26 -0300",
-      "common_hand": "2025-02-10 22:49:28 -0300",
-      "common_chest": "2025-02-10 22:50:40 -0300",
-      "common_legs": "2025-02-10 22:50:47 -0300",
-      "common_feet": "2025-02-10 22:50:53 -0300"
+      "fiery_boots": "2025-02-10 23:03:36 -0300"
+    },
+    "done": false
+  },
+  "apothic_enchanting:bookshelf": {
+    "criteria": {
+      "bookshelf": "2025-02-15 17:18:38 -0300"
+    },
+    "done": true
+  },
+  "apothic_enchanting:hellshelf": {
+    "criteria": {
+      "hellshelf": "2025-02-15 17:20:55 -0300"
+    },
+    "done": true
+  },
+  "apothic_enchanting:30ench": {
+    "criteria": {
+      "enchanted_item": "2025-02-16 00:05:35 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-02-16 00:05:35 -0300"
     },
     "done": true
   },
