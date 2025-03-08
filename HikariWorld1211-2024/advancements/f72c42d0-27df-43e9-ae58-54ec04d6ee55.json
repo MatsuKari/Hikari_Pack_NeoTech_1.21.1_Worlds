@@ -309,6 +309,7 @@
       "minecraft:shulker": "2024-11-11 21:04:34 -0300",
       "minecraft:piglin": "2025-02-10 22:55:35 -0300",
       "minecraft:guardian": "2025-01-20 15:37:28 -0300",
+      "minecraft:breeze": "2025-03-08 18:30:45 -0300",
       "minecraft:enderman": "2024-11-06 00:00:24 -0300",
       "minecraft:magma_cube": "2024-11-13 23:13:35 -0300",
       "minecraft:spider": "2024-11-05 23:34:33 -0300",
@@ -2487,6 +2488,108 @@
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-02-16 00:05:35 -0300"
+    },
+    "done": true
+  },
+  "apothic_enchanting:upgrade_hellshelf": {
+    "criteria": {
+      "glowing": "2025-02-22 22:43:08 -0300"
+    },
+    "done": true
+  },
+  "apothic_enchanting:enchanting_stats": {
+    "criteria": {
+      "enchanted_item": "2025-02-22 23:18:36 -0300"
+    },
+    "done": true
+  },
+  "apothic_enchanting:seashelf": {
+    "criteria": {
+      "seashelf": "2025-02-22 23:25:58 -0300"
+    },
+    "done": true
+  },
+  "apothic_enchanting:upgrade_seashelf": {
+    "criteria": {
+      "heart": "2025-02-22 23:26:28 -0300"
+    },
+    "done": true
+  },
+  "apothic_enchanting:60ench": {
+    "criteria": {
+      "enchanted_item": "2025-02-22 23:27:08 -0300"
+    },
+    "done": true
+  },
+  "apothic_enchanting:deepshelf": {
+    "criteria": {
+      "deepshelf": "2025-02-22 23:31:26 -0300"
+    },
+    "done": true
+  },
+  "apothic_enchanting:sculkshelf": {
+    "criteria": {
+      "echoing": "2025-02-22 23:40:16 -0300"
+    },
+    "done": true
+  },
+  "apothic_enchanting:arcana50": {
+    "criteria": {
+      "enchanted_item": "2025-02-22 23:44:19 -0300"
+    },
+    "done": true
+  },
+  "apothic_enchanting:quanta50": {
+    "criteria": {
+      "enchanted_item": "2025-02-22 23:46:39 -0300"
+    },
+    "done": true
+  },
+  "apothic_enchanting:arcana100": {
+    "criteria": {
+      "enchanted_item": "2025-02-22 23:53:37 -0300"
+    },
+    "done": true
+  },
+  "apothic_enchanting:80ench": {
+    "criteria": {
+      "enchanted_item": "2025-02-23 00:05:06 -0300"
+    },
+    "done": true
+  },
+  "apothic_enchanting:quanta100": {
+    "criteria": {
+      "enchanted_item": "2025-02-23 00:05:38 -0300"
+    },
+    "done": true
+  },
+  "apothic_enchanting:endshelf": {
+    "criteria": {
+      "endshelf": "2025-02-23 00:34:01 -0300"
+    },
+    "done": true
+  },
+  "apothic_enchanting:upgrade_endshelf": {
+    "criteria": {
+      "draconic": "2025-02-23 00:37:07 -0300"
+    },
+    "done": true
+  },
+  "apothic_enchanting:max_stats": {
+    "criteria": {
+      "enchanted_item": "2025-02-23 01:00:39 -0300"
+    },
+    "done": true
+  },
+  "apothic_enchanting:100ench": {
+    "criteria": {
+      "enchanted_item": "2025-02-23 01:05:05 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-03-03 23:40:00 -0300"
     },
     "done": true
   },
