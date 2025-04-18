@@ -250,9 +250,9 @@
     },
     "done": true
   },
-  "apothic_enchanting:enchanter": {
+  "apothic_enchanting:sculkshelf": {
     "criteria": {
-      "enchanting_table": "2025-02-11 21:50:41 -0300"
+      "echoing": "2025-02-11 21:47:41 -0300"
     },
     "done": true
   },
@@ -262,9 +262,27 @@
     },
     "done": true
   },
-  "apothic_enchanting:sculkshelf": {
+  "apothic_enchanting:enchanter": {
     "criteria": {
-      "echoing": "2025-02-11 21:47:41 -0300"
+      "enchanting_table": "2025-02-11 21:50:41 -0300"
+    },
+    "done": true
+  },
+  "tombstone:adventure/easter": {
+    "criteria": {
+      "coded_trigger": "2025-04-17 22:30:10 -0300"
+    },
+    "done": true
+  },
+  "apotheosis:progression/root": {
+    "criteria": {
+      "tick": "2025-04-17 22:30:11 -0300"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2025-04-17 23:25:36 -0300"
     },
     "done": true
   },

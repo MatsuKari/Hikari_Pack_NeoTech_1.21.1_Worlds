@@ -99,6 +99,7 @@
       "minecraft:cold_ocean": "2024-11-18 21:36:09 -0300",
       "minecraft:mushroom_fields": "2024-11-11 21:30:07 -0300",
       "minecraft:forest": "2024-11-04 21:38:52 -0300",
+      "minecraft:taiga": "2025-04-18 00:50:08 -0300",
       "minecraft:deep_ocean": "2024-11-17 20:52:16 -0300",
       "minecraft:lush_caves": "2024-11-09 17:42:10 -0300",
       "minecraft:deep_cold_ocean": "2024-12-08 00:47:29 -0300",
@@ -111,6 +112,7 @@
       "minecraft:sunflower_plains": "2024-11-19 22:03:02 -0300",
       "minecraft:cherry_grove": "2024-12-06 20:12:29 -0300",
       "minecraft:birch_forest": "2025-01-18 23:20:51 -0300",
+      "minecraft:windswept_hills": "2025-04-18 00:49:41 -0300",
       "minecraft:snowy_beach": "2024-12-08 00:48:53 -0300",
       "minecraft:bamboo_jungle": "2025-01-18 23:11:06 -0300",
       "minecraft:warm_ocean": "2024-11-18 21:39:13 -0300",
@@ -2180,12 +2182,6 @@
     },
     "done": true
   },
-  "apotheosis:progression/root": {
-    "criteria": {
-      "affixed": "2025-01-21 18:30:31 -0300"
-    },
-    "done": true
-  },
   "minecraft:husbandry/fishy_business": {
     "criteria": {
       "pufferfish": "2025-01-21 18:40:18 -0300"
@@ -2590,6 +2586,30 @@
   "minecraft:adventure/kill_mob_near_sculk_catalyst": {
     "criteria": {
       "kill_mob_near_sculk_catalyst": "2025-03-03 23:40:00 -0300"
+    },
+    "done": true
+  },
+  "tombstone:adventure/easter": {
+    "criteria": {
+      "coded_trigger": "2025-03-30 22:35:26 -0300"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2025-04-17 23:42:37 -0300"
+    },
+    "done": true
+  },
+  "apotheosis:progression/root": {
+    "criteria": {
+      "tick": "2025-04-17 23:42:38 -0300"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_easter_egg": {
+    "criteria": {
+      "coded_trigger": "2025-04-18 00:55:37 -0300"
     },
     "done": true
   },
