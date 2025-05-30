@@ -2613,5 +2613,23 @@
     },
     "done": true
   },
+  "tombstone:recipe/dust_of_frost": {
+    "criteria": {
+      "has_ingredient": "2025-05-25 01:54:52 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/dust_of_vanishing": {
+    "criteria": {
+      "has_ingredient": "2025-05-25 01:54:52 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/smoke_ball": {
+    "criteria": {
+      "has_ingredient": "2025-05-25 01:54:52 -0300"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }

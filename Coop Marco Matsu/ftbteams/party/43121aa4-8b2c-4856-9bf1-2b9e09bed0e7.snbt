@@ -1,0 +1,34 @@
+{
+	id: "43121aa4-8b2c-4856-9bf1-2b9e09bed0e7"
+	type: "party"
+	owner: "f72c42d0-27df-43e9-ae58-54ec04d6ee55"
+	ranks: {
+		2d1a5e9d-cc98-4b59-bbed-b49f1d0da59a: "member"
+		f72c42d0-27df-43e9-ae58-54ec04d6ee55: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Matsu & Marco"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59C7FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_mob_griefing": 0b
+		"ftbchunks:allow_fake_players": 0b
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:allow_pvp": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1746057151356L, text: "{\"translate\":\"ftbteams.message.joined\",\"with\":[\"MatsuKari\"],\"color\":\"yellow\"}" }
+		{ from: "f72c42d0-27df-43e9-ae58-54ec04d6ee55", date: 1746057151376L, text: "{\"translate\":\"ftbteams.message.invited\",\"with\":[{\"text\":\"MARCOSVINI2020\",\"color\":\"yellow\"}],\"color\":\"green\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1746057194890L, text: "{\"translate\":\"ftbteams.message.joined\",\"with\":[\"MARCOSVINI2020\"],\"color\":\"green\"}" }
+	]
+	extra: { }
+}
