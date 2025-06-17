@@ -104,6 +104,7 @@
     "criteria": {
       "minecraft:beach": "2025-05-25 00:13:16 -0300",
       "minecraft:desert": "2025-05-24 23:34:13 -0300",
+      "minecraft:mushroom_fields": "2025-05-31 21:58:09 -0300",
       "minecraft:forest": "2025-05-24 23:06:07 -0300",
       "minecraft:sparse_jungle": "2025-05-04 20:10:46 -0300",
       "minecraft:river": "2025-05-24 23:05:59 -0300",
@@ -339,8 +340,10 @@
       "minecraft:blaze": "2025-05-25 14:09:11 -0300",
       "minecraft:skeleton": "2025-05-25 16:01:23 -0300",
       "minecraft:enderman": "2025-05-25 15:56:06 -0300",
+      "minecraft:witch": "2025-05-31 21:47:26 -0300",
       "minecraft:spider": "2025-05-27 20:34:46 -0300",
-      "minecraft:zombie": "2025-05-25 16:01:19 -0300"
+      "minecraft:zombie": "2025-05-25 16:01:19 -0300",
+      "minecraft:creeper": "2025-05-31 21:44:17 -0300"
     },
     "done": false
   },
@@ -428,21 +431,9 @@
     },
     "done": true
   },
-  "tombstone:recipe/fishing_rod_of_misadventure": {
+  "mekanism:installer": {
     "criteria": {
-      "has_ingredient": "2025-05-29 18:58:31 -0300"
-    },
-    "done": true
-  },
-  "mekanism:alloy_upgrading": {
-    "criteria": {
-      "upgrade": "2025-05-29 18:01:07 -0300"
-    },
-    "done": true
-  },
-  "tombstone:recipe/grave_plate": {
-    "criteria": {
-      "has_ingredient": "2025-05-29 18:58:31 -0300"
+      "installer": "2025-05-29 17:55:58 -0300"
     },
     "done": true
   },
@@ -452,9 +443,39 @@
     },
     "done": true
   },
-  "tombstone:adventure/find_grave_dust": {
+  "mekanism:alloy_upgrading": {
     "criteria": {
-      "from_undead": "2025-05-29 18:58:31 -0300"
+      "upgrade": "2025-05-29 18:01:07 -0300"
+    },
+    "done": true
+  },
+  "silentgear:stone_anvil": {
+    "criteria": {
+      "get_item": "2025-05-29 18:41:16 -0300"
+    },
+    "done": true
+  },
+  "silentgear:crude_knife": {
+    "criteria": {
+      "get_item": "2025-05-29 18:41:38 -0300"
+    },
+    "done": true
+  },
+  "silentgear:template_board": {
+    "criteria": {
+      "get_item": "2025-05-29 18:42:25 -0300"
+    },
+    "done": true
+  },
+  "silentgear:blueprint_book": {
+    "criteria": {
+      "get_item": "2025-05-29 18:50:49 -0300"
+    },
+    "done": true
+  },
+  "apothic_enchanting:bookshelf": {
+    "criteria": {
+      "bookshelf": "2025-05-29 18:51:27 -0300"
     },
     "done": true
   },
@@ -464,9 +485,21 @@
     },
     "done": true
   },
-  "silentgear:blueprint_book": {
+  "tombstone:recipe/fishing_rod_of_misadventure": {
     "criteria": {
-      "get_item": "2025-05-29 18:50:49 -0300"
+      "has_ingredient": "2025-05-29 18:58:31 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/grave_plate": {
+    "criteria": {
+      "has_ingredient": "2025-05-29 18:58:31 -0300"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-05-29 18:58:31 -0300"
     },
     "done": true
   },
@@ -482,27 +515,9 @@
     },
     "done": true
   },
-  "apothic_enchanting:bookshelf": {
-    "criteria": {
-      "bookshelf": "2025-05-29 18:51:27 -0300"
-    },
-    "done": true
-  },
   "tombstone:recipe/bone_needle": {
     "criteria": {
       "has_ingredient": "2025-05-29 18:58:31 -0300"
-    },
-    "done": true
-  },
-  "silentgear:template_board": {
-    "criteria": {
-      "get_item": "2025-05-29 18:42:25 -0300"
-    },
-    "done": true
-  },
-  "silentgear:crude_knife": {
-    "criteria": {
-      "get_item": "2025-05-29 18:41:38 -0300"
     },
     "done": true
   },
@@ -515,12 +530,6 @@
   "tombstone:recipe/ankh_of_prayer": {
     "criteria": {
       "has_ingredient": "2025-05-29 18:58:31 -0300"
-    },
-    "done": true
-  },
-  "mekanism:installer": {
-    "criteria": {
-      "installer": "2025-05-29 17:55:58 -0300"
     },
     "done": true
   },
@@ -542,18 +551,6 @@
     },
     "done": true
   },
-  "silentgear:stone_anvil": {
-    "criteria": {
-      "get_item": "2025-05-29 18:41:16 -0300"
-    },
-    "done": true
-  },
-  "tombstone:adventure/ashes_and_bones": {
-    "criteria": {
-      "coded_trigger": "2025-05-29 18:58:55 -0300"
-    },
-    "done": true
-  },
   "tombstone:recipe/green_marble": {
     "criteria": {
       "has_ingredient": "2025-05-29 18:58:31 -0300"
@@ -569,6 +566,210 @@
   "tombstone:recipe/white_marble": {
     "criteria": {
       "has_ingredient": "2025-05-29 18:58:31 -0300"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-05-29 18:58:55 -0300"
+    },
+    "done": true
+  },
+  "mekanism:advanced_control_circuit": {
+    "criteria": {
+      "advanced_control_circuit": "2025-05-30 21:13:09 -0300"
+    },
+    "done": true
+  },
+  "mekanism:reinforced_alloy": {
+    "criteria": {
+      "alloy_reinforced": "2025-05-30 21:45:27 -0300"
+    },
+    "done": true
+  },
+  "mekanism:atomic_alloy": {
+    "criteria": {
+      "alloy_atomic": "2025-05-30 21:45:31 -0300"
+    },
+    "done": true
+  },
+  "mekanism:disassembler": {
+    "criteria": {
+      "atomic_disassembler": "2025-05-30 21:48:25 -0300"
+    },
+    "done": true
+  },
+  "mekanismtools:better_than_netherite": {
+    "criteria": {
+      "armor": "2025-05-30 22:03:12 -0300"
+    },
+    "done": true
+  },
+  "integrateddynamics:meneglin_basics/squeezing": {
+    "criteria": {
+      "criteria_0": "2025-05-30 22:54:44 -0300"
+    },
+    "done": true
+  },
+  "trashcans:trash_can": {
+    "criteria": {
+      "has_item_trash_can": "2025-05-30 23:05:17 -0300"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-05-31 21:47:26 -0300"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-05-31 21:51:55 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-05-31 22:13:01 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/dark_marble_stairs": {
+    "criteria": {
+      "has_ingredient": "2025-05-31 22:22:21 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/black_grave_cross": {
+    "criteria": {
+      "has_ingredient": "2025-05-31 22:22:21 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/black_tombstone": {
+    "criteria": {
+      "has_ingredient": "2025-05-31 22:22:21 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/black_grave_simple": {
+    "criteria": {
+      "has_ingredient": "2025-05-31 22:22:21 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/dark_marble_slab": {
+    "criteria": {
+      "has_ingredient": "2025-05-31 22:22:21 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/black_subaraki_grave": {
+    "criteria": {
+      "has_ingredient": "2025-05-31 22:22:21 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/black_grave_normal": {
+    "criteria": {
+      "has_ingredient": "2025-05-31 22:22:21 -0300"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_grave_marble": {
+    "criteria": {
+      "has_grave_marble": "2025-05-31 22:22:21 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/black_grave_original": {
+    "criteria": {
+      "has_ingredient": "2025-05-31 22:22:21 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/dark_marble_wall": {
+    "criteria": {
+      "has_ingredient": "2025-05-31 22:22:21 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/book_of_oblivion": {
+    "criteria": {
+      "has_ingredient": "2025-05-31 22:22:27 -0300"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_decorative_grave": {
+    "criteria": {
+      "has_decorative_grave": "2025-05-31 22:22:27 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/voodoo_poppet": {
+    "criteria": {
+      "has_ingredient": "2025-05-31 22:22:27 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/book_of_repairing": {
+    "criteria": {
+      "has_ingredient": "2025-05-31 22:22:27 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/strange_scroll": {
+    "criteria": {
+      "has_ingredient": "2025-05-31 22:22:27 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/strange_tablet": {
+    "criteria": {
+      "has_ingredient": "2025-05-31 22:22:27 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/book_of_disenchantment": {
+    "criteria": {
+      "has_ingredient": "2025-05-31 22:22:27 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/book_of_soulbound": {
+    "criteria": {
+      "has_ingredient": "2025-05-31 22:22:27 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/book_of_scribe": {
+    "criteria": {
+      "has_ingredient": "2025-05-31 22:22:27 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/book_of_magic_impregnation": {
+    "criteria": {
+      "has_ingredient": "2025-05-31 22:22:27 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/book_of_recycling": {
+    "criteria": {
+      "has_ingredient": "2025-05-31 22:22:27 -0300"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_disenchantment": {
+    "criteria": {
+      "coded_trigger": "2025-05-31 22:25:19 -0300"
+    },
+    "done": true
+  },
+  "tombstone:adventure/consume_soul": {
+    "criteria": {
+      "coded_trigger": "2025-05-31 22:25:19 -0300"
     },
     "done": true
   },
