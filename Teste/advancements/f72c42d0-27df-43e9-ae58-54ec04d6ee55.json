@@ -286,5 +286,23 @@
     },
     "done": true
   },
+  "mekanism:digital_miner": {
+    "criteria": {
+      "digital_miner": "2025-06-26 17:33:47 -0300"
+    },
+    "done": true
+  },
+  "mekanism:fluid_transport": {
+    "criteria": {
+      "basic_mechanical_pipe": "2025-06-28 12:37:45 -0300"
+    },
+    "done": true
+  },
+  "silentgear:crimson_steel": {
+    "criteria": {
+      "get_item": "2025-06-28 12:38:53 -0300"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
