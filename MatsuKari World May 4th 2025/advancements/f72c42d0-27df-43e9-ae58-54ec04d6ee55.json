@@ -334,15 +334,18 @@
     "criteria": {
       "minecraft:blaze": "2025-05-25 14:09:11 -0300",
       "minecraft:skeleton": "2025-05-25 16:01:23 -0300",
+      "minecraft:phantom": "2025-07-14 21:43:51 -0300",
       "minecraft:witch": "2025-05-31 21:47:26 -0300",
       "minecraft:wither_skeleton": "2025-06-22 13:51:30 -0300",
       "minecraft:husk": "2025-06-21 19:40:28 -0300",
       "minecraft:ghast": "2025-06-22 12:57:33 -0300",
       "minecraft:ender_dragon": "2025-06-22 13:14:35 -0300",
       "minecraft:shulker": "2025-06-24 19:55:13 -0300",
+      "minecraft:piglin": "2025-07-15 21:44:15 -0300",
       "minecraft:enderman": "2025-05-25 15:56:06 -0300",
       "minecraft:magma_cube": "2025-06-28 14:15:36 -0300",
       "minecraft:spider": "2025-05-27 20:34:46 -0300",
+      "minecraft:piglin_brute": "2025-07-15 21:53:06 -0300",
       "minecraft:zombie": "2025-05-25 16:01:19 -0300",
       "minecraft:creeper": "2025-05-31 21:44:17 -0300",
       "minecraft:wither": "2025-06-22 14:17:18 -0300"
@@ -1082,6 +1085,138 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_chestplate": "2025-06-28 17:06:41 -0300"
+    },
+    "done": true
+  },
+  "tombstone:adventure/almost_unkillable": {
+    "criteria": {
+      "coded_trigger": "2025-07-12 19:29:03 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-07-12 19:48:01 -0300"
+    },
+    "done": true
+  },
+  "mekanism:ultimate_control_circuit": {
+    "criteria": {
+      "ultimate_control_circuit": "2025-07-12 20:54:04 -0300"
+    },
+    "done": true
+  },
+  "apothic_spawners:maxdelay": {
+    "criteria": {
+      "modifier": "2025-07-12 21:18:37 -0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/uneasy_alliance": {
+    "criteria": {
+      "killed_ghast": "2025-07-12 21:29:09 -0300"
+    },
+    "done": true
+  },
+  "minecraft:end/respawn_dragon": {
+    "criteria": {
+      "summoned_dragon": "2025-07-12 21:33:29 -0300"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2025-07-12 21:34:09 -0300"
+    },
+    "done": true
+  },
+  "occultism:chalks/yellow": {
+    "criteria": {
+      "chalk_gold": "2025-07-12 22:40:16 -0300"
+    },
+    "done": true
+  },
+  "occultism:chalks/white": {
+    "criteria": {
+      "chalk_white": "2025-07-12 22:40:21 -0300"
+    },
+    "done": true
+  },
+  "occultism:occultism/possess_phantom": {
+    "criteria": {
+      "possess_phantom": "2025-07-12 23:04:44 -0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-07-12 23:45:43 -0300"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2025-07-14 20:49:03 -0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-07-15 21:43:27 -0300"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-07-15 21:44:07 -0300"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2025-07-15 21:44:07 -0300"
+    },
+    "done": false
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-07-15 21:44:07 -0300"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-07-15 21:45:34 -0300"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "opened_10": "2025-07-15 21:58:15 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-07-15 22:28:50 -0300"
+    },
+    "done": true
+  },
+  "constructionstick:iron_stick": {
+    "criteria": {
+      "iron_stick": "2025-07-20 15:25:01 -0300"
+    },
+    "done": true
+  },
+  "constructionstick:template_battery": {
+    "criteria": {
+      "template_battery": "2025-07-20 15:48:10 -0300"
+    },
+    "done": true
+  },
+  "constructionstick:template_angel": {
+    "criteria": {
+      "template_angel": "2025-07-20 15:49:13 -0300"
     },
     "done": true
   },
