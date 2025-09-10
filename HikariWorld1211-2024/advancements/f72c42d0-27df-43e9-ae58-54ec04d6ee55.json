@@ -1,78 +1,13 @@
 {
-  "ae2wtlib:recipe/wireless_universal_terminal/upgrade_pattern_encoding": {
-    "criteria": {
-      "has_wpt": "2024-11-04 21:00:48 -0300"
-    },
-    "done": true
-  },
-  "ae2wtlib:recipe/wireless_universal_terminal/upgrade_pattern_access": {
-    "criteria": {
-      "has_wit": "2024-11-04 21:00:49 -0300"
-    },
-    "done": true
-  },
   "mekanism:root": {
     "criteria": {
       "automatic": "2024-11-04 21:00:49 -0300"
     },
     "done": true
   },
-  "ae2wtlib:recipe/wireless_pattern_encoding_terminal": {
-    "criteria": {
-      "has_wt": "2024-11-04 21:00:49 -0300"
-    },
-    "done": true
-  },
-  "ae2wtlib:recipe/wireless_universal_terminal/upgrade_crafting": {
-    "criteria": {
-      "has_wct": "2024-11-04 21:00:49 -0300"
-    },
-    "done": true
-  },
-  "ae2wtlib:recipe/magnet_card": {
-    "criteria": {
-      "has_wct": "2024-11-04 21:00:49 -0300"
-    },
-    "done": true
-  },
-  "ae2wtlib:recipe/wireless_pattern_access_terminal": {
-    "criteria": {
-      "has_wt": "2024-11-04 21:00:49 -0300"
-    },
-    "done": true
-  },
-  "ae2wtlib:recipe/quantum_bridge_card": {
-    "criteria": {
-      "has_wit": "2024-11-04 21:00:49 -0300",
-      "has_wpt": "2024-11-04 21:00:49 -0300",
-      "has_wct": "2024-11-04 21:00:49 -0300"
-    },
-    "done": true
-  },
-  "ae2wtlib:recipe/wireless_universal_terminal/ce": {
-    "criteria": {
-      "has_wpt": "2024-11-04 21:00:49 -0300",
-      "has_wct": "2024-11-04 21:00:49 -0300"
-    },
-    "done": true
-  },
-  "ae2wtlib:recipe/wireless_universal_terminal/ca": {
-    "criteria": {
-      "has_wit": "2024-11-04 21:00:49 -0300",
-      "has_wct": "2024-11-04 21:00:49 -0300"
-    },
-    "done": true
-  },
   "ars_nouveau:root": {
     "criteria": {
       "ars_nouveau:worn_notebook": "2024-11-04 21:00:49 -0300"
-    },
-    "done": true
-  },
-  "ae2wtlib:recipe/wireless_universal_terminal/ae": {
-    "criteria": {
-      "has_wit": "2024-11-04 21:00:49 -0300",
-      "has_wpt": "2024-11-04 21:00:49 -0300"
     },
     "done": true
   },
@@ -2604,6 +2539,12 @@
   "lootr:root": {
     "criteria": {
       "always_true": "2025-07-14 20:15:08 -0300"
+    },
+    "done": true
+  },
+  "constructionstick:iron_stick": {
+    "criteria": {
+      "iron_stick": "2025-08-02 22:27:58 -0300"
     },
     "done": true
   },

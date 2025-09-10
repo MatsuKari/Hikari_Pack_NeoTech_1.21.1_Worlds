@@ -1,72 +1,7 @@
 {
-  "ae2wtlib:recipe/wireless_pattern_encoding_terminal": {
-    "criteria": {
-      "has_wt": "2024-11-04 20:03:55 -0300"
-    },
-    "done": true
-  },
-  "ae2wtlib:recipe/magnet_card": {
-    "criteria": {
-      "has_wct": "2024-11-04 20:03:55 -0300"
-    },
-    "done": true
-  },
-  "ae2wtlib:recipe/wireless_pattern_access_terminal": {
-    "criteria": {
-      "has_wt": "2024-11-04 20:03:55 -0300"
-    },
-    "done": true
-  },
-  "ae2wtlib:recipe/wireless_universal_terminal/upgrade_pattern_encoding": {
-    "criteria": {
-      "has_wpt": "2024-11-04 20:03:55 -0300"
-    },
-    "done": true
-  },
-  "ae2wtlib:recipe/quantum_bridge_card": {
-    "criteria": {
-      "has_wit": "2024-11-04 20:03:55 -0300",
-      "has_wpt": "2024-11-04 20:03:55 -0300",
-      "has_wct": "2024-11-04 20:03:55 -0300"
-    },
-    "done": true
-  },
-  "ae2wtlib:recipe/wireless_universal_terminal/ae": {
-    "criteria": {
-      "has_wit": "2024-11-04 20:03:55 -0300",
-      "has_wpt": "2024-11-04 20:03:55 -0300"
-    },
-    "done": true
-  },
-  "ae2wtlib:recipe/wireless_universal_terminal/upgrade_pattern_access": {
-    "criteria": {
-      "has_wit": "2024-11-04 20:03:56 -0300"
-    },
-    "done": true
-  },
   "mekanism:root": {
     "criteria": {
       "automatic": "2024-11-04 20:03:56 -0300"
-    },
-    "done": true
-  },
-  "ae2wtlib:recipe/wireless_universal_terminal/upgrade_crafting": {
-    "criteria": {
-      "has_wct": "2024-11-04 20:03:56 -0300"
-    },
-    "done": true
-  },
-  "ae2wtlib:recipe/wireless_universal_terminal/ce": {
-    "criteria": {
-      "has_wpt": "2024-11-04 20:03:56 -0300",
-      "has_wct": "2024-11-04 20:03:56 -0300"
-    },
-    "done": true
-  },
-  "ae2wtlib:recipe/wireless_universal_terminal/ca": {
-    "criteria": {
-      "has_wit": "2024-11-04 20:03:56 -0300",
-      "has_wct": "2024-11-04 20:03:56 -0300"
     },
     "done": true
   },
@@ -214,18 +149,6 @@
     },
     "done": true
   },
-  "tombstone:adventure/christmas": {
-    "criteria": {
-      "coded_trigger": "2024-12-08 01:00:32 -0300"
-    },
-    "done": true
-  },
-  "tombstone:adventure/mysterious_gift": {
-    "criteria": {
-      "coded_trigger": "2024-12-08 01:00:32 -0300"
-    },
-    "done": true
-  },
   "apothic_spawners:capturing": {
     "criteria": {
       "egg": "2025-01-14 17:31:30 -0300"
@@ -268,12 +191,6 @@
     },
     "done": true
   },
-  "tombstone:adventure/easter": {
-    "criteria": {
-      "coded_trigger": "2025-04-17 22:30:10 -0300"
-    },
-    "done": true
-  },
   "apotheosis:progression/root": {
     "criteria": {
       "tick": "2025-04-17 22:30:11 -0300"
@@ -301,6 +218,107 @@
   "silentgear:crimson_steel": {
     "criteria": {
       "get_item": "2025-06-28 12:38:53 -0300"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2025-08-02 12:59:05 -0300"
+    },
+    "done": true
+  },
+  "silentgear:root": {
+    "criteria": {
+      "get_item": "2025-08-23 16:02:56 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-08-23 16:02:56 -0300"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/magnet_card": {
+    "criteria": {
+      "has_wct": "2025-08-31 08:52:05 -0300"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_pattern_encoding_terminal": {
+    "criteria": {
+      "has_wt": "2025-08-31 08:52:05 -0300"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/upgrade_crafting": {
+    "criteria": {
+      "has_wct": "2025-08-31 08:52:05 -0300"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/ce": {
+    "criteria": {
+      "has_wpt": "2025-08-31 08:52:05 -0300",
+      "has_wct": "2025-08-31 08:52:05 -0300"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/ca": {
+    "criteria": {
+      "has_wit": "2025-08-31 08:52:05 -0300",
+      "has_wct": "2025-08-31 08:52:05 -0300"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/upgrade_pattern_access": {
+    "criteria": {
+      "has_wit": "2025-08-31 08:52:05 -0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-08-31 08:54:53 -0300"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/upgrade_pattern_encoding": {
+    "criteria": {
+      "has_wpt": "2025-08-31 08:52:05 -0300"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/quantum_bridge_card": {
+    "criteria": {
+      "has_wit": "2025-08-31 08:52:05 -0300",
+      "has_wpt": "2025-08-31 08:52:05 -0300",
+      "has_wct": "2025-08-31 08:52:05 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-08-31 08:52:41 -0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-08-31 08:55:37 -0300"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/ae": {
+    "criteria": {
+      "has_wit": "2025-08-31 08:52:05 -0300",
+      "has_wpt": "2025-08-31 08:52:05 -0300"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_pattern_access_terminal": {
+    "criteria": {
+      "has_wt": "2025-08-31 08:52:05 -0300"
     },
     "done": true
   },
