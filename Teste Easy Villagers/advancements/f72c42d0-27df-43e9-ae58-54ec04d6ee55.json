@@ -867,9 +867,45 @@
     },
     "done": true
   },
+  "mekanism:teleportation_core": {
+    "criteria": {
+      "teleportation_core": "2025-09-01 20:59:34 -0300"
+    },
+    "done": true
+  },
+  "mekanism:personal_storage": {
+    "criteria": {
+      "storage": "2025-09-01 21:00:28 -0300"
+    },
+    "done": true
+  },
+  "mekanism:logistical_sorter": {
+    "criteria": {
+      "logistical_sorter": "2025-09-01 21:01:56 -0300"
+    },
+    "done": true
+  },
   "mekanism:digital_miner": {
     "criteria": {
       "digital_miner": "2025-09-01 21:02:05 -0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-09-01 21:10:36 -0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-09-01 21:16:23 -0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_bridge": "2025-09-01 21:17:00 -0300"
     },
     "done": true
   },
@@ -885,33 +921,9 @@
     },
     "done": true
   },
-  "mekanism:personal_storage": {
+  "constructionstick:template_angel": {
     "criteria": {
-      "storage": "2025-09-01 21:00:28 -0300"
-    },
-    "done": true
-  },
-  "minecraft:nether/loot_bastion": {
-    "criteria": {
-      "loot_bastion_bridge": "2025-09-01 21:17:00 -0300"
-    },
-    "done": true
-  },
-  "constructionstick:template_unbreakable": {
-    "criteria": {
-      "template_unbreakable": "2025-09-01 21:40:52 -0300"
-    },
-    "done": true
-  },
-  "minecraft:nether/find_bastion": {
-    "criteria": {
-      "bastion": "2025-09-01 21:16:23 -0300"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_ancient_debris": {
-    "criteria": {
-      "ancient_debris": "2025-09-01 21:10:36 -0300"
+      "template_angel": "2025-09-01 21:31:08 -0300"
     },
     "done": true
   },
@@ -921,27 +933,15 @@
     },
     "done": true
   },
-  "mekanism:logistical_sorter": {
-    "criteria": {
-      "logistical_sorter": "2025-09-01 21:01:56 -0300"
-    },
-    "done": true
-  },
-  "constructionstick:template_angel": {
-    "criteria": {
-      "template_angel": "2025-09-01 21:31:08 -0300"
-    },
-    "done": true
-  },
   "tombstone:adventure/enchant_voodoo_poppet": {
     "criteria": {
       "has_enchanted_voodoo_poppet": "2025-09-01 21:36:51 -0300"
     },
     "done": true
   },
-  "mekanism:teleportation_core": {
+  "constructionstick:template_unbreakable": {
     "criteria": {
-      "teleportation_core": "2025-09-01 20:59:34 -0300"
+      "template_unbreakable": "2025-09-01 21:40:52 -0300"
     },
     "done": true
   },
