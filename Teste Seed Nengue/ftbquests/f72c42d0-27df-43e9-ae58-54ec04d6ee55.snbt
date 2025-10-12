@@ -1,0 +1,22 @@
+{
+	version: 1
+	uuid: "f72c42d027df43e9ae5854ec04d6ee55"
+	name: "MatsuKari#f72c42d0"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		137A8BCBE526AD17: 1
+	}
+	started: {
+		0000000000000001: 1760294418892L
+		2BA73598999659E0: 1760294418892L
+		70F65307F87FA488: 1760294418892L
+		137A8BCBE526AD17: 1760294418892L
+	}
+	completed: {
+		70F65307F87FA488: 1760294418895L
+		137A8BCBE526AD17: 1760294418895L
+	}
+	claimed_rewards: { }
+	player_data: { }
+}

@@ -277,12 +277,6 @@
     },
     "done": true
   },
-  "minecraft:nether/get_wither_skull": {
-    "criteria": {
-      "wither_skull": "2025-08-31 08:54:53 -0300"
-    },
-    "done": true
-  },
   "ae2wtlib:recipe/wireless_universal_terminal/upgrade_pattern_encoding": {
     "criteria": {
       "has_wpt": "2025-08-31 08:52:05 -0300"
@@ -297,18 +291,6 @@
     },
     "done": true
   },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2025-08-31 08:52:41 -0300"
-    },
-    "done": true
-  },
-  "minecraft:nether/summon_wither": {
-    "criteria": {
-      "summoned": "2025-08-31 08:55:37 -0300"
-    },
-    "done": true
-  },
   "ae2wtlib:recipe/wireless_universal_terminal/ae": {
     "criteria": {
       "has_wit": "2025-08-31 08:52:05 -0300",
@@ -319,6 +301,24 @@
   "ae2wtlib:recipe/wireless_pattern_access_terminal": {
     "criteria": {
       "has_wt": "2025-08-31 08:52:05 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-08-31 08:52:41 -0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-08-31 08:54:53 -0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-08-31 08:55:37 -0300"
     },
     "done": true
   },
