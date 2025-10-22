@@ -2,9 +2,7 @@
 	id: "7e91917d-5353-4ad2-8d0b-363ecc00eb19"
 	type: "player"
 	player_name: "xopazaru0343"
-	ranks: {
-		7e91917d-5353-4ad2-8d0b-363ecc00eb19: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "xopazaru0343"
 		"ftbteams:description": ""

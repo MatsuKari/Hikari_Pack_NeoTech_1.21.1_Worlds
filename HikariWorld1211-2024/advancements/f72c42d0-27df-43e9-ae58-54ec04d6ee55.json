@@ -2613,5 +2613,47 @@
     },
     "done": true
   },
+  "vanilla_refresh:player/hurt": {
+    "criteria": {
+      "requirement": "2025-10-18 15:34:54 -0300"
+    },
+    "done": true
+  },
+  "vanilla_refresh:biome/deep_dark": {
+    "criteria": {
+      "requirement": "2025-10-18 15:31:55 -0300"
+    },
+    "done": true
+  },
+  "vanilla_refresh:biome/savanna": {
+    "criteria": {
+      "requirement": "2025-10-18 15:32:11 -0300"
+    },
+    "done": true
+  },
+  "ars_nouveau:poof_mob": {
+    "criteria": {
+      "poof_mob": "2025-10-18 15:17:01 -0300"
+    },
+    "done": true
+  },
+  "vanilla_refresh:player/tick": {
+    "criteria": {
+      "s": "2025-10-18 15:12:13 -0300"
+    },
+    "done": true
+  },
+  "vanilla_refresh:biome/plains": {
+    "criteria": {
+      "requirement": "2025-10-18 15:12:38 -0300"
+    },
+    "done": true
+  },
+  "vanilla_refresh:player/end_teleport": {
+    "criteria": {
+      "s3": "2025-10-18 15:12:13 -0300"
+    },
+    "done": false
+  },
   "DataVersion": 3955
 }

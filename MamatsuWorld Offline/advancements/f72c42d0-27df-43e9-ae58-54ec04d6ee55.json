@@ -116,14 +116,17 @@
     "criteria": {
       "minecraft:badlands": "2025-10-03 20:34:01 -0300",
       "minecraft:snowy_slopes": "2025-09-27 15:47:56 -0300",
-      "minecraft:desert": "2025-09-26 21:13:53 -0300",
+      "minecraft:beach": "2025-10-16 20:13:52 -0300",
       "minecraft:dark_forest": "2025-10-04 15:14:28 -0300",
       "minecraft:forest": "2025-09-26 18:13:14 -0300",
-      "minecraft:deep_dark": "2025-09-26 20:26:14 -0300",
       "minecraft:river": "2025-09-28 18:44:25 -0300",
-      "minecraft:grove": "2025-10-04 15:13:20 -0300",
       "minecraft:stony_shore": "2025-10-06 21:56:33 -0300",
       "minecraft:lush_caves": "2025-10-04 15:14:01 -0300",
+      "minecraft:eroded_badlands": "2025-10-16 20:12:31 -0300",
+      "minecraft:desert": "2025-09-26 21:13:53 -0300",
+      "minecraft:deep_dark": "2025-09-26 20:26:14 -0300",
+      "minecraft:grove": "2025-10-04 15:13:20 -0300",
+      "minecraft:savanna": "2025-10-16 20:13:28 -0300",
       "minecraft:plains": "2025-09-26 17:56:33 -0300"
     },
     "done": false
@@ -493,9 +496,11 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-09-28 10:27:03 -0300",
       "minecraft:nether_wastes": "2025-09-28 10:27:31 -0300",
-      "minecraft:warped_forest": "2025-09-28 10:05:34 -0300"
+      "minecraft:soul_sand_valley": "2025-10-15 20:05:15 -0300",
+      "minecraft:warped_forest": "2025-09-28 10:05:34 -0300",
+      "minecraft:basalt_deltas": "2025-10-15 20:03:37 -0300"
     },
-    "done": false
+    "done": true
   },
   "vanilla_refresh:location/the_nether": {
     "criteria": {
@@ -520,15 +525,16 @@
       "minecraft:blaze": "2025-09-28 10:38:47 -0300",
       "minecraft:pillager": "2025-10-02 21:43:25 -0300",
       "minecraft:skeleton": "2025-09-28 19:12:00 -0300",
-      "minecraft:piglin": "2025-10-06 22:20:19 -0300",
       "minecraft:phantom": "2025-09-28 19:11:46 -0300",
       "minecraft:zombified_piglin": "2025-10-12 01:07:57 -0300",
+      "minecraft:wither_skeleton": "2025-09-28 10:42:26 -0300",
+      "minecraft:husk": "2025-10-04 15:07:51 -0300",
+      "minecraft:piglin": "2025-10-06 22:20:19 -0300",
       "minecraft:enderman": "2025-09-28 10:10:08 -0300",
       "minecraft:spider": "2025-10-02 21:40:53 -0300",
-      "minecraft:wither_skeleton": "2025-09-28 10:42:26 -0300",
       "minecraft:zombie": "2025-09-28 19:26:27 -0300",
       "minecraft:creeper": "2025-09-28 19:10:18 -0300",
-      "minecraft:husk": "2025-10-04 15:07:51 -0300"
+      "minecraft:drowned": "2025-10-16 21:05:13 -0300"
     },
     "done": false
   },
@@ -845,15 +851,141 @@
     },
     "done": true
   },
-  "vanilla_refresh:player/end_teleport": {
+  "apothic_enchanting:bookshelf": {
     "criteria": {
-      "s3": "2025-10-12 17:12:17 -0300"
+      "bookshelf": "2025-10-12 21:17:28 -0300"
     },
-    "done": false
+    "done": true
+  },
+  "silentgear:stone_anvil": {
+    "criteria": {
+      "get_item": "2025-10-12 21:18:47 -0300"
+    },
+    "done": true
+  },
+  "silentgear:crude_knife": {
+    "criteria": {
+      "get_item": "2025-10-12 21:19:15 -0300"
+    },
+    "done": true
+  },
+  "silentgear:template_board": {
+    "criteria": {
+      "get_item": "2025-10-12 21:20:00 -0300"
+    },
+    "done": true
+  },
+  "silentgear:blueprint_book": {
+    "criteria": {
+      "get_item": "2025-10-12 21:46:14 -0300"
+    },
+    "done": true
+  },
+  "mekanism:ultimate_control_circuit": {
+    "criteria": {
+      "ultimate_control_circuit": "2025-10-14 21:51:01 -0300"
+    },
+    "done": true
   },
   "vanilla_refresh:player/hurt": {
     "criteria": {
-      "requirement": "2025-10-12 17:50:31 -0300"
+      "requirement": "2025-10-15 19:41:03 -0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-10-15 19:57:22 -0300"
+    },
+    "done": true
+  },
+  "vanilla_refresh:biome/nether/basalt_deltas": {
+    "criteria": {
+      "requirement": "2025-10-15 20:03:38 -0300"
+    },
+    "done": true
+  },
+  "vanilla_refresh:biome/nether/soul_sand_valley": {
+    "criteria": {
+      "requirement": "2025-10-15 20:05:15 -0300"
+    },
+    "done": true
+  },
+  "silentgear:azure_silver": {
+    "criteria": {
+      "get_ore": "2025-10-15 20:53:06 -0300"
+    },
+    "done": false
+  },
+  "mekanism:teleportation_core": {
+    "criteria": {
+      "teleportation_core": "2025-10-15 21:12:21 -0300"
+    },
+    "done": true
+  },
+  "mekanism:logistical_sorter": {
+    "criteria": {
+      "logistical_sorter": "2025-10-15 21:12:51 -0300"
+    },
+    "done": true
+  },
+  "vanilla_refresh:player/end_teleport": {
+    "criteria": {
+      "s3": "2025-10-16 21:52:35 -0300"
+    },
+    "done": false
+  },
+  "mekanism:personal_storage": {
+    "criteria": {
+      "storage": "2025-10-15 21:16:29 -0300"
+    },
+    "done": true
+  },
+  "mekanism:digital_miner": {
+    "criteria": {
+      "digital_miner": "2025-10-15 21:16:44 -0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-10-15 21:19:49 -0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_bridge": "2025-10-15 21:23:03 -0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2025-10-15 21:26:50 -0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-10-15 21:26:57 -0300"
+    },
+    "done": true
+  },
+  "vanilla_refresh:biome/savanna": {
+    "criteria": {
+      "requirement": "2025-10-16 20:13:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2025-10-16 20:26:23 -0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-10-16 20:28:42 -0300"
     },
     "done": true
   },

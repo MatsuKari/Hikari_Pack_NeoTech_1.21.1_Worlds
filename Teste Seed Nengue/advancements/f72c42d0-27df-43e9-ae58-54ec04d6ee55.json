@@ -1,10 +1,4 @@
 {
-  "integrateddynamics:root": {
-    "criteria": {
-      "criteria_0": "2025-10-12 15:40:41 -0300"
-    },
-    "done": true
-  },
   "ae2wtlib:recipe/magnet_card": {
     "criteria": {
       "has_wct": "2025-10-12 15:39:46 -0300"
@@ -87,12 +81,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:cherry_grove": "2025-10-12 15:39:47 -0300"
-    },
-    "done": false
-  },
   "occultism:occultism/root": {
     "criteria": {
       "occultism_present": "2025-10-12 15:39:46 -0300"
@@ -106,12 +94,6 @@
     },
     "done": true
   },
-  "tombstone:adventure/root": {
-    "criteria": {
-      "auto": "2025-10-12 15:39:47 -0300"
-    },
-    "done": true
-  },
   "apotheosis:progression/root": {
     "criteria": {
       "tick": "2025-10-12 15:39:46 -0300"
@@ -121,6 +103,25 @@
   "ae2wtlib:recipe/wireless_pattern_access_terminal": {
     "criteria": {
       "has_wt": "2025-10-12 15:39:46 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:snowy_slopes": "2025-10-12 20:44:34 -0300",
+      "minecraft:cherry_grove": "2025-10-12 15:39:47 -0300"
+    },
+    "done": false
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2025-10-12 15:39:47 -0300"
+    },
+    "done": true
+  },
+  "integrateddynamics:root": {
+    "criteria": {
+      "criteria_0": "2025-10-12 15:40:41 -0300"
     },
     "done": true
   },
