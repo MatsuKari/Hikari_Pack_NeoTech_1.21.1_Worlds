@@ -23,12 +23,6 @@
     },
     "done": true
   },
-  "tombstone:adventure/root": {
-    "criteria": {
-      "auto": "2024-11-04 20:03:57 -0300"
-    },
-    "done": true
-  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:plains": "2024-11-04 20:03:57 -0300"
@@ -155,21 +149,9 @@
     },
     "done": true
   },
-  "tombstone:adventure/neighborhood_brawl": {
-    "criteria": {
-      "coded_trigger": "2025-01-19 11:47:26 -0300"
-    },
-    "done": true
-  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-01-19 11:47:26 -0300"
-    },
-    "done": true
-  },
-  "tombstone:adventure/first_knowledge": {
-    "criteria": {
-      "coded_trigger": "2025-01-19 11:47:26 -0300"
     },
     "done": true
   },

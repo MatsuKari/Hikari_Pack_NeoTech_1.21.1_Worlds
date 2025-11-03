@@ -32,6 +32,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:badlands": "2025-06-25 22:07:57 -0300",
+      "minecraft:flower_forest": "2025-11-02 12:59:54 -0300",
       "minecraft:savanna_plateau": "2025-06-25 21:47:42 -0300",
       "minecraft:beach": "2025-05-25 00:13:16 -0300",
       "minecraft:mushroom_fields": "2025-05-31 21:58:09 -0300",
@@ -46,15 +47,10 @@
       "minecraft:jungle": "2025-06-26 00:28:05 -0300",
       "minecraft:savanna": "2025-06-25 21:46:26 -0300",
       "minecraft:plains": "2025-05-04 20:05:48 -0300",
-      "minecraft:warm_ocean": "2025-05-24 23:34:47 -0300"
+      "minecraft:warm_ocean": "2025-05-24 23:34:47 -0300",
+      "minecraft:deep_lukewarm_ocean": "2025-11-01 22:35:18 -0300"
     },
     "done": false
-  },
-  "tombstone:adventure/root": {
-    "criteria": {
-      "auto": "2025-05-04 20:05:48 -0300"
-    },
-    "done": true
   },
   "integrateddynamics:root": {
     "criteria": {
@@ -70,7 +66,10 @@
   },
   "apotheosis:progression/frontier": {
     "criteria": {
-      "common_hand": "2025-05-04 20:07:13 -0300"
+      "common_helm": "2025-10-26 15:29:30 -0300",
+      "common_hand": "2025-05-04 20:07:13 -0300",
+      "common_chest": "2025-10-26 15:29:03 -0300",
+      "common_legs": "2025-10-26 15:34:33 -0300"
     },
     "done": false
   },
@@ -241,18 +240,6 @@
     },
     "done": true
   },
-  "tombstone:adventure/strong_or_careful": {
-    "criteria": {
-      "coded_trigger": "2025-05-25 01:20:55 -0300"
-    },
-    "done": true
-  },
-  "tombstone:adventure/first_knowledge": {
-    "criteria": {
-      "coded_trigger": "2025-05-25 01:20:55 -0300"
-    },
-    "done": true
-  },
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2025-05-25 01:22:16 -0300"
@@ -283,7 +270,8 @@
       "minecraft:piglin_brute": "2025-07-15 21:53:06 -0300",
       "minecraft:zombie": "2025-05-25 16:01:19 -0300",
       "minecraft:creeper": "2025-05-31 21:44:17 -0300",
-      "minecraft:wither": "2025-06-22 14:17:18 -0300"
+      "minecraft:wither": "2025-06-22 14:17:18 -0300",
+      "minecraft:zombie_villager": "2025-10-30 22:35:03 -0300"
     },
     "done": false
   },
@@ -305,14 +293,10 @@
     },
     "done": true
   },
-  "tombstone:adventure/cancel_ghostly_shape": {
-    "criteria": {
-      "coded_trigger": "2025-05-25 16:01:00 -0300"
-    },
-    "done": true
-  },
   "apotheosis:progression/ascent": {
     "criteria": {
+      "uncommon_legs": "2025-10-26 15:34:33 -0300",
+      "uncommon_chest": "2025-10-26 15:29:03 -0300",
       "uncommon_hand": "2025-05-27 20:35:00 -0300"
     },
     "done": false
@@ -425,96 +409,6 @@
     },
     "done": true
   },
-  "tombstone:recipe/fishing_rod_of_misadventure": {
-    "criteria": {
-      "has_ingredient": "2025-05-29 18:58:31 -0300"
-    },
-    "done": true
-  },
-  "tombstone:recipe/grave_plate": {
-    "criteria": {
-      "has_ingredient": "2025-05-29 18:58:31 -0300"
-    },
-    "done": true
-  },
-  "tombstone:adventure/find_grave_dust": {
-    "criteria": {
-      "from_undead": "2025-05-29 18:58:31 -0300"
-    },
-    "done": true
-  },
-  "tombstone:recipe/dust_of_frost": {
-    "criteria": {
-      "has_ingredient": "2025-05-29 18:58:31 -0300"
-    },
-    "done": true
-  },
-  "tombstone:recipe/blue_marble": {
-    "criteria": {
-      "has_ingredient": "2025-05-29 18:58:31 -0300"
-    },
-    "done": true
-  },
-  "tombstone:recipe/bone_needle": {
-    "criteria": {
-      "has_ingredient": "2025-05-29 18:58:31 -0300"
-    },
-    "done": true
-  },
-  "tombstone:recipe/dark_marble": {
-    "criteria": {
-      "has_ingredient": "2025-05-29 18:58:31 -0300"
-    },
-    "done": true
-  },
-  "tombstone:recipe/ankh_of_prayer": {
-    "criteria": {
-      "has_ingredient": "2025-05-29 18:58:31 -0300"
-    },
-    "done": true
-  },
-  "tombstone:recipe/dust_of_vanishing": {
-    "criteria": {
-      "has_ingredient": "2025-05-29 18:58:31 -0300"
-    },
-    "done": true
-  },
-  "tombstone:recipe/smoke_ball": {
-    "criteria": {
-      "has_ingredient": "2025-05-29 18:58:31 -0300"
-    },
-    "done": true
-  },
-  "tombstone:recipe/impregnated_diamond": {
-    "criteria": {
-      "has_ingredient": "2025-05-29 18:58:31 -0300"
-    },
-    "done": true
-  },
-  "tombstone:recipe/green_marble": {
-    "criteria": {
-      "has_ingredient": "2025-05-29 18:58:31 -0300"
-    },
-    "done": true
-  },
-  "tombstone:recipe/carmin_marble": {
-    "criteria": {
-      "has_ingredient": "2025-05-29 18:58:31 -0300"
-    },
-    "done": true
-  },
-  "tombstone:recipe/white_marble": {
-    "criteria": {
-      "has_ingredient": "2025-05-29 18:58:31 -0300"
-    },
-    "done": true
-  },
-  "tombstone:adventure/ashes_and_bones": {
-    "criteria": {
-      "coded_trigger": "2025-05-29 18:58:55 -0300"
-    },
-    "done": true
-  },
   "mekanism:advanced_control_circuit": {
     "criteria": {
       "advanced_control_circuit": "2025-05-30 21:13:09 -0300"
@@ -557,159 +451,9 @@
     },
     "done": true
   },
-  "tombstone:adventure/ambush": {
-    "criteria": {
-      "coded_trigger": "2025-05-31 21:47:26 -0300"
-    },
-    "done": true
-  },
-  "tombstone:adventure/bone_crusher": {
-    "criteria": {
-      "coded_trigger": "2025-05-31 21:51:55 -0300"
-    },
-    "done": true
-  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-05-31 22:13:01 -0300"
-    },
-    "done": true
-  },
-  "tombstone:recipe/dark_marble_stairs": {
-    "criteria": {
-      "has_ingredient": "2025-05-31 22:22:21 -0300"
-    },
-    "done": true
-  },
-  "tombstone:recipe/black_grave_cross": {
-    "criteria": {
-      "has_ingredient": "2025-05-31 22:22:21 -0300"
-    },
-    "done": true
-  },
-  "tombstone:recipe/black_tombstone": {
-    "criteria": {
-      "has_ingredient": "2025-05-31 22:22:21 -0300"
-    },
-    "done": true
-  },
-  "tombstone:recipe/black_grave_simple": {
-    "criteria": {
-      "has_ingredient": "2025-05-31 22:22:21 -0300"
-    },
-    "done": true
-  },
-  "tombstone:recipe/dark_marble_slab": {
-    "criteria": {
-      "has_ingredient": "2025-05-31 22:22:21 -0300"
-    },
-    "done": true
-  },
-  "tombstone:recipe/black_subaraki_grave": {
-    "criteria": {
-      "has_ingredient": "2025-05-31 22:22:21 -0300"
-    },
-    "done": true
-  },
-  "tombstone:recipe/black_grave_normal": {
-    "criteria": {
-      "has_ingredient": "2025-05-31 22:22:21 -0300"
-    },
-    "done": true
-  },
-  "tombstone:adventure/create_grave_marble": {
-    "criteria": {
-      "has_grave_marble": "2025-05-31 22:22:21 -0300"
-    },
-    "done": true
-  },
-  "tombstone:recipe/black_grave_original": {
-    "criteria": {
-      "has_ingredient": "2025-05-31 22:22:21 -0300"
-    },
-    "done": true
-  },
-  "tombstone:recipe/dark_marble_wall": {
-    "criteria": {
-      "has_ingredient": "2025-05-31 22:22:21 -0300"
-    },
-    "done": true
-  },
-  "tombstone:recipe/book_of_oblivion": {
-    "criteria": {
-      "has_ingredient": "2025-05-31 22:22:27 -0300"
-    },
-    "done": true
-  },
-  "tombstone:adventure/create_decorative_grave": {
-    "criteria": {
-      "has_decorative_grave": "2025-05-31 22:22:27 -0300"
-    },
-    "done": true
-  },
-  "tombstone:recipe/voodoo_poppet": {
-    "criteria": {
-      "has_ingredient": "2025-05-31 22:22:27 -0300"
-    },
-    "done": true
-  },
-  "tombstone:recipe/book_of_repairing": {
-    "criteria": {
-      "has_ingredient": "2025-05-31 22:22:27 -0300"
-    },
-    "done": true
-  },
-  "tombstone:recipe/strange_scroll": {
-    "criteria": {
-      "has_ingredient": "2025-05-31 22:22:27 -0300"
-    },
-    "done": true
-  },
-  "tombstone:recipe/strange_tablet": {
-    "criteria": {
-      "has_ingredient": "2025-05-31 22:22:27 -0300"
-    },
-    "done": true
-  },
-  "tombstone:recipe/book_of_disenchantment": {
-    "criteria": {
-      "has_ingredient": "2025-05-31 22:22:27 -0300"
-    },
-    "done": true
-  },
-  "tombstone:recipe/book_of_soulbound": {
-    "criteria": {
-      "has_ingredient": "2025-05-31 22:22:27 -0300"
-    },
-    "done": true
-  },
-  "tombstone:recipe/book_of_scribe": {
-    "criteria": {
-      "has_ingredient": "2025-05-31 22:22:27 -0300"
-    },
-    "done": true
-  },
-  "tombstone:recipe/book_of_magic_impregnation": {
-    "criteria": {
-      "has_ingredient": "2025-05-31 22:22:27 -0300"
-    },
-    "done": true
-  },
-  "tombstone:recipe/book_of_recycling": {
-    "criteria": {
-      "has_ingredient": "2025-05-31 22:22:27 -0300"
-    },
-    "done": true
-  },
-  "tombstone:adventure/use_disenchantment": {
-    "criteria": {
-      "coded_trigger": "2025-05-31 22:25:19 -0300"
-    },
-    "done": true
-  },
-  "tombstone:adventure/consume_soul": {
-    "criteria": {
-      "coded_trigger": "2025-05-31 22:25:19 -0300"
     },
     "done": true
   },
@@ -866,12 +610,6 @@
     },
     "done": false
   },
-  "tombstone:adventure/strong_undead": {
-    "criteria": {
-      "coded_trigger": "2025-06-22 14:17:18 -0300"
-    },
-    "done": true
-  },
   "silentgear:azure_silver": {
     "criteria": {
       "get_ore": "2025-06-22 18:33:24 -0300",
@@ -1001,18 +739,6 @@
     },
     "done": true
   },
-  "tombstone:adventure/create_magic_scroll": {
-    "criteria": {
-      "has_magic_scroll": "2025-06-28 14:47:44 -0300"
-    },
-    "done": true
-  },
-  "tombstone:adventure/create_familiar_receptacle": {
-    "criteria": {
-      "has_receptacle_of_familiar": "2025-06-28 14:48:58 -0300"
-    },
-    "done": true
-  },
   "silentgear:blueprint_paper": {
     "criteria": {
       "get_item": "2025-06-28 15:33:25 -0300"
@@ -1022,12 +748,6 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_chestplate": "2025-06-28 17:06:41 -0300"
-    },
-    "done": true
-  },
-  "tombstone:adventure/almost_unkillable": {
-    "criteria": {
-      "coded_trigger": "2025-07-12 19:29:03 -0300"
     },
     "done": true
   },
@@ -1163,12 +883,6 @@
     },
     "done": true
   },
-  "tombstone:adventure/neighborhood_brawl": {
-    "criteria": {
-      "coded_trigger": "2025-07-30 14:15:56 -0300"
-    },
-    "done": true
-  },
   "ae2:main/compass": {
     "criteria": {
       "compass": "2025-07-30 14:33:15 -0300"
@@ -1250,12 +964,6 @@
     },
     "done": true
   },
-  "tombstone:adventure/crime_in_town": {
-    "criteria": {
-      "coded_trigger": "2025-08-06 21:15:13 -0300"
-    },
-    "done": true
-  },
   "ae2wtlib:recipe/magnet_card": {
     "criteria": {
       "has_wct": "2025-10-04 23:36:14 -0300"
@@ -1333,33 +1041,9 @@
     },
     "done": true
   },
-  "tombstone:adventure/first_grave": {
-    "criteria": {
-      "coded_trigger": "2025-10-04 23:56:18 -0300"
-    },
-    "done": true
-  },
   "vanilla_refresh:biome/ocean": {
     "criteria": {
       "requirement": "2025-10-04 23:56:21 -0300"
-    },
-    "done": true
-  },
-  "tombstone:recipe/enchanted_grave_key": {
-    "criteria": {
-      "has_ingredient": "2025-10-04 23:56:21 -0300"
-    },
-    "done": true
-  },
-  "tombstone:adventure/chain_death": {
-    "criteria": {
-      "coded_trigger": "2025-10-04 23:57:04 -0300"
-    },
-    "done": true
-  },
-  "tombstone:adventure/discreet_search": {
-    "criteria": {
-      "coded_trigger": "2025-10-04 23:57:26 -0300"
     },
     "done": true
   },
@@ -1387,12 +1071,6 @@
     },
     "done": true
   },
-  "vanilla_refresh:player/end_teleport": {
-    "criteria": {
-      "s3": "2025-10-18 10:22:51 -0300"
-    },
-    "done": false
-  },
   "javd:enter_mining_dimension": {
     "criteria": {
       "enter_dimension": "2025-10-18 10:58:22 -0300"
@@ -1405,23 +1083,195 @@
     },
     "done": true
   },
-  "tombstone:event/root": {
-    "criteria": {
-      "halloween": "2025-10-20 19:30:33 -0300"
-    },
-    "done": true
-  },
-  "tombstone:event/halloween": {
-    "criteria": {
-      "coded_trigger": "2025-10-20 19:30:33 -0300"
-    },
-    "done": true
-  },
   "silentgear:overworld_plants": {
     "criteria": {
-      "flax_seeds": "2025-10-20 19:54:23 -0300"
+      "flax_seeds": "2025-10-20 19:54:23 -0300",
+      "fluffy_seeds": "2025-11-01 12:33:12 -0300"
     },
     "done": false
+  },
+  "ae2:main/charged_quartz": {
+    "criteria": {
+      "certus": "2025-10-24 22:14:17 -0300"
+    },
+    "done": true
+  },
+  "mekanism:configuration_copying": {
+    "criteria": {
+      "paste": "2025-10-24 22:19:38 -0300",
+      "copy": "2025-10-24 22:19:37 -0300"
+    },
+    "done": true
+  },
+  "vanilla_refresh:location/the_nether": {
+    "criteria": {
+      "requirement": "2025-10-24 23:07:46 -0300"
+    },
+    "done": true
+  },
+  "vanilla_refresh:biome/nether/basalt_deltas": {
+    "criteria": {
+      "requirement": "2025-10-24 23:07:53 -0300"
+    },
+    "done": true
+  },
+  "vanilla_refresh:biome/nether/nether_wastes": {
+    "criteria": {
+      "requirement": "2025-10-24 23:10:35 -0300"
+    },
+    "done": true
+  },
+  "vanilla_refresh:biome/nether/soul_sand_valley": {
+    "criteria": {
+      "requirement": "2025-10-24 23:13:20 -0300"
+    },
+    "done": true
+  },
+  "ae2:main/facade": {
+    "criteria": {
+      "facade": "2025-10-25 10:05:48 -0300"
+    },
+    "done": true
+  },
+  "ae2:main/storage_bus": {
+    "criteria": {
+      "part": "2025-10-25 10:09:34 -0300"
+    },
+    "done": true
+  },
+  "ae2:main/ioport": {
+    "criteria": {
+      "certus": "2025-10-25 10:28:31 -0300"
+    },
+    "done": true
+  },
+  "ae2:main/qnb": {
+    "criteria": {
+      "certus": "2025-10-25 11:03:57 -0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-10-25 11:13:37 -0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/obtain_netherite_hoe": {
+    "criteria": {
+      "netherite_hoe": "2025-10-25 11:13:48 -0300"
+    },
+    "done": true
+  },
+  "vanilla_refresh:biome/mangrove_swamp": {
+    "criteria": {
+      "requirement": "2025-10-25 16:42:30 -0300"
+    },
+    "done": true
+  },
+  "mekanism:stabilizing_chunks": {
+    "criteria": {
+      "upgrade_anchor": "2025-10-25 17:04:12 -0300"
+    },
+    "done": false
+  },
+  "vanilla_refresh:biome/nether/crimson_forest": {
+    "criteria": {
+      "requirement": "2025-10-25 17:25:52 -0300"
+    },
+    "done": true
+  },
+  "vanilla_refresh:biome/nether/warped_forest": {
+    "criteria": {
+      "requirement": "2025-10-25 17:42:33 -0300"
+    },
+    "done": true
+  },
+  "vanilla_refresh:biome/forest": {
+    "criteria": {
+      "requirement": "2025-10-26 07:14:01 -0300"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_blaze": {
+    "criteria": {
+      "requirement": "2025-10-26 15:01:06 -0300"
+    },
+    "done": true
+  },
+  "vanilla_refresh:player/respawned_dragon": {
+    "criteria": {
+      "summoned_dragon": "2025-10-30 23:01:25 -0300"
+    },
+    "done": true
+  },
+  "vanilla_refresh:biome/desert": {
+    "criteria": {
+      "requirement": "2025-11-01 12:31:52 -0300"
+    },
+    "done": true
+  },
+  "vanilla_refresh:player/end_teleport": {
+    "criteria": {
+      "s3": "2025-11-01 20:36:49 -0300"
+    },
+    "done": false
+  },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2025-11-02 04:37:40 -0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/silk_touch_nest": {
+    "criteria": {
+      "silk_touch_nest": "2025-11-02 12:54:17 -0300"
+    },
+    "done": true
+  },
+  "vanilla_refresh:biome/flower_forest": {
+    "criteria": {
+      "requirement": "2025-11-02 12:59:55 -0300"
+    },
+    "done": true
+  },
+  "mekanism:chemical_crystallizer": {
+    "criteria": {
+      "chemical_crystallizer": "2025-11-03 09:35:39 -0300"
+    },
+    "done": false
+  },
+  "mekanism:teleportation_core": {
+    "criteria": {
+      "teleportation_core": "2025-11-03 09:36:17 -0300"
+    },
+    "done": true
+  },
+  "mekanism:seismic_vibrations": {
+    "criteria": {
+      "view_vibrations": "2025-11-03 09:41:14 -0300",
+      "seismic_reader": "2025-11-03 09:41:04 -0300",
+      "seismic_vibrator": "2025-11-03 09:39:56 -0300"
+    },
+    "done": true
+  },
+  "integrateddynamics:meneglin_basics/meneglin_discovery": {
+    "criteria": {
+      "criteria_0": "2025-11-03 14:43:05 -0300"
+    },
+    "done": true
+  },
+  "apothic_spawners:root": {
+    "criteria": {
+      "spawner": "2025-11-03 19:59:34 -0300"
+    },
+    "done": true
+  },
+  "vanilla_refresh:player/killed_mob_wither": {
+    "criteria": {
+      "requirement": "2025-11-03 20:29:29 -0300"
+    },
+    "done": true
   },
   "DataVersion": 3955
 }

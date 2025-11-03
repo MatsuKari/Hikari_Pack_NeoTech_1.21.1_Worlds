@@ -2613,9 +2613,27 @@
     },
     "done": true
   },
-  "vanilla_refresh:player/hurt": {
+  "vanilla_refresh:player/tick": {
     "criteria": {
-      "requirement": "2025-10-18 15:34:54 -0300"
+      "s": "2025-10-18 15:12:13 -0300"
+    },
+    "done": true
+  },
+  "vanilla_refresh:player/end_teleport": {
+    "criteria": {
+      "s3": "2025-10-18 15:12:13 -0300"
+    },
+    "done": false
+  },
+  "vanilla_refresh:biome/plains": {
+    "criteria": {
+      "requirement": "2025-10-18 15:12:38 -0300"
+    },
+    "done": true
+  },
+  "ars_nouveau:poof_mob": {
+    "criteria": {
+      "poof_mob": "2025-10-18 15:17:01 -0300"
     },
     "done": true
   },
@@ -2631,29 +2649,29 @@
     },
     "done": true
   },
-  "ars_nouveau:poof_mob": {
+  "vanilla_refresh:player/hurt": {
     "criteria": {
-      "poof_mob": "2025-10-18 15:17:01 -0300"
+      "requirement": "2025-10-18 15:34:54 -0300"
     },
     "done": true
   },
-  "vanilla_refresh:player/tick": {
+  "tombstone:event/root": {
     "criteria": {
-      "s": "2025-10-18 15:12:13 -0300"
+      "halloween": "2025-10-22 21:22:57 -0300"
     },
     "done": true
   },
-  "vanilla_refresh:biome/plains": {
+  "tombstone:event/halloween": {
     "criteria": {
-      "requirement": "2025-10-18 15:12:38 -0300"
+      "coded_trigger": "2025-10-22 21:22:57 -0300"
     },
     "done": true
   },
-  "vanilla_refresh:player/end_teleport": {
+  "javd:enter_mining_dimension": {
     "criteria": {
-      "s3": "2025-10-18 15:12:13 -0300"
+      "enter_dimension": "2025-10-22 21:39:46 -0300"
     },
-    "done": false
+    "done": true
   },
   "DataVersion": 3955
 }
