@@ -45,6 +45,7 @@
       "minecraft:desert": "2025-05-24 23:34:13 -0300",
       "minecraft:deep_dark": "2025-06-25 21:42:25 -0300",
       "minecraft:jungle": "2025-06-26 00:28:05 -0300",
+      "minecraft:swamp": "2025-11-04 19:20:34 -0300",
       "minecraft:savanna": "2025-06-25 21:46:26 -0300",
       "minecraft:plains": "2025-05-04 20:05:48 -0300",
       "minecraft:warm_ocean": "2025-05-24 23:34:47 -0300",
@@ -69,9 +70,10 @@
       "common_helm": "2025-10-26 15:29:30 -0300",
       "common_hand": "2025-05-04 20:07:13 -0300",
       "common_chest": "2025-10-26 15:29:03 -0300",
-      "common_legs": "2025-10-26 15:34:33 -0300"
+      "common_legs": "2025-10-26 15:34:33 -0300",
+      "common_feet": "2025-11-04 11:34:11 -0300"
     },
-    "done": false
+    "done": true
   },
   "silentgear:root": {
     "criteria": {
@@ -264,6 +266,7 @@
       "minecraft:ender_dragon": "2025-06-22 13:14:35 -0300",
       "minecraft:shulker": "2025-06-24 19:55:13 -0300",
       "minecraft:piglin": "2025-07-15 21:44:15 -0300",
+      "minecraft:guardian": "2025-11-04 17:52:02 -0300",
       "minecraft:enderman": "2025-05-25 15:56:06 -0300",
       "minecraft:magma_cube": "2025-06-28 14:15:36 -0300",
       "minecraft:spider": "2025-05-27 20:34:46 -0300",
@@ -271,7 +274,8 @@
       "minecraft:zombie": "2025-05-25 16:01:19 -0300",
       "minecraft:creeper": "2025-05-31 21:44:17 -0300",
       "minecraft:wither": "2025-06-22 14:17:18 -0300",
-      "minecraft:zombie_villager": "2025-10-30 22:35:03 -0300"
+      "minecraft:zombie_villager": "2025-10-30 22:35:03 -0300",
+      "minecraft:slime": "2025-11-04 19:31:38 -0300"
     },
     "done": false
   },
@@ -297,7 +301,9 @@
     "criteria": {
       "uncommon_legs": "2025-10-26 15:34:33 -0300",
       "uncommon_chest": "2025-10-26 15:29:03 -0300",
-      "uncommon_hand": "2025-05-27 20:35:00 -0300"
+      "kill_apothic_invader": "2025-11-04 19:28:17 -0300",
+      "uncommon_hand": "2025-05-27 20:35:00 -0300",
+      "uncommon_feet": "2025-11-04 11:34:11 -0300"
     },
     "done": false
   },
@@ -1211,12 +1217,6 @@
     },
     "done": true
   },
-  "vanilla_refresh:player/end_teleport": {
-    "criteria": {
-      "s3": "2025-11-01 20:36:49 -0300"
-    },
-    "done": false
-  },
   "minecraft:adventure/throw_trident": {
     "criteria": {
       "shot_trident": "2025-11-02 04:37:40 -0300"
@@ -1270,6 +1270,36 @@
   "vanilla_refresh:player/killed_mob_wither": {
     "criteria": {
       "requirement": "2025-11-03 20:29:29 -0300"
+    },
+    "done": true
+  },
+  "vanilla_refresh:player/end_teleport": {
+    "criteria": {
+      "s3": "2025-11-04 12:28:33 -0300"
+    },
+    "done": false
+  },
+  "vanilla_refresh:player/hurt": {
+    "criteria": {
+      "requirement": "2025-11-04 13:00:00 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-11-04 19:28:18 -0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-11-04 17:50:58 -0300"
+    },
+    "done": true
+  },
+  "vanilla_refresh:biome/swamp": {
+    "criteria": {
+      "requirement": "2025-11-04 19:20:35 -0300"
     },
     "done": true
   },
