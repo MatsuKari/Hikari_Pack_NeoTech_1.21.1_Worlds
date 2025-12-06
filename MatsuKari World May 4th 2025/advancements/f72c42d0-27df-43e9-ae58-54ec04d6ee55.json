@@ -1507,17 +1507,17 @@
     },
     "done": true
   },
-  "vanilla_refresh:player/end_teleport": {
-    "criteria": {
-      "s3": "2025-11-09 19:40:11 -0300"
-    },
-    "done": false
-  },
   "vanilla_refresh:player/hurt": {
     "criteria": {
       "requirement": "2025-11-09 19:49:52 -0300"
     },
     "done": true
+  },
+  "vanilla_refresh:player/end_teleport": {
+    "criteria": {
+      "s3": "2025-11-18 08:11:43 -0300"
+    },
+    "done": false
   },
   "DataVersion": 3955
 }
