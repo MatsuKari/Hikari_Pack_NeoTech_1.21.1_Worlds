@@ -385,7 +385,8 @@
     "criteria": {
       "uncommon_legs": "2025-07-18 20:07:06 -0300",
       "uncommon_hand": "2025-07-18 21:45:53 -0300",
-      "uncommon_helm": "2025-07-11 21:17:45 -0300"
+      "uncommon_helm": "2025-07-11 21:17:45 -0300",
+      "uncommon_feet": "2025-12-12 15:29:26 -0300"
     },
     "done": false
   },
@@ -750,7 +751,9 @@
   "apotheosis:progression/summit": {
     "criteria": {
       "kill_wither": "2025-07-12 16:44:58 -0300",
-      "rare_legs": "2025-07-18 20:07:06 -0300"
+      "rare_legs": "2025-07-18 20:07:06 -0300",
+      "rare_hand": "2025-12-12 15:29:26 -0300",
+      "rare_feet": "2025-12-12 15:29:26 -0300"
     },
     "done": false
   },
@@ -768,9 +771,10 @@
   },
   "mekanism:moving_blocks": {
     "criteria": {
+      "unbox": "2025-12-12 18:52:37 -0300",
       "cardboard_box": "2025-07-13 16:49:19 -0300"
     },
-    "done": false
+    "done": true
   },
   "minecraft:story/obtain_armor": {
     "criteria": {
@@ -891,19 +895,6 @@
       "has_enchanted_voodoo_poppet": "2025-07-13 21:04:46 -0300"
     },
     "done": true
-  },
-  "tombstone:adventure/death_survivor": {
-    "criteria": {
-      "has_prevent_darkness": "2025-07-13 21:05:11 -0300"
-    },
-    "done": true
-  },
-  "tombstone:adventure/death_master": {
-    "criteria": {
-      "has_prevent_earth": "2025-07-13 21:12:35 -0300",
-      "has_prevent_darkness": "2025-07-13 21:05:11 -0300"
-    },
-    "done": false
   },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
@@ -1150,6 +1141,54 @@
   "lootr:1barrel": {
     "criteria": {
       "opened_barrel": "2025-07-20 00:03:46 -0300"
+    },
+    "done": true
+  },
+  "tombstone:event/root": {
+    "criteria": {
+      "christmas": "2025-12-12 13:34:34 -0300"
+    },
+    "done": true
+  },
+  "tombstone:event/christmas": {
+    "criteria": {
+      "coded_trigger": "2025-12-12 13:34:34 -0300"
+    },
+    "done": true
+  },
+  "tombstone:event/mysterious_gift": {
+    "criteria": {
+      "coded_trigger": "2025-12-12 13:34:34 -0300"
+    },
+    "done": true
+  },
+  "javd:enter_mining_dimension": {
+    "criteria": {
+      "enter_dimension": "2025-12-12 14:46:21 -0300"
+    },
+    "done": true
+  },
+  "tombstone:event/villager_gift": {
+    "criteria": {
+      "coded_trigger": "2025-12-12 14:54:31 -0300"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_ancient_tablet": {
+    "criteria": {
+      "has_ancient_tablet": "2025-12-12 14:54:31 -0300"
+    },
+    "done": true
+  },
+  "constructionstick:template_angel": {
+    "criteria": {
+      "template_angel": "2025-12-12 15:03:17 -0300"
+    },
+    "done": true
+  },
+  "mekanism:installer": {
+    "criteria": {
+      "installer": "2025-12-12 19:32:05 -0300"
     },
     "done": true
   },

@@ -122,12 +122,6 @@
     },
     "done": false
   },
-  "tombstone:adventure/root": {
-    "criteria": {
-      "auto": "2025-07-09 18:14:49 -0300"
-    },
-    "done": true
-  },
   "integrateddynamics:root": {
     "criteria": {
       "criteria_0": "2025-07-09 18:15:13 -0300"
@@ -203,6 +197,7 @@
       "minecraft:blaze": "2025-07-12 13:10:48 -0300",
       "minecraft:pillager": "2025-07-13 20:04:08 -0300",
       "minecraft:skeleton": "2025-07-11 21:32:58 -0300",
+      "minecraft:phantom": "2025-12-12 14:28:44 -0300",
       "minecraft:wither_skeleton": "2025-07-12 13:15:10 -0300",
       "minecraft:ghast": "2025-07-12 13:09:22 -0300",
       "minecraft:shulker": "2025-07-12 15:10:01 -0300",
@@ -259,12 +254,6 @@
     },
     "done": true
   },
-  "tombstone:adventure/cancel_ghostly_shape": {
-    "criteria": {
-      "coded_trigger": "2025-07-11 20:43:01 -0300"
-    },
-    "done": true
-  },
   "mekanismtools:alternate_tools": {
     "criteria": {
       "tools": "2025-07-11 21:03:36 -0300"
@@ -289,105 +278,9 @@
     },
     "done": true
   },
-  "tombstone:adventure/first_knowledge": {
-    "criteria": {
-      "coded_trigger": "2025-07-11 21:33:06 -0300"
-    },
-    "done": true
-  },
-  "tombstone:adventure/ashes_and_bones": {
-    "criteria": {
-      "coded_trigger": "2025-07-11 21:33:06 -0300"
-    },
-    "done": true
-  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-07-11 21:40:30 -0300"
-    },
-    "done": true
-  },
-  "tombstone:recipe/fishing_rod_of_misadventure": {
-    "criteria": {
-      "has_ingredient": "2025-07-11 21:40:42 -0300"
-    },
-    "done": true
-  },
-  "tombstone:recipe/grave_plate": {
-    "criteria": {
-      "has_ingredient": "2025-07-11 21:40:42 -0300"
-    },
-    "done": true
-  },
-  "tombstone:adventure/find_grave_dust": {
-    "criteria": {
-      "from_undead": "2025-07-11 21:40:42 -0300"
-    },
-    "done": true
-  },
-  "tombstone:recipe/dust_of_frost": {
-    "criteria": {
-      "has_ingredient": "2025-07-11 21:40:42 -0300"
-    },
-    "done": true
-  },
-  "tombstone:recipe/blue_marble": {
-    "criteria": {
-      "has_ingredient": "2025-07-11 21:40:42 -0300"
-    },
-    "done": true
-  },
-  "tombstone:recipe/bone_needle": {
-    "criteria": {
-      "has_ingredient": "2025-07-11 21:40:42 -0300"
-    },
-    "done": true
-  },
-  "tombstone:recipe/dark_marble": {
-    "criteria": {
-      "has_ingredient": "2025-07-11 21:40:42 -0300"
-    },
-    "done": true
-  },
-  "tombstone:recipe/ankh_of_prayer": {
-    "criteria": {
-      "has_ingredient": "2025-07-11 21:40:42 -0300"
-    },
-    "done": true
-  },
-  "tombstone:recipe/dust_of_vanishing": {
-    "criteria": {
-      "has_ingredient": "2025-07-11 21:40:42 -0300"
-    },
-    "done": true
-  },
-  "tombstone:recipe/smoke_ball": {
-    "criteria": {
-      "has_ingredient": "2025-07-11 21:40:42 -0300"
-    },
-    "done": true
-  },
-  "tombstone:recipe/impregnated_diamond": {
-    "criteria": {
-      "has_ingredient": "2025-07-11 21:40:42 -0300"
-    },
-    "done": true
-  },
-  "tombstone:recipe/green_marble": {
-    "criteria": {
-      "has_ingredient": "2025-07-11 21:40:42 -0300"
-    },
-    "done": true
-  },
-  "tombstone:recipe/carmin_marble": {
-    "criteria": {
-      "has_ingredient": "2025-07-11 21:40:42 -0300"
-    },
-    "done": true
-  },
-  "tombstone:recipe/white_marble": {
-    "criteria": {
-      "has_ingredient": "2025-07-11 21:40:42 -0300"
     },
     "done": true
   },
@@ -653,144 +546,6 @@
     },
     "done": true
   },
-  "tombstone:recipe/blue_marble_wall": {
-    "criteria": {
-      "has_ingredient": "2025-07-12 13:57:21 -0300"
-    },
-    "done": true
-  },
-  "tombstone:recipe/blue_marble_stairs": {
-    "criteria": {
-      "has_ingredient": "2025-07-12 13:57:21 -0300"
-    },
-    "done": true
-  },
-  "tombstone:recipe/blue_grave_original": {
-    "criteria": {
-      "has_ingredient": "2025-07-12 13:57:21 -0300"
-    },
-    "done": true
-  },
-  "tombstone:recipe/blue_subaraki_grave": {
-    "criteria": {
-      "has_ingredient": "2025-07-12 13:57:21 -0300"
-    },
-    "done": true
-  },
-  "tombstone:recipe/blue_grave_cross": {
-    "criteria": {
-      "has_ingredient": "2025-07-12 13:57:21 -0300"
-    },
-    "done": true
-  },
-  "tombstone:recipe/blue_grave_simple": {
-    "criteria": {
-      "has_ingredient": "2025-07-12 13:57:21 -0300"
-    },
-    "done": true
-  },
-  "tombstone:recipe/blue_marble_slab": {
-    "criteria": {
-      "has_ingredient": "2025-07-12 13:57:21 -0300"
-    },
-    "done": true
-  },
-  "tombstone:recipe/blue_grave_normal": {
-    "criteria": {
-      "has_ingredient": "2025-07-12 13:57:21 -0300"
-    },
-    "done": true
-  },
-  "tombstone:recipe/blue_tombstone": {
-    "criteria": {
-      "has_ingredient": "2025-07-12 13:57:21 -0300"
-    },
-    "done": true
-  },
-  "tombstone:adventure/create_grave_marble": {
-    "criteria": {
-      "has_grave_marble": "2025-07-12 13:57:21 -0300"
-    },
-    "done": true
-  },
-  "tombstone:recipe/book_of_oblivion": {
-    "criteria": {
-      "has_ingredient": "2025-07-12 13:59:49 -0300"
-    },
-    "done": true
-  },
-  "tombstone:adventure/create_decorative_grave": {
-    "criteria": {
-      "has_decorative_grave": "2025-07-12 13:59:49 -0300"
-    },
-    "done": true
-  },
-  "tombstone:recipe/voodoo_poppet": {
-    "criteria": {
-      "has_ingredient": "2025-07-12 13:59:49 -0300"
-    },
-    "done": true
-  },
-  "tombstone:recipe/book_of_repairing": {
-    "criteria": {
-      "has_ingredient": "2025-07-12 13:59:49 -0300"
-    },
-    "done": true
-  },
-  "tombstone:recipe/strange_scroll": {
-    "criteria": {
-      "has_ingredient": "2025-07-12 13:59:49 -0300"
-    },
-    "done": true
-  },
-  "tombstone:recipe/strange_tablet": {
-    "criteria": {
-      "has_ingredient": "2025-07-12 13:59:49 -0300"
-    },
-    "done": true
-  },
-  "tombstone:recipe/book_of_disenchantment": {
-    "criteria": {
-      "has_ingredient": "2025-07-12 13:59:49 -0300"
-    },
-    "done": true
-  },
-  "tombstone:recipe/book_of_soulbound": {
-    "criteria": {
-      "has_ingredient": "2025-07-12 13:59:49 -0300"
-    },
-    "done": true
-  },
-  "tombstone:recipe/book_of_scribe": {
-    "criteria": {
-      "has_ingredient": "2025-07-12 13:59:49 -0300"
-    },
-    "done": true
-  },
-  "tombstone:recipe/book_of_magic_impregnation": {
-    "criteria": {
-      "has_ingredient": "2025-07-12 13:59:49 -0300"
-    },
-    "done": true
-  },
-  "tombstone:recipe/book_of_recycling": {
-    "criteria": {
-      "has_ingredient": "2025-07-12 13:59:49 -0300"
-    },
-    "done": true
-  },
-  "tombstone:adventure/use_disenchantment": {
-    "criteria": {
-      "coded_trigger": "2025-07-12 14:05:04 -0300"
-    },
-    "done": true
-  },
-  "tombstone:adventure/consume_soul": {
-    "criteria": {
-      "coded_trigger": "2025-07-12 14:05:04 -0300"
-    },
-    "done": true
-  },
   "minecraft:nether/brew_potion": {
     "criteria": {
       "potion": "2025-07-12 14:20:52 -0300"
@@ -824,12 +579,6 @@
   "minecraft:story/enter_the_end": {
     "criteria": {
       "entered_end": "2025-07-12 14:57:42 -0300"
-    },
-    "done": true
-  },
-  "tombstone:adventure/chain_death": {
-    "criteria": {
-      "coded_trigger": "2025-07-12 15:06:03 -0300"
     },
     "done": true
   },
@@ -949,12 +698,6 @@
     },
     "done": true
   },
-  "tombstone:adventure/bone_crusher": {
-    "criteria": {
-      "coded_trigger": "2025-07-12 16:38:37 -0300"
-    },
-    "done": true
-  },
   "minecraft:nether/summon_wither": {
     "criteria": {
       "summoned": "2025-07-12 16:42:32 -0300"
@@ -967,30 +710,6 @@
       "rare_hand": "2025-07-13 20:53:24 -0300"
     },
     "done": false
-  },
-  "tombstone:adventure/strong_undead": {
-    "criteria": {
-      "coded_trigger": "2025-07-12 16:43:23 -0300"
-    },
-    "done": true
-  },
-  "tombstone:adventure/create_voodoo_poppet": {
-    "criteria": {
-      "has_voodoo_poppet": "2025-07-12 16:43:23 -0300"
-    },
-    "done": true
-  },
-  "tombstone:adventure/create_magic_scroll": {
-    "criteria": {
-      "has_magic_scroll": "2025-07-12 16:43:23 -0300"
-    },
-    "done": true
-  },
-  "tombstone:adventure/enchant_voodoo_poppet": {
-    "criteria": {
-      "has_enchanted_voodoo_poppet": "2025-07-12 16:43:23 -0300"
-    },
-    "done": true
   },
   "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
@@ -1053,12 +772,6 @@
     },
     "done": true
   },
-  "tombstone:adventure/ambush": {
-    "criteria": {
-      "coded_trigger": "2025-07-13 20:04:08 -0300"
-    },
-    "done": true
-  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-07-13 20:04:09 -0300"
@@ -1074,12 +787,6 @@
   "mekanismtools:loved_by_piglins": {
     "criteria": {
       "armor": "2025-07-13 20:56:06 -0300"
-    },
-    "done": true
-  },
-  "tombstone:adventure/create_familiar_receptacle": {
-    "criteria": {
-      "has_receptacle_of_familiar": "2025-07-13 21:04:38 -0300"
     },
     "done": true
   },
@@ -1149,12 +856,6 @@
     },
     "done": true
   },
-  "tombstone:adventure/create_magic_tablet": {
-    "criteria": {
-      "has_magic_tablet": "2025-07-18 20:42:00 -0300"
-    },
-    "done": true
-  },
   "occultism:chalks/white": {
     "criteria": {
       "chalk_white": "2025-07-18 21:19:18 -0300"
@@ -1176,6 +877,66 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_leggings": "2025-07-19 23:58:21 -0300"
+    },
+    "done": true
+  },
+  "tombstone:event/root": {
+    "criteria": {
+      "christmas": "2025-12-12 13:33:20 -0300"
+    },
+    "done": true
+  },
+  "tombstone:event/christmas": {
+    "criteria": {
+      "coded_trigger": "2025-12-12 13:33:20 -0300"
+    },
+    "done": true
+  },
+  "tombstone:event/mysterious_gift": {
+    "criteria": {
+      "coded_trigger": "2025-12-12 13:33:20 -0300"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2025-12-12 13:33:20 -0300"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-12-12 14:28:44 -0300"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-12-12 14:28:53 -0300"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-12-12 14:29:00 -0300"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-12-12 14:29:26 -0300"
+    },
+    "done": true
+  },
+  "javd:enter_mining_dimension": {
+    "criteria": {
+      "enter_dimension": "2025-12-12 14:46:07 -0300"
+    },
+    "done": true
+  },
+  "constructionstick:template_angel": {
+    "criteria": {
+      "template_angel": "2025-12-12 14:54:24 -0300"
     },
     "done": true
   },

@@ -2673,5 +2673,17 @@
     },
     "done": true
   },
+  "tombstone:event/christmas": {
+    "criteria": {
+      "coded_trigger": "2025-12-13 10:59:55 -0300"
+    },
+    "done": true
+  },
+  "tombstone:event/mysterious_gift": {
+    "criteria": {
+      "coded_trigger": "2025-12-13 10:59:55 -0300"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
