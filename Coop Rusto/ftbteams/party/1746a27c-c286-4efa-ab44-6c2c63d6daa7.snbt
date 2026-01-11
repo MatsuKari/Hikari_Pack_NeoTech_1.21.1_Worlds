@@ -1,0 +1,37 @@
+{
+	id: "1746a27c-c286-4efa-ab44-6c2c63d6daa7"
+	type: "party"
+	owner: "f72c42d0-27df-43e9-ae58-54ec04d6ee55"
+	ranks: {
+		659b0c33-254e-4323-b29c-7d14876dae70: "member"
+		f72c42d0-27df-43e9-ae58-54ec04d6ee55: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Party dos Bródi"
+		"ftbteams:description": "Party Minha e do Rusto"
+		"ftbteams:color": "#FF59E0"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_mob_griefing": 0b
+		"ftbchunks:allow_fake_players": 0b
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:allow_pvp": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1767235592088L, text: "{\"translate\":\"ftbteams.message.joined\",\"with\":[\"MatsuKari\"],\"color\":\"yellow\"}" }
+		{ from: "f72c42d0-27df-43e9-ae58-54ec04d6ee55", date: 1767235592096L, text: "{\"translate\":\"ftbteams.message.invited\",\"with\":[{\"text\":\"atomic_flail\",\"color\":\"yellow\"}],\"color\":\"green\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1767235601777L, text: "{\"translate\":\"ftbteams.message.joined\",\"with\":[\"atomic_flail\"],\"color\":\"green\"}" }
+		{ from: "f72c42d0-27df-43e9-ae58-54ec04d6ee55", date: 1767235649345L, text: "{\"translate\":\"ftbteams.message.kicked\",\"with\":[{\"text\":\"atomic_flail\",\"color\":\"yellow\"},{\"text\":\"Party dos Bródi\",\"hoverEvent\":{\"contents\":{\"translate\":\"ftbteams.click_show_info\"},\"action\":\"show_text\"},\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/ftbteams info Party_dos_Br_di#1746a27c\"},\"color\":\"aqua\"}],\"color\":\"gold\"}" }
+		{ from: "f72c42d0-27df-43e9-ae58-54ec04d6ee55", date: 1767236282915L, text: "{\"translate\":\"ftbteams.message.invited\",\"with\":[{\"text\":\"atomic_flail\",\"color\":\"yellow\"}],\"color\":\"green\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1767236288338L, text: "{\"translate\":\"ftbteams.message.joined\",\"with\":[\"atomic_flail\"],\"color\":\"green\"}" }
+	]
+	extra: { }
+}
