@@ -1652,15 +1652,15 @@
     },
     "done": false
   },
-  "integrateddynamics:logic_operations/constant_definition": {
-    "criteria": {
-      "criteria_0": "2025-12-26 21:04:33 -0300"
-    },
-    "done": true
-  },
   "integrateddynamics:logic_operations/logic_programming": {
     "criteria": {
       "criteria_0": "2025-12-26 21:04:27 -0300"
+    },
+    "done": true
+  },
+  "integrateddynamics:logic_operations/constant_definition": {
+    "criteria": {
+      "criteria_0": "2025-12-26 21:04:33 -0300"
     },
     "done": true
   },
