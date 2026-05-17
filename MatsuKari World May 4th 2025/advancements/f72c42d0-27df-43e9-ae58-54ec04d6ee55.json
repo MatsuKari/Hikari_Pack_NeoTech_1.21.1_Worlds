@@ -2005,5 +2005,65 @@
     },
     "done": true
   },
+  "occultism:occultism/summon_marid_crystallizer": {
+    "criteria": {
+      "summon_marid_crystallizer": "2026-01-28 21:29:59 -0300"
+    },
+    "done": true
+  },
+  "occultism:occultism/misc_bell": {
+    "criteria": {
+      "misc_bell": "2026-01-28 21:46:08 -0300"
+    },
+    "done": true
+  },
+  "vanilla_refresh:player/hurt": {
+    "criteria": {
+      "requirement": "2026-01-28 21:59:04 -0300"
+    },
+    "done": true
+  },
+  "occultism:occultism/misc_eldritch_chalice": {
+    "criteria": {
+      "misc_eldritch_chalice": "2026-01-28 22:33:06 -0300"
+    },
+    "done": true
+  },
+  "integratedtunnels:importer_exporter/importer_item": {
+    "criteria": {
+      "criteria_0": "2026-01-28 23:08:35 -0300"
+    },
+    "done": true
+  },
+  "mekanism:item_transport": {
+    "criteria": {
+      "basic_logistical_transporter": "2026-01-28 23:18:58 -0300"
+    },
+    "done": true
+  },
+  "integratedtunnels:root": {
+    "criteria": {
+      "criteria_0": "2026-01-28 23:22:13 -0300"
+    },
+    "done": true
+  },
+  "integrateddynamics:logic_operations/logic_programming": {
+    "criteria": {
+      "criteria_0": "2026-01-28 23:27:47 -0300"
+    },
+    "done": true
+  },
+  "integrateddynamics:logic_operations/constant_definition": {
+    "criteria": {
+      "criteria_0": "2026-01-28 23:27:56 -0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2026-02-16 08:51:40 -0300"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
