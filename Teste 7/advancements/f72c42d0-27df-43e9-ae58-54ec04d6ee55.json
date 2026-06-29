@@ -197,5 +197,941 @@
     },
     "done": true
   },
+  "industrialforegoing:dissolution_chamber/brown_laser_lens": {
+    "criteria": {
+      "has_the_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "apothic_enchanting:enchanter": {
+    "criteria": {
+      "enchanting_table": "2026-06-29 02:32:51 -0300"
+    },
+    "done": true
+  },
+  "industrialforegoing:dissolution_chamber/light_blue_laser_lens": {
+    "criteria": {
+      "has_the_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/scroll_of_preservation": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "industrialforegoing:dissolution_chamber/infinity_drill": {
+    "criteria": {
+      "has_the_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "industrialforegoing:dissolution_chamber/green_laser_lens": {
+    "criteria": {
+      "has_the_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "industrialforegoing:dissolution_chamber/gray_laser_lens": {
+    "criteria": {
+      "has_the_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/fishing_rod_of_misadventure": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/book_of_oblivion": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "industrialforegoing:dissolution_chamber/black_laser_lens": {
+    "criteria": {
+      "has_the_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/green_subaraki_grave": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "industrialforegoing:dissolution_chamber/processing_addon_5": {
+    "criteria": {
+      "has_the_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "industrialforegoing:dissolution_chamber/processing_addon_6": {
+    "criteria": {
+      "has_the_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "industrialforegoing:dissolution_chamber/processing_addon_3": {
+    "criteria": {
+      "has_the_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "industrialforegoing:dissolution_chamber/processing_addon_4": {
+    "criteria": {
+      "has_the_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/green_tombstone": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "industrialforegoing:dissolution_chamber/processing_addon_7": {
+    "criteria": {
+      "has_the_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "industrialforegoing:dissolution_chamber/processing_addon_8": {
+    "criteria": {
+      "has_the_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/dark_marble_stairs": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "industrialforegoing:dissolution_chamber/pink_slime_ingot": {
+    "criteria": {
+      "has_the_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/white_grave_original": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "industrialforegoing:dissolution_chamber/infinity_hammer": {
+    "criteria": {
+      "has_the_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/blue_marble_wall": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "industrialforegoing:dissolution_chamber/industrialforegoing.efficiency_addon_tier_2": {
+    "criteria": {
+      "has_the_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/voodoo_poppet": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/carmin_grave_cross": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/carmin_marble_stairs": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/carmin_grave_normal": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/white_tombstone": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "industrialforegoing:dissolution_chamber/cyan_laser_lens": {
+    "criteria": {
+      "has_the_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/grave_plate": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/book_of_repairing": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/strange_scroll": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/scroll_of_frost_resistance": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "industrialforegoing:dissolution_chamber/efficiency_addon_6": {
+    "criteria": {
+      "has_the_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "industrialforegoing:dissolution_chamber/efficiency_addon_5": {
+    "criteria": {
+      "has_the_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "industrialforegoing:dissolution_chamber/efficiency_addon_8": {
+    "criteria": {
+      "has_the_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "industrialforegoing:dissolution_chamber/efficiency_addon_7": {
+    "criteria": {
+      "has_the_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "industrialforegoing:dissolution_chamber/efficiency_addon_4": {
+    "criteria": {
+      "has_the_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "industrialforegoing:dissolution_chamber/efficiency_addon_3": {
+    "criteria": {
+      "has_the_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/carmin_subaraki_grave": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/blue_marble_stairs": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "industrialforegoing:dissolution_chamber/light_gray_laser_lens": {
+    "criteria": {
+      "has_the_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "industrialforegoing:dissolution_chamber/supreme_machine_frame": {
+    "criteria": {
+      "has_the_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/white_subaraki_grave": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/white_marble_slab": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/scroll_of_purification": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/strange_tablet": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "industrialforegoing:dissolution_chamber/range_addon_tier_8": {
+    "criteria": {
+      "has_the_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "industrialforegoing:dissolution_chamber/range_addon_tier_9": {
+    "criteria": {
+      "has_the_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/green_marble_slab": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "industrialforegoing:dissolution_chamber/orange_laser_lens": {
+    "criteria": {
+      "has_the_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "industrialforegoing:dissolution_chamber/mycelial_reactor": {
+    "criteria": {
+      "has_the_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "industrialforegoing:dissolution_chamber/range_addon_tier_6": {
+    "criteria": {
+      "has_the_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "industrialforegoing:dissolution_chamber/range_addon_tier_7": {
+    "criteria": {
+      "has_the_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "industrialforegoing:dissolution_chamber/range_addon_tier_4": {
+    "criteria": {
+      "has_the_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "industrialforegoing:dissolution_chamber/range_addon_tier_5": {
+    "criteria": {
+      "has_the_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "industrialforegoing:dissolution_chamber/range_addon_tier_2": {
+    "criteria": {
+      "has_the_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "industrialforegoing:dissolution_chamber/range_addon_tier_3": {
+    "criteria": {
+      "has_the_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "industrialforegoing:dissolution_chamber/range_addon_tier_0": {
+    "criteria": {
+      "has_the_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "industrialforegoing:dissolution_chamber/range_addon_tier_1": {
+    "criteria": {
+      "has_the_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/black_grave_cross": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/black_tombstone": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/green_marble_wall": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/receptacle_of_familiar": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/scroll_of_true_sight": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/dust_of_frost": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/white_grave_simple": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "industrialforegoing:dissolution_chamber/efficiency_addon_tier_1": {
+    "criteria": {
+      "has_the_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/blue_marble": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "industrialforegoing:dissolution_chamber/efficiency_addon_tier_2": {
+    "criteria": {
+      "has_the_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/book_of_disenchantment": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "industrialforegoing:dissolution_chamber/advanced_machine_frame": {
+    "criteria": {
+      "has_the_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "industrialforegoing:dissolution_chamber/pink_slime_ball": {
+    "criteria": {
+      "has_the_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/white_marble_wall": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/blue_grave_original": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/carmin_marble_slab": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/scroll_of_unstable_intangibility": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/blue_subaraki_grave": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/bone_needle": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "industrialforegoing:dissolution_chamber/infinity_nuke": {
+    "criteria": {
+      "has_the_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/scroll_of_aquatic_life": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "industrialforegoing:dissolution_chamber/speed_addon_tier_2": {
+    "criteria": {
+      "has_the_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "industrialforegoing:dissolution_chamber/speed_addon_tier_1": {
+    "criteria": {
+      "has_the_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "industrialforegoing:dissolution_chamber/infinity_trident": {
+    "criteria": {
+      "has_the_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/blue_grave_cross": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/green_grave_original": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/green_marble_stairs": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "industrialforegoing:dissolution_chamber/white_laser_lens": {
+    "criteria": {
+      "has_the_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/black_grave_simple": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/blue_grave_simple": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/dark_marble_slab": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "industrialforegoing:dissolution_chamber/lime_laser_lens": {
+    "criteria": {
+      "has_the_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/carmin_marble_wall": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/scroll_of_knowledge": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/carmin_grave_original": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "industrialforegoing:dissolution_chamber/speed_addon_3": {
+    "criteria": {
+      "has_the_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "industrialforegoing:dissolution_chamber/speed_addon_4": {
+    "criteria": {
+      "has_the_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "industrialforegoing:dissolution_chamber/speed_addon_7": {
+    "criteria": {
+      "has_the_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "industrialforegoing:dissolution_chamber/speed_addon_8": {
+    "criteria": {
+      "has_the_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/green_grave_normal": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "industrialforegoing:dissolution_chamber/speed_addon_5": {
+    "criteria": {
+      "has_the_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "industrialforegoing:dissolution_chamber/speed_addon_6": {
+    "criteria": {
+      "has_the_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/scroll_of_mercy": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/scroll_of_lightning_resistance": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/dark_marble": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/ankh_of_prayer": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "industrialforegoing:dissolution_chamber/blue_laser_lens": {
+    "criteria": {
+      "has_the_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/book_of_soulbound": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/green_grave_simple": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "industrialforegoing:dissolution_chamber/xp_bottles": {
+    "criteria": {
+      "has_the_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "industrialforegoing:dissolution_chamber/magenta_laser_lens": {
+    "criteria": {
+      "has_the_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/blue_marble_slab": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "industrialforegoing:dissolution_chamber/purple_laser_lens": {
+    "criteria": {
+      "has_the_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "industrialforegoing:dissolution_chamber/yellow_laser_lens": {
+    "criteria": {
+      "has_the_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/tablet_of_cupidity": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/blue_grave_normal": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/dust_of_vanishing": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/white_grave_normal": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "industrialforegoing:dissolution_chamber/simple_machine_frame": {
+    "criteria": {
+      "has_the_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "industrialforegoing:dissolution_chamber/infinity_launcher": {
+    "criteria": {
+      "has_the_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/carmin_tombstone": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/tablet_of_assistance": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/blue_tombstone": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/tablet_of_home": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/smoke_ball": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/impregnated_diamond": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "industrialforegoing:dissolution_chamber/pink_laser_lens": {
+    "criteria": {
+      "has_the_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "naturescompass:repair_natures_compass": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "industrialforegoing:dissolution_chamber/mechanical_dirt": {
+    "criteria": {
+      "has_the_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "industrialforegoing:dissolution_chamber/industrialforegoing.speed_addon_tier_2": {
+    "criteria": {
+      "has_the_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "industrialforegoing:dissolution_chamber/processing_addon_tier_1": {
+    "criteria": {
+      "has_the_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/scroll_of_reach": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "industrialforegoing:dissolution_chamber/processing_addon_tier_2": {
+    "criteria": {
+      "has_the_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/white_grave_cross": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/tablet_of_recall": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "industrialforegoing:dissolution_chamber/range_addon_tier_11": {
+    "criteria": {
+      "has_the_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "industrialforegoing:dissolution_chamber/range_addon_tier_10": {
+    "criteria": {
+      "has_the_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/green_marble": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/book_of_scribe": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/book_of_magic_impregnation": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/carmin_marble": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "industrialforegoing:dissolution_chamber/infinity_saw": {
+    "criteria": {
+      "has_the_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/scroll_of_feather_fall": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/green_grave_cross": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/carmin_grave_simple": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "industrialforegoing:dissolution_chamber/red_laser_lens": {
+    "criteria": {
+      "has_the_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/tablet_of_guard": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/black_subaraki_grave": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/black_grave_normal": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/white_marble_stairs": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/white_marble": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "industrialforegoing:dissolution_chamber/industrialforegoing.processing_addon_tier_2": {
+    "criteria": {
+      "has_the_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/book_of_recycling": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/black_grave_original": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
+  "tombstone:recipe/dark_marble_wall": {
+    "criteria": {
+      "has_recipe": "2026-06-29 02:32:05 -0300"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
