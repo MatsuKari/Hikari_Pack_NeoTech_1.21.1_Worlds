@@ -3448,21 +3448,15 @@
     },
     "done": true
   },
-  "vanilla_refresh:player/end_teleport": {
+  "vanilla_refresh:biome/snowy_taiga": {
     "criteria": {
-      "s3": "2026-07-14 22:45:48 -0300"
+      "requirement": "2026-07-14 22:31:48 -0300"
     },
-    "done": false
+    "done": true
   },
   "vanilla_refresh:biome/snowy_plains": {
     "criteria": {
       "requirement": "2026-07-14 22:34:01 -0300"
-    },
-    "done": true
-  },
-  "vanilla_refresh:biome/meadows": {
-    "criteria": {
-      "requirement": "2026-07-14 22:46:08 -0300"
     },
     "done": true
   },
@@ -3472,11 +3466,11 @@
     },
     "done": true
   },
-  "twilightforest:root": {
+  "vanilla_refresh:player/end_teleport": {
     "criteria": {
-      "make_portal": "2026-07-14 22:50:01 -0300"
+      "s3": "2026-07-14 22:45:48 -0300"
     },
-    "done": true
+    "done": false
   },
   "vanilla_refresh:biome/flower_forest": {
     "criteria": {
@@ -3484,9 +3478,15 @@
     },
     "done": true
   },
-  "vanilla_refresh:biome/snowy_taiga": {
+  "vanilla_refresh:biome/meadows": {
     "criteria": {
-      "requirement": "2026-07-14 22:31:48 -0300"
+      "requirement": "2026-07-14 22:46:08 -0300"
+    },
+    "done": true
+  },
+  "twilightforest:root": {
+    "criteria": {
+      "make_portal": "2026-07-14 22:50:01 -0300"
     },
     "done": true
   },
