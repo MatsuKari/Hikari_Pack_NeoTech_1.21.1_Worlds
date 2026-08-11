@@ -1348,5 +1348,29 @@
     },
     "done": true
   },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2026-08-08 23:43:46 -0300"
+    },
+    "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "1": "2026-08-08 23:41:40 -0300"
+    },
+    "done": false
+  },
+  "create:mechanical_press": {
+    "criteria": {
+      "0": "2026-08-08 23:43:48 -0300"
+    },
+    "done": true
+  },
+  "create:shifting_gears": {
+    "criteria": {
+      "0": "2026-08-08 23:40:17 -0300"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
