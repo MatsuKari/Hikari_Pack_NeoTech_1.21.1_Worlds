@@ -3490,5 +3490,11 @@
     },
     "done": true
   },
+  "create:copper": {
+    "criteria": {
+      "0": "2026-08-15 10:58:45 -0300"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
