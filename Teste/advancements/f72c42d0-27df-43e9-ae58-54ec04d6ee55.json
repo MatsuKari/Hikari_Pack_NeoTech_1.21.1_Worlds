@@ -1348,9 +1348,9 @@
     },
     "done": true
   },
-  "minecraft:story/smelt_iron": {
+  "create:shifting_gears": {
     "criteria": {
-      "iron": "2026-08-08 23:43:46 -0300"
+      "0": "2026-08-08 23:40:17 -0300"
     },
     "done": true
   },
@@ -1360,15 +1360,27 @@
     },
     "done": false
   },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2026-08-08 23:43:46 -0300"
+    },
+    "done": true
+  },
   "create:mechanical_press": {
     "criteria": {
       "0": "2026-08-08 23:43:48 -0300"
     },
     "done": true
   },
-  "create:shifting_gears": {
+  "swplanets:craft_light_saber": {
     "criteria": {
-      "0": "2026-08-08 23:40:17 -0300"
+      "requirement": "2026-08-16 19:55:26 -0300"
+    },
+    "done": true
+  },
+  "swplanets:star_manual": {
+    "criteria": {
+      "tier_3_rocket": "2026-08-16 19:55:26 -0300"
     },
     "done": true
   },

@@ -3496,5 +3496,17 @@
     },
     "done": true
   },
+  "swplanets:craft_light_saber": {
+    "criteria": {
+      "requirement": "2026-08-16 20:56:36 -0300"
+    },
+    "done": true
+  },
+  "swplanets:star_manual": {
+    "criteria": {
+      "tier_3_rocket": "2026-08-16 20:56:36 -0300"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
