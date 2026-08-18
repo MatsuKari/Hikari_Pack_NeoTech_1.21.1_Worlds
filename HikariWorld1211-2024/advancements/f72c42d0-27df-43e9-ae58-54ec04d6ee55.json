@@ -3508,5 +3508,11 @@
     },
     "done": true
   },
+  "wcwt:obtain_wireless_comprehensive_work_terminal": {
+    "criteria": {
+      "has_terminal": "2026-08-17 13:49:00 -0300"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
