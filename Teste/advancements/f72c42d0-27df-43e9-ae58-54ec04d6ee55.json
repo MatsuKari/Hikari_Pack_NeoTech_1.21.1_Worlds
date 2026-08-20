@@ -1384,5 +1384,17 @@
     },
     "done": true
   },
+  "ae2:main/charger": {
+    "criteria": {
+      "certus": "2026-08-18 21:29:01 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2026-08-18 21:31:33 -0300"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
