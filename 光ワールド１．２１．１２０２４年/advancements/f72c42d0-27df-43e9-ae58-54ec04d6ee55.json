@@ -3498,18 +3498,6 @@
     },
     "done": true
   },
-  "swplanets:craft_light_saber": {
-    "criteria": {
-      "requirement": "2026-08-16 20:56:36 -0300"
-    },
-    "done": true
-  },
-  "swplanets:star_manual": {
-    "criteria": {
-      "tier_3_rocket": "2026-08-16 20:56:36 -0300"
-    },
-    "done": true
-  },
   "wcwt:obtain_wireless_comprehensive_work_terminal": {
     "criteria": {
       "has_terminal": "2026-08-17 13:49:00 -0300"
@@ -3555,18 +3543,6 @@
   "irons_spellbooks:irons_spellbooks/ink_root": {
     "criteria": {
       "requirement": "2026-08-19 22:24:33 -0300"
-    },
-    "done": true
-  },
-  "stellaris:rocket_station": {
-    "criteria": {
-      "rocket_station": "2026-08-19 23:05:35 -0300"
-    },
-    "done": true
-  },
-  "stellaris:rocket": {
-    "criteria": {
-      "rocket": "2026-08-19 23:09:09 -0300"
     },
     "done": true
   },
