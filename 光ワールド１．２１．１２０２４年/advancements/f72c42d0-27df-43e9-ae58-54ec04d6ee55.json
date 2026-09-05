@@ -1,3578 +1,3632 @@
 {
   "mekanism:root": {
     "criteria": {
-      "automatic": "2024-11-04 21:00:49 -0300"
+      "automatic": "2024-11-05 00:00:49 +0000"
     },
     "done": true
   },
   "ars_nouveau:root": {
     "criteria": {
-      "ars_nouveau:worn_notebook": "2024-11-04 21:00:49 -0300"
+      "ars_nouveau:worn_notebook": "2024-11-05 00:00:49 +0000"
     },
     "done": true
   },
   "occultism:chalks/root": {
     "criteria": {
-      "always": "2024-11-04 21:00:49 -0300"
+      "always": "2024-11-05 00:00:49 +0000"
     },
     "done": true
   },
   "occultism:occultism/root": {
     "criteria": {
-      "occultism_present": "2024-11-04 21:00:49 -0300"
+      "occultism_present": "2024-11-05 00:00:49 +0000"
     },
     "done": true
   },
   "tombstone:adventure/root": {
     "criteria": {
-      "auto": "2024-11-04 21:00:53 -0300"
+      "auto": "2024-11-05 00:00:53 +0000"
     },
     "done": true
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:cold_ocean": "2024-11-18 21:36:09 -0300",
-      "minecraft:old_growth_pine_taiga": "2026-08-19 23:18:59 -0300",
-      "minecraft:mushroom_fields": "2024-11-11 21:30:07 -0300",
-      "minecraft:forest": "2024-11-04 21:38:52 -0300",
-      "minecraft:taiga": "2025-04-18 00:50:08 -0300",
-      "minecraft:deep_ocean": "2024-11-17 20:52:16 -0300",
-      "minecraft:lush_caves": "2024-11-09 17:42:10 -0300",
-      "minecraft:deep_cold_ocean": "2024-12-08 00:47:29 -0300",
-      "minecraft:frozen_ocean": "2024-11-09 17:41:08 -0300",
-      "minecraft:eroded_badlands": "2024-11-09 17:05:53 -0300",
-      "minecraft:desert": "2024-11-05 23:42:03 -0300",
-      "minecraft:frozen_river": "2026-07-14 22:34:15 -0300",
-      "minecraft:deep_frozen_ocean": "2024-11-18 21:30:15 -0300",
-      "minecraft:ocean": "2025-01-18 23:10:28 -0300",
-      "minecraft:jungle": "2025-01-18 23:16:21 -0300",
-      "minecraft:sunflower_plains": "2024-11-19 22:03:02 -0300",
-      "minecraft:cherry_grove": "2024-12-06 20:12:29 -0300",
-      "minecraft:birch_forest": "2025-01-18 23:20:51 -0300",
-      "minecraft:windswept_hills": "2025-04-18 00:49:41 -0300",
-      "minecraft:old_growth_spruce_taiga": "2026-08-19 23:18:57 -0300",
-      "minecraft:snowy_beach": "2024-12-08 00:48:53 -0300",
-      "minecraft:bamboo_jungle": "2025-01-18 23:11:06 -0300",
-      "minecraft:warm_ocean": "2024-11-18 21:39:13 -0300",
-      "minecraft:badlands": "2024-11-05 23:42:55 -0300",
-      "minecraft:flower_forest": "2024-11-04 21:42:12 -0300",
-      "minecraft:savanna_plateau": "2024-11-13 16:43:50 -0300",
-      "minecraft:beach": "2024-11-05 19:50:06 -0300",
-      "minecraft:dark_forest": "2024-12-04 20:13:39 -0300",
-      "minecraft:mangrove_swamp": "2024-11-10 16:41:13 -0300",
-      "minecraft:sparse_jungle": "2025-01-21 17:34:03 -0300",
-      "minecraft:river": "2024-11-04 23:07:36 -0300",
-      "minecraft:lukewarm_ocean": "2025-01-20 13:36:12 -0300",
-      "minecraft:stony_shore": "2025-01-18 00:06:53 -0300",
-      "minecraft:snowy_plains": "2025-01-23 15:09:45 -0300",
-      "minecraft:dripstone_caves": "2024-11-10 15:05:45 -0300",
-      "minecraft:snowy_taiga": "2025-01-23 15:09:00 -0300",
-      "minecraft:old_growth_birch_forest": "2024-11-04 21:00:53 -0300",
-      "minecraft:deep_dark": "2024-11-10 15:06:30 -0300",
-      "minecraft:swamp": "2024-11-10 16:42:01 -0300",
-      "minecraft:meadow": "2024-11-04 21:42:13 -0300",
-      "minecraft:savanna": "2024-11-10 16:42:35 -0300",
-      "minecraft:plains": "2024-11-04 21:37:51 -0300"
+      "minecraft:cold_ocean": "2024-11-19 00:36:09 +0000",
+      "minecraft:old_growth_pine_taiga": "2026-08-20 02:18:59 +0000",
+      "minecraft:mushroom_fields": "2024-11-12 00:30:07 +0000",
+      "minecraft:forest": "2024-11-05 00:38:52 +0000",
+      "minecraft:taiga": "2025-04-18 03:50:08 +0000",
+      "minecraft:deep_ocean": "2024-11-17 23:52:16 +0000",
+      "minecraft:lush_caves": "2024-11-09 20:42:10 +0000",
+      "minecraft:deep_cold_ocean": "2024-12-08 03:47:29 +0000",
+      "minecraft:frozen_ocean": "2024-11-09 20:41:08 +0000",
+      "minecraft:eroded_badlands": "2024-11-09 20:05:53 +0000",
+      "minecraft:desert": "2024-11-06 02:42:03 +0000",
+      "minecraft:frozen_river": "2026-07-15 01:34:15 +0000",
+      "minecraft:deep_frozen_ocean": "2024-11-19 00:30:15 +0000",
+      "minecraft:ocean": "2025-01-19 02:10:28 +0000",
+      "minecraft:jungle": "2025-01-19 02:16:21 +0000",
+      "minecraft:sunflower_plains": "2024-11-20 01:03:02 +0000",
+      "minecraft:cherry_grove": "2024-12-06 23:12:29 +0000",
+      "minecraft:birch_forest": "2025-01-19 02:20:51 +0000",
+      "minecraft:windswept_hills": "2025-04-18 03:49:41 +0000",
+      "minecraft:old_growth_spruce_taiga": "2026-08-20 02:18:57 +0000",
+      "minecraft:snowy_beach": "2024-12-08 03:48:53 +0000",
+      "minecraft:bamboo_jungle": "2025-01-19 02:11:06 +0000",
+      "minecraft:warm_ocean": "2024-11-19 00:39:13 +0000",
+      "minecraft:badlands": "2024-11-06 02:42:55 +0000",
+      "minecraft:flower_forest": "2024-11-05 00:42:12 +0000",
+      "minecraft:savanna_plateau": "2024-11-13 19:43:50 +0000",
+      "minecraft:beach": "2024-11-05 22:50:06 +0000",
+      "minecraft:dark_forest": "2024-12-04 23:13:39 +0000",
+      "minecraft:mangrove_swamp": "2024-11-10 19:41:13 +0000",
+      "minecraft:sparse_jungle": "2025-01-21 20:34:03 +0000",
+      "minecraft:river": "2024-11-05 02:07:36 +0000",
+      "minecraft:lukewarm_ocean": "2025-01-20 16:36:12 +0000",
+      "minecraft:stony_shore": "2025-01-18 03:06:53 +0000",
+      "minecraft:snowy_plains": "2025-01-23 18:09:45 +0000",
+      "minecraft:dripstone_caves": "2024-11-10 18:05:45 +0000",
+      "minecraft:snowy_taiga": "2025-01-23 18:09:00 +0000",
+      "minecraft:old_growth_birch_forest": "2024-11-05 00:00:53 +0000",
+      "minecraft:deep_dark": "2024-11-10 18:06:30 +0000",
+      "minecraft:swamp": "2024-11-10 19:42:01 +0000",
+      "minecraft:meadow": "2024-11-05 00:42:13 +0000",
+      "minecraft:savanna": "2024-11-10 19:42:35 +0000",
+      "minecraft:plains": "2024-11-05 00:37:51 +0000"
     },
     "done": false
   },
   "minecraft:story/mine_stone": {
     "criteria": {
-      "get_stone": "2024-11-04 21:43:23 -0300"
+      "get_stone": "2024-11-05 00:43:23 +0000"
     },
     "done": true
   },
   "silentgear:root": {
     "criteria": {
-      "get_item": "2024-11-04 21:43:34 -0300"
+      "get_item": "2024-11-05 00:43:34 +0000"
     },
     "done": true
   },
   "minecraft:story/root": {
     "criteria": {
-      "crafting_table": "2024-11-04 21:43:34 -0300"
+      "crafting_table": "2024-11-05 00:43:34 +0000"
     },
     "done": true
   },
   "minecraft:story/upgrade_tools": {
     "criteria": {
-      "stone_pickaxe": "2024-11-04 21:44:00 -0300"
+      "stone_pickaxe": "2024-11-05 00:44:00 +0000"
     },
     "done": true
   },
   "evilcraft:root": {
     "criteria": {
-      "criteria_0": "2024-11-05 19:48:36 -0300"
+      "criteria_0": "2024-11-05 22:48:36 +0000"
     },
     "done": true
   },
   "evilcraft:first_age": {
     "criteria": {
-      "criteria_0": "2024-11-05 19:48:36 -0300"
+      "criteria_0": "2024-11-05 22:48:36 +0000"
     },
     "done": true
   },
   "ae2:main/root": {
     "criteria": {
-      "copper": "2024-11-05 21:04:54 -0300"
+      "copper": "2024-11-06 00:04:54 +0000"
     },
     "done": true
   },
   "minecraft:story/smelt_iron": {
     "criteria": {
-      "iron": "2024-11-05 21:12:49 -0300"
+      "iron": "2024-11-06 00:12:49 +0000"
     },
     "done": true
   },
   "mekanismtools:alternate_tools": {
     "criteria": {
-      "tools": "2024-11-05 21:13:04 -0300"
+      "tools": "2024-11-06 00:13:04 +0000"
     },
     "done": true
   },
   "actuallyadditions:craft_coal_generator": {
     "criteria": {
-      "coal_generator": "2024-11-05 21:14:27 -0300"
+      "coal_generator": "2024-11-06 00:14:27 +0000"
     },
     "done": true
   },
   "mekanism:materials": {
     "criteria": {
-      "material": "2024-11-05 21:28:14 -0300"
+      "material": "2024-11-06 00:28:14 +0000"
     },
     "done": true
   },
   "mekanism:metallurgic_infuser": {
     "criteria": {
-      "metallurgic_infuser": "2024-11-05 21:29:25 -0300"
+      "metallurgic_infuser": "2024-11-06 00:29:25 +0000"
     },
     "done": true
   },
   "mekanism:basic_control_circuit": {
     "criteria": {
-      "basic_control_circuit": "2024-11-05 21:40:15 -0300"
+      "basic_control_circuit": "2024-11-06 00:40:15 +0000"
     },
     "done": true
   },
   "mekanism:steel_ingot": {
     "criteria": {
-      "ingot_steel": "2024-11-05 21:43:08 -0300"
+      "ingot_steel": "2024-11-06 00:43:08 +0000"
     },
     "done": true
   },
   "mekanism:steel_casing": {
     "criteria": {
-      "steel_casing": "2024-11-05 21:43:14 -0300"
+      "steel_casing": "2024-11-06 00:43:14 +0000"
     },
     "done": true
   },
   "mekanism:enricher": {
     "criteria": {
-      "enrichment_chamber": "2024-11-05 21:43:30 -0300"
+      "enrichment_chamber": "2024-11-06 00:43:30 +0000"
     },
     "done": true
   },
   "mekanism:infusing_efficiency": {
     "criteria": {
-      "enriched_material": "2024-11-05 21:45:34 -0300"
+      "enriched_material": "2024-11-06 00:45:34 +0000"
     },
     "done": true
   },
   "mekanism:energy_transport": {
     "criteria": {
-      "basic_universal_cable": "2024-11-05 21:47:50 -0300"
+      "basic_universal_cable": "2024-11-06 00:47:50 +0000"
     },
     "done": true
   },
   "mekanism:installer": {
     "criteria": {
-      "installer": "2024-11-05 22:04:37 -0300"
+      "installer": "2024-11-06 01:04:37 +0000"
     },
     "done": true
   },
   "mekanism:factory": {
     "criteria": {
-      "tier_installer": "2024-11-05 22:05:13 -0300"
+      "tier_installer": "2024-11-06 01:05:13 +0000"
     },
     "done": true
   },
   "mekanismtools:alternate_armor": {
     "criteria": {
-      "armor": "2024-11-05 22:48:26 -0300"
+      "armor": "2024-11-06 01:48:26 +0000"
     },
     "done": true
   },
   "mekanism:fluid_tank": {
     "criteria": {
-      "basic_fluid_tank": "2024-11-05 23:03:58 -0300"
+      "basic_fluid_tank": "2024-11-06 02:03:58 +0000"
     },
     "done": true
   },
   "minecraft:story/lava_bucket": {
     "criteria": {
-      "lava_bucket": "2024-11-05 23:10:59 -0300"
+      "lava_bucket": "2024-11-06 02:10:59 +0000"
     },
     "done": true
   },
   "minecraft:story/mine_diamond": {
     "criteria": {
-      "diamond": "2024-11-05 23:13:14 -0300"
+      "diamond": "2024-11-06 02:13:14 +0000"
     },
     "done": true
   },
   "evilcraft:second_age": {
     "criteria": {
-      "criteria_0": "2024-11-05 23:31:28 -0300"
+      "criteria_0": "2024-11-06 02:31:28 +0000"
     },
     "done": true
   },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
-      "slept_in_bed": "2024-11-05 23:32:57 -0300"
+      "slept_in_bed": "2024-11-06 02:32:57 +0000"
     },
     "done": true
   },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
-      "minecraft:spider": "2024-11-05 23:34:33 -0300"
+      "minecraft:spider": "2024-11-06 02:34:33 +0000"
     },
     "done": true
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:blaze": "2024-11-09 17:20:32 -0300",
-      "minecraft:skeleton": "2024-11-05 23:36:34 -0300",
-      "minecraft:wither_skeleton": "2024-11-13 23:14:57 -0300",
-      "minecraft:husk": "2024-11-05 23:57:03 -0300",
-      "minecraft:ghast": "2024-12-03 22:39:26 -0300",
-      "minecraft:ender_dragon": "2024-11-13 23:31:23 -0300",
-      "minecraft:shulker": "2024-11-11 21:04:34 -0300",
-      "minecraft:piglin": "2025-02-10 22:55:35 -0300",
-      "minecraft:guardian": "2025-01-20 15:37:28 -0300",
-      "minecraft:breeze": "2025-03-08 18:30:45 -0300",
-      "minecraft:enderman": "2024-11-06 00:00:24 -0300",
-      "minecraft:magma_cube": "2024-11-13 23:13:35 -0300",
-      "minecraft:spider": "2024-11-05 23:34:33 -0300",
-      "minecraft:zombie": "2024-11-05 23:35:03 -0300",
-      "minecraft:creeper": "2024-11-05 23:37:56 -0300",
-      "minecraft:wither": "2024-11-14 14:27:20 -0300",
-      "minecraft:zombie_villager": "2024-11-09 14:52:25 -0300",
-      "minecraft:slime": "2025-01-16 22:05:17 -0300"
+      "minecraft:blaze": "2024-11-09 20:20:32 +0000",
+      "minecraft:skeleton": "2024-11-06 02:36:34 +0000",
+      "minecraft:wither_skeleton": "2024-11-14 02:14:57 +0000",
+      "minecraft:husk": "2024-11-06 02:57:03 +0000",
+      "minecraft:ghast": "2024-12-04 01:39:26 +0000",
+      "minecraft:ender_dragon": "2024-11-14 02:31:23 +0000",
+      "minecraft:shulker": "2024-11-12 00:04:34 +0000",
+      "minecraft:piglin": "2025-02-11 01:55:35 +0000",
+      "minecraft:guardian": "2025-01-20 18:37:28 +0000",
+      "minecraft:breeze": "2025-03-08 21:30:45 +0000",
+      "minecraft:enderman": "2024-11-06 03:00:24 +0000",
+      "minecraft:magma_cube": "2024-11-14 02:13:35 +0000",
+      "minecraft:spider": "2024-11-06 02:34:33 +0000",
+      "minecraft:zombie": "2024-11-06 02:35:03 +0000",
+      "minecraft:creeper": "2024-11-06 02:37:56 +0000",
+      "minecraft:wither": "2024-11-14 17:27:20 +0000",
+      "minecraft:zombie_villager": "2024-11-09 17:52:25 +0000",
+      "minecraft:slime": "2025-01-17 01:05:17 +0000"
     },
     "done": false
   },
   "minecraft:adventure/root": {
     "criteria": {
-      "killed_something": "2024-11-05 23:34:33 -0300"
+      "killed_something": "2024-11-06 02:34:33 +0000"
     },
     "done": true
   },
   "tombstone:adventure/ashes_and_bones": {
     "criteria": {
-      "coded_trigger": "2024-11-05 23:38:43 -0300"
+      "coded_trigger": "2024-11-06 02:38:43 +0000"
     },
     "done": true
   },
   "tombstone:adventure/first_knowledge": {
     "criteria": {
-      "coded_trigger": "2024-11-05 23:38:43 -0300"
+      "coded_trigger": "2024-11-06 02:38:43 +0000"
     },
     "done": true
   },
   "tombstone:adventure/strong_or_careful": {
     "criteria": {
-      "coded_trigger": "2024-11-05 23:38:57 -0300"
+      "coded_trigger": "2024-11-06 02:38:57 +0000"
     },
     "done": true
   },
   "tombstone:adventure/cancel_ghostly_shape": {
     "criteria": {
-      "coded_trigger": "2024-11-05 23:39:17 -0300"
+      "coded_trigger": "2024-11-06 02:39:17 +0000"
     },
     "done": true
   },
   "tombstone:recipe/green_marble": {
     "criteria": {
-      "has_ingredient": "2024-11-06 20:14:17 -0300"
+      "has_ingredient": "2024-11-06 23:14:17 +0000"
     },
     "done": true
   },
   "tombstone:recipe/dark_marble": {
     "criteria": {
-      "has_ingredient": "2024-11-06 20:14:17 -0300"
+      "has_ingredient": "2024-11-06 23:14:17 +0000"
     },
     "done": true
   },
   "tombstone:recipe/fishing_rod_of_misadventure": {
     "criteria": {
-      "has_ingredient": "2024-11-06 20:14:17 -0300"
+      "has_ingredient": "2024-11-06 23:14:17 +0000"
     },
     "done": true
   },
   "tombstone:recipe/ankh_of_prayer": {
     "criteria": {
-      "has_ingredient": "2024-11-06 20:14:17 -0300"
+      "has_ingredient": "2024-11-06 23:14:17 +0000"
     },
     "done": true
   },
   "tombstone:recipe/impregnated_diamond": {
     "criteria": {
-      "has_ingredient": "2024-11-06 20:14:17 -0300"
+      "has_ingredient": "2024-11-06 23:14:17 +0000"
     },
     "done": true
   },
   "tombstone:recipe/blue_marble": {
     "criteria": {
-      "has_ingredient": "2024-11-06 20:14:17 -0300"
+      "has_ingredient": "2024-11-06 23:14:17 +0000"
     },
     "done": true
   },
   "tombstone:recipe/bone_needle": {
     "criteria": {
-      "has_ingredient": "2024-11-06 20:14:17 -0300"
+      "has_ingredient": "2024-11-06 23:14:17 +0000"
     },
     "done": true
   },
   "tombstone:recipe/carmin_marble": {
     "criteria": {
-      "has_ingredient": "2024-11-06 20:14:17 -0300"
+      "has_ingredient": "2024-11-06 23:14:17 +0000"
     },
     "done": true
   },
   "tombstone:recipe/white_marble": {
     "criteria": {
-      "has_ingredient": "2024-11-06 20:14:17 -0300"
+      "has_ingredient": "2024-11-06 23:14:17 +0000"
     },
     "done": true
   },
   "tombstone:recipe/grave_plate": {
     "criteria": {
-      "has_ingredient": "2024-11-06 20:14:17 -0300"
+      "has_ingredient": "2024-11-06 23:14:17 +0000"
     },
     "done": true
   },
   "mekanism:infused_alloy": {
     "criteria": {
-      "alloy_infused": "2024-11-06 20:19:58 -0300"
+      "alloy_infused": "2024-11-06 23:19:58 +0000"
     },
     "done": true
   },
   "tombstone:recipe/carmin_grave_simple": {
     "criteria": {
-      "has_ingredient": "2024-11-06 20:36:31 -0300"
+      "has_ingredient": "2024-11-06 23:36:31 +0000"
     },
     "done": true
   },
   "tombstone:recipe/carmin_marble_slab": {
     "criteria": {
-      "has_ingredient": "2024-11-06 20:36:31 -0300"
+      "has_ingredient": "2024-11-06 23:36:31 +0000"
     },
     "done": true
   },
   "tombstone:recipe/carmin_grave_cross": {
     "criteria": {
-      "has_ingredient": "2024-11-06 20:36:31 -0300"
+      "has_ingredient": "2024-11-06 23:36:31 +0000"
     },
     "done": true
   },
   "tombstone:recipe/carmin_marble_stairs": {
     "criteria": {
-      "has_ingredient": "2024-11-06 20:36:31 -0300"
+      "has_ingredient": "2024-11-06 23:36:31 +0000"
     },
     "done": true
   },
   "tombstone:recipe/carmin_grave_normal": {
     "criteria": {
-      "has_ingredient": "2024-11-06 20:36:31 -0300"
+      "has_ingredient": "2024-11-06 23:36:31 +0000"
     },
     "done": true
   },
   "tombstone:recipe/carmin_marble_wall": {
     "criteria": {
-      "has_ingredient": "2024-11-06 20:36:31 -0300"
+      "has_ingredient": "2024-11-06 23:36:31 +0000"
     },
     "done": true
   },
   "tombstone:recipe/carmin_tombstone": {
     "criteria": {
-      "has_ingredient": "2024-11-06 20:36:31 -0300"
+      "has_ingredient": "2024-11-06 23:36:31 +0000"
     },
     "done": true
   },
   "tombstone:recipe/carmin_grave_original": {
     "criteria": {
-      "has_ingredient": "2024-11-06 20:36:31 -0300"
+      "has_ingredient": "2024-11-06 23:36:31 +0000"
     },
     "done": true
   },
   "tombstone:adventure/create_grave_marble": {
     "criteria": {
-      "has_grave_marble": "2024-11-06 20:36:31 -0300"
+      "has_grave_marble": "2024-11-06 23:36:31 +0000"
     },
     "done": true
   },
   "tombstone:recipe/carmin_subaraki_grave": {
     "criteria": {
-      "has_ingredient": "2024-11-06 20:36:31 -0300"
+      "has_ingredient": "2024-11-06 23:36:31 +0000"
     },
     "done": true
   },
   "tombstone:recipe/book_of_recycling": {
     "criteria": {
-      "has_ingredient": "2024-11-06 20:36:37 -0300"
+      "has_ingredient": "2024-11-06 23:36:37 +0000"
     },
     "done": true
   },
   "tombstone:recipe/book_of_magic_impregnation": {
     "criteria": {
-      "has_ingredient": "2024-11-06 20:36:37 -0300"
+      "has_ingredient": "2024-11-06 23:36:37 +0000"
     },
     "done": true
   },
   "tombstone:recipe/book_of_soulbound": {
     "criteria": {
-      "has_ingredient": "2024-11-06 20:36:37 -0300"
+      "has_ingredient": "2024-11-06 23:36:37 +0000"
     },
     "done": true
   },
   "tombstone:recipe/strange_tablet": {
     "criteria": {
-      "has_ingredient": "2024-11-06 20:36:37 -0300"
+      "has_ingredient": "2024-11-06 23:36:37 +0000"
     },
     "done": true
   },
   "tombstone:recipe/book_of_disenchantment": {
     "criteria": {
-      "has_ingredient": "2024-11-06 20:36:37 -0300"
+      "has_ingredient": "2024-11-06 23:36:37 +0000"
     },
     "done": true
   },
   "tombstone:adventure/create_decorative_grave": {
     "criteria": {
-      "has_decorative_grave": "2024-11-06 20:36:37 -0300"
+      "has_decorative_grave": "2024-11-06 23:36:37 +0000"
     },
     "done": true
   },
   "tombstone:recipe/voodoo_poppet": {
     "criteria": {
-      "has_ingredient": "2024-11-06 20:36:37 -0300"
+      "has_ingredient": "2024-11-06 23:36:37 +0000"
     },
     "done": true
   },
   "tombstone:recipe/book_of_repairing": {
     "criteria": {
-      "has_ingredient": "2024-11-06 20:36:37 -0300"
+      "has_ingredient": "2024-11-06 23:36:37 +0000"
     },
     "done": true
   },
   "tombstone:recipe/book_of_scribe": {
     "criteria": {
-      "has_ingredient": "2024-11-06 20:36:37 -0300"
+      "has_ingredient": "2024-11-06 23:36:37 +0000"
     },
     "done": true
   },
   "tombstone:recipe/book_of_oblivion": {
     "criteria": {
-      "has_ingredient": "2024-11-06 20:36:37 -0300"
+      "has_ingredient": "2024-11-06 23:36:37 +0000"
     },
     "done": true
   },
   "tombstone:recipe/strange_scroll": {
     "criteria": {
-      "has_ingredient": "2024-11-06 20:36:37 -0300"
+      "has_ingredient": "2024-11-06 23:36:37 +0000"
     },
     "done": true
   },
   "minecraft:story/form_obsidian": {
     "criteria": {
-      "obsidian": "2024-11-06 21:44:36 -0300"
+      "obsidian": "2024-11-07 00:44:36 +0000"
     },
     "done": true
   },
   "mekanism:reinforced_alloy": {
     "criteria": {
-      "alloy_reinforced": "2024-11-06 21:47:26 -0300"
+      "alloy_reinforced": "2024-11-07 00:47:26 +0000"
     },
     "done": true
   },
   "mekanism:atomic_alloy": {
     "criteria": {
-      "alloy_atomic": "2024-11-06 21:47:50 -0300"
+      "alloy_atomic": "2024-11-07 00:47:50 +0000"
     },
     "done": true
   },
   "mekanism:advanced_control_circuit": {
     "criteria": {
-      "advanced_control_circuit": "2024-11-06 21:50:47 -0300"
+      "advanced_control_circuit": "2024-11-07 00:50:47 +0000"
     },
     "done": true
   },
   "mekanism:disassembler": {
     "criteria": {
-      "atomic_disassembler": "2024-11-06 22:04:29 -0300"
+      "atomic_disassembler": "2024-11-07 01:04:29 +0000"
     },
     "done": true
   },
   "mekanism:energy_cube": {
     "criteria": {
-      "basic_energy_cube": "2024-11-06 22:08:11 -0300"
+      "basic_energy_cube": "2024-11-07 01:08:11 +0000"
     },
     "done": true
   },
   "mekanismtools:better_than_netherite": {
     "criteria": {
-      "armor": "2024-11-09 14:40:42 -0300"
+      "armor": "2024-11-09 17:40:42 +0000"
     },
     "done": true
   },
   "tombstone:adventure/find_grave_dust": {
     "criteria": {
-      "from_undead": "2024-11-09 14:42:56 -0300"
+      "from_undead": "2024-11-09 17:42:56 +0000"
     },
     "done": true
   },
   "tombstone:adventure/bone_crusher": {
     "criteria": {
-      "coded_trigger": "2024-11-09 14:49:43 -0300"
+      "coded_trigger": "2024-11-09 17:49:43 +0000"
     },
     "done": true
   },
   "actuallyadditions:craft_reconstructor": {
     "criteria": {
-      "atomic_reconstructor": "2024-11-09 15:03:24 -0300"
+      "atomic_reconstructor": "2024-11-09 18:03:24 +0000"
     },
     "done": true
   },
   "mekanism:sawmill": {
     "criteria": {
-      "precision_sawmill": "2024-11-09 15:09:10 -0300"
+      "precision_sawmill": "2024-11-09 18:09:10 +0000"
     },
     "done": true
   },
   "tombstone:adventure/use_disenchantment": {
     "criteria": {
-      "coded_trigger": "2024-11-09 15:17:38 -0300"
+      "coded_trigger": "2024-11-09 18:17:38 +0000"
     },
     "done": true
   },
   "tombstone:adventure/consume_soul": {
     "criteria": {
-      "coded_trigger": "2024-11-09 15:17:39 -0300"
+      "coded_trigger": "2024-11-09 18:17:39 +0000"
     },
     "done": true
   },
   "minecraft:story/enter_the_nether": {
     "criteria": {
-      "entered_nether": "2024-11-09 17:17:39 -0300"
+      "entered_nether": "2024-11-09 20:17:39 +0000"
     },
     "done": true
   },
   "minecraft:nether/root": {
     "criteria": {
-      "entered_nether": "2024-11-09 17:17:39 -0300"
+      "entered_nether": "2024-11-09 20:17:39 +0000"
     },
     "done": true
   },
   "silentgear:nether": {
     "criteria": {
-      "entered_nether": "2024-11-09 17:17:39 -0300"
+      "entered_nether": "2024-11-09 20:17:39 +0000"
     },
     "done": true
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:crimson_forest": "2024-11-13 22:14:03 -0300",
-      "minecraft:nether_wastes": "2024-11-09 17:19:13 -0300",
-      "minecraft:soul_sand_valley": "2024-11-09 17:17:41 -0300",
-      "minecraft:warped_forest": "2024-11-09 17:19:47 -0300",
-      "minecraft:basalt_deltas": "2024-11-11 15:01:27 -0300"
+      "minecraft:crimson_forest": "2024-11-14 01:14:03 +0000",
+      "minecraft:nether_wastes": "2024-11-09 20:19:13 +0000",
+      "minecraft:soul_sand_valley": "2024-11-09 20:17:41 +0000",
+      "minecraft:warped_forest": "2024-11-09 20:19:47 +0000",
+      "minecraft:basalt_deltas": "2024-11-11 18:01:27 +0000"
     },
     "done": true
   },
   "minecraft:nether/find_fortress": {
     "criteria": {
-      "fortress": "2024-11-09 17:20:19 -0300"
+      "fortress": "2024-11-09 20:20:19 +0000"
     },
     "done": true
   },
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
-      "blaze_rod": "2024-11-09 17:20:33 -0300"
+      "blaze_rod": "2024-11-09 20:20:33 +0000"
     },
     "done": true
   },
   "silentgear:crimson_iron": {
     "criteria": {
-      "get_ore": "2024-11-09 17:32:10 -0300",
-      "get_ingot": "2024-11-10 14:56:05 -0300"
+      "get_ore": "2024-11-09 20:32:10 +0000",
+      "get_ingot": "2024-11-10 17:56:05 +0000"
     },
     "done": true
   },
   "minecraft:story/follow_ender_eye": {
     "criteria": {
-      "in_stronghold": "2024-11-09 17:44:34 -0300"
+      "in_stronghold": "2024-11-09 20:44:34 +0000"
     },
     "done": true
   },
   "mekanism:moving_blocks": {
     "criteria": {
-      "unbox": "2024-11-13 20:01:50 -0300",
-      "cardboard_box": "2024-11-09 17:45:14 -0300"
+      "unbox": "2024-11-13 23:01:50 +0000",
+      "cardboard_box": "2024-11-09 20:45:14 +0000"
     },
     "done": true
   },
   "minecraft:story/enter_the_end": {
     "criteria": {
-      "entered_end": "2024-11-09 17:50:45 -0300"
+      "entered_end": "2024-11-09 20:50:45 +0000"
     },
     "done": true
   },
   "silentgear:the_end": {
     "criteria": {
-      "entered_the_end": "2024-11-09 17:50:45 -0300"
+      "entered_the_end": "2024-11-09 20:50:45 +0000"
     },
     "done": true
   },
   "minecraft:end/root": {
     "criteria": {
-      "entered_end": "2024-11-09 17:50:45 -0300"
+      "entered_end": "2024-11-09 20:50:45 +0000"
     },
     "done": true
   },
   "silentgear:azure_silver": {
     "criteria": {
-      "get_ore": "2024-11-09 17:53:31 -0300",
-      "get_ingot": "2024-11-11 20:59:41 -0300"
+      "get_ore": "2024-11-09 20:53:31 +0000",
+      "get_ingot": "2024-11-11 23:59:41 +0000"
     },
     "done": true
   },
   "trashcans:trash_can": {
     "criteria": {
-      "has_item_trash_can": "2024-11-10 15:18:17 -0300"
+      "has_item_trash_can": "2024-11-10 18:18:17 +0000"
     },
     "done": true
   },
   "mekanism:configurator": {
     "criteria": {
-      "configurator": "2024-11-10 15:32:24 -0300"
+      "configurator": "2024-11-10 18:32:24 +0000"
     },
     "done": true
   },
   "mekanism:fluid_transport": {
     "criteria": {
-      "basic_mechanical_pipe": "2024-11-10 15:33:02 -0300"
+      "basic_mechanical_pipe": "2024-11-10 18:33:02 +0000"
     },
     "done": true
   },
   "mekanism:alloy_upgrading": {
     "criteria": {
-      "upgrade": "2024-11-10 15:41:50 -0300"
+      "upgrade": "2024-11-10 18:41:50 +0000"
     },
     "done": true
   },
   "mekanism:teleportation_core": {
     "criteria": {
-      "teleportation_core": "2024-11-10 16:09:35 -0300"
+      "teleportation_core": "2024-11-10 19:09:35 +0000"
     },
     "done": true
   },
   "mekanism:logistical_sorter": {
     "criteria": {
-      "logistical_sorter": "2024-11-10 16:10:44 -0300"
+      "logistical_sorter": "2024-11-10 19:10:44 +0000"
     },
     "done": true
   },
   "mekanism:personal_storage": {
     "criteria": {
-      "storage": "2024-11-10 16:15:50 -0300"
+      "storage": "2024-11-10 19:15:50 +0000"
     },
     "done": true
   },
   "mekanism:digital_miner": {
     "criteria": {
-      "digital_miner": "2024-11-10 16:16:28 -0300"
+      "digital_miner": "2024-11-10 19:16:28 +0000"
     },
     "done": true
   },
   "mekanism:elite_control_circuit": {
     "criteria": {
-      "elite_control_circuit": "2024-11-10 21:12:05 -0300"
+      "elite_control_circuit": "2024-11-11 00:12:05 +0000"
     },
     "done": true
   },
   "mekanism:ultimate_control_circuit": {
     "criteria": {
-      "ultimate_control_circuit": "2024-11-10 21:26:31 -0300"
+      "ultimate_control_circuit": "2024-11-11 00:26:31 +0000"
     },
     "done": true
   },
   "mekanism:hydrogen_powered_flight": {
     "criteria": {
-      "jetpack": "2024-11-10 21:29:12 -0300"
+      "jetpack": "2024-11-11 00:29:12 +0000"
     },
     "done": true
   },
   "minecraft:nether/find_bastion": {
     "criteria": {
-      "bastion": "2024-11-10 22:23:36 -0300"
+      "bastion": "2024-11-11 01:23:36 +0000"
     },
     "done": true
   },
   "minecraft:nether/loot_bastion": {
     "criteria": {
-      "loot_bastion_other": "2024-11-10 22:24:34 -0300"
+      "loot_bastion_other": "2024-11-11 01:24:34 +0000"
     },
     "done": true
   },
   "silentgear:nether_plants": {
     "criteria": {
-      "banana": "2024-11-11 21:00:50 -0300",
-      "sapling": "2024-11-10 22:24:35 -0300"
+      "banana": "2024-11-12 00:00:50 +0000",
+      "sapling": "2024-11-11 01:24:35 +0000"
     },
     "done": true
   },
   "tombstone:adventure/neighborhood_brawl": {
     "criteria": {
-      "coded_trigger": "2024-11-11 20:33:25 -0300"
+      "coded_trigger": "2024-11-11 23:33:25 +0000"
     },
     "done": true
   },
   "silentgear:stone_anvil": {
     "criteria": {
-      "get_item": "2024-11-11 20:43:35 -0300"
+      "get_item": "2024-11-11 23:43:35 +0000"
     },
     "done": true
   },
   "silentgear:crude_knife": {
     "criteria": {
-      "get_item": "2024-11-11 20:49:09 -0300"
+      "get_item": "2024-11-11 23:49:09 +0000"
     },
     "done": true
   },
   "silentgear:template_board": {
     "criteria": {
-      "get_item": "2024-11-11 20:49:38 -0300"
+      "get_item": "2024-11-11 23:49:38 +0000"
     },
     "done": true
   },
   "silentgear:blueprint_book": {
     "criteria": {
-      "get_item": "2024-11-11 20:50:08 -0300"
+      "get_item": "2024-11-11 23:50:08 +0000"
     },
     "done": true
   },
   "silentgear:crimson_steel": {
     "criteria": {
-      "get_item": "2024-11-11 20:53:00 -0300"
+      "get_item": "2024-11-11 23:53:00 +0000"
     },
     "done": true
   },
   "silentgear:azure_electrum": {
     "criteria": {
-      "get_ingot": "2024-11-11 21:01:24 -0300"
+      "get_ingot": "2024-11-12 00:01:24 +0000"
     },
     "done": true
   },
   "minecraft:end/find_end_city": {
     "criteria": {
-      "in_city": "2024-11-11 21:03:59 -0300"
+      "in_city": "2024-11-12 00:03:59 +0000"
     },
     "done": true
   },
   "integrateddynamics:meneglin_basics/squeezing": {
     "criteria": {
-      "criteria_0": "2024-11-11 21:28:00 -0300"
+      "criteria_0": "2024-11-12 00:28:00 +0000"
     },
     "done": true
   },
   "integrateddynamics:root": {
     "criteria": {
-      "criteria_0": "2024-11-11 21:28:00 -0300"
+      "criteria_0": "2024-11-12 00:28:00 +0000"
     },
     "done": true
   },
   "minecraft:nether/brew_potion": {
     "criteria": {
-      "potion": "2024-11-11 21:35:42 -0300"
+      "potion": "2024-11-12 00:35:42 +0000"
     },
     "done": true
   },
   "minecraft:adventure/trade": {
     "criteria": {
-      "traded": "2024-11-12 00:19:45 -0300"
+      "traded": "2024-11-12 03:19:45 +0000"
     },
     "done": true
   },
   "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
-      "ancient_debris": "2024-11-12 00:51:03 -0300"
+      "ancient_debris": "2024-11-12 03:51:03 +0000"
     },
     "done": true
   },
   "silentgear:blaze_gold": {
     "criteria": {
-      "get_item": "2024-11-13 13:34:19 -0300"
+      "get_item": "2024-11-13 16:34:19 +0000"
     },
     "done": true
   },
   "silentgear:material_grader": {
     "criteria": {
-      "get_grader": "2024-11-13 13:34:46 -0300"
+      "get_grader": "2024-11-13 16:34:46 +0000"
     },
     "done": false
   },
   "minecraft:adventure/minecraft_trials_edition": {
     "criteria": {
-      "minecraft_trials_edition": "2024-11-13 17:02:37 -0300"
+      "minecraft_trials_edition": "2024-11-13 20:02:37 +0000"
     },
     "done": true
   },
   "tombstone:adventure/almost_unkillable": {
     "criteria": {
-      "coded_trigger": "2024-11-13 22:46:22 -0300"
+      "coded_trigger": "2024-11-14 01:46:22 +0000"
     },
     "done": true
   },
   "minecraft:end/kill_dragon": {
     "criteria": {
-      "killed_dragon": "2024-11-13 23:31:23 -0300"
+      "killed_dragon": "2024-11-14 02:31:23 +0000"
     },
     "done": true
   },
   "minecraft:end/dragon_egg": {
     "criteria": {
-      "dragon_egg": "2024-11-13 23:31:55 -0300"
+      "dragon_egg": "2024-11-14 02:31:55 +0000"
     },
     "done": true
   },
   "minecraft:nether/get_wither_skull": {
     "criteria": {
-      "wither_skull": "2024-11-14 13:56:54 -0300"
+      "wither_skull": "2024-11-14 16:56:54 +0000"
     },
     "done": true
   },
   "minecraft:nether/summon_wither": {
     "criteria": {
-      "summoned": "2024-11-14 14:26:51 -0300"
+      "summoned": "2024-11-14 17:26:51 +0000"
     },
     "done": true
   },
   "tombstone:adventure/create_magic_scroll": {
     "criteria": {
-      "has_magic_scroll": "2024-11-14 14:27:20 -0300"
+      "has_magic_scroll": "2024-11-14 17:27:20 +0000"
     },
     "done": true
   },
   "tombstone:adventure/strong_undead": {
     "criteria": {
-      "coded_trigger": "2024-11-14 14:27:20 -0300"
+      "coded_trigger": "2024-11-14 17:27:20 +0000"
     },
     "done": true
   },
   "silentgear:grader_catalyst_3": {
     "criteria": {
-      "get_item": "2024-11-14 15:05:57 -0300"
+      "get_item": "2024-11-14 18:05:57 +0000"
     },
     "done": true
   },
   "silentgear:blueprint_paper": {
     "criteria": {
-      "get_item": "2024-11-14 15:28:27 -0300"
+      "get_item": "2024-11-14 18:28:27 +0000"
     },
     "done": true
   },
   "silentgear:swords": {
     "criteria": {
-      "sword": "2024-11-14 15:33:33 -0300"
+      "sword": "2024-11-14 18:33:33 +0000"
     },
     "done": false
   },
   "silentgear:tip_upgrade": {
     "criteria": {
-      "get_item": "2024-11-14 15:35:21 -0300"
+      "get_item": "2024-11-14 18:35:21 +0000"
     },
     "done": true
   },
   "silentgear:high_durability": {
     "criteria": {
-      "durability": "2024-11-14 15:35:56 -0300"
+      "durability": "2024-11-14 18:35:56 +0000"
     },
     "done": true
   },
   "silentgear:standard_tools": {
     "criteria": {
-      "pickaxe": "2024-11-15 21:33:39 -0300",
-      "axe": "2024-11-15 20:02:41 -0300"
+      "pickaxe": "2024-11-16 00:33:39 +0000",
+      "axe": "2024-11-15 23:02:41 +0000"
     },
     "done": false
   },
   "silentgear:salvager": {
     "criteria": {
-      "get_item": "2024-11-15 21:42:43 -0300"
+      "get_item": "2024-11-16 00:42:43 +0000"
     },
     "done": true
   },
   "mekanism:stabilizing_chunks": {
     "criteria": {
-      "upgrade_anchor": "2024-11-16 19:01:52 -0300"
+      "upgrade_anchor": "2024-11-16 22:01:52 +0000"
     },
     "done": false
   },
   "mekanism:chemical_tank": {
     "criteria": {
-      "basic_chemical_tank": "2024-11-18 14:52:02 -0300"
+      "basic_chemical_tank": "2024-11-18 17:52:02 +0000"
     },
     "done": true
   },
   "ae2:main/presses": {
     "criteria": {
-      "calculation": "2024-11-18 21:57:18 -0300",
-      "silicon": "2024-11-18 22:00:22 -0300",
-      "engineering": "2024-11-18 22:04:10 -0300",
-      "logic": "2024-11-18 22:04:00 -0300"
+      "calculation": "2024-11-19 00:57:18 +0000",
+      "silicon": "2024-11-19 01:00:22 +0000",
+      "engineering": "2024-11-19 01:04:10 +0000",
+      "logic": "2024-11-19 01:04:00 +0000"
     },
     "done": true
   },
   "ae2:main/charger": {
     "criteria": {
-      "certus": "2024-11-18 22:01:30 -0300"
+      "certus": "2024-11-19 01:01:30 +0000"
     },
     "done": true
   },
   "ae2:main/charged_quartz": {
     "criteria": {
-      "certus": "2024-11-18 22:01:57 -0300"
+      "certus": "2024-11-19 01:01:57 +0000"
     },
     "done": true
   },
   "ae2:main/fluix": {
     "criteria": {
-      "certus": "2024-11-18 22:02:53 -0300"
+      "certus": "2024-11-19 01:02:53 +0000"
     },
     "done": true
   },
   "ae2:main/crafting_terminal": {
     "criteria": {
-      "certus": "2024-11-18 22:09:17 -0300"
+      "certus": "2024-11-19 01:09:17 +0000"
     },
     "done": true
   },
   "ae2:main/glass_cable": {
     "criteria": {
-      "certus": "2024-11-18 22:09:39 -0300"
+      "certus": "2024-11-19 01:09:39 +0000"
     },
     "done": true
   },
   "ae2:main/growth_accelerator": {
     "criteria": {
-      "certus": "2024-11-18 22:19:25 -0300"
+      "certus": "2024-11-19 01:19:25 +0000"
     },
     "done": true
   },
   "ae2:main/storage_bus": {
     "criteria": {
-      "part": "2024-11-18 22:54:39 -0300"
+      "part": "2024-11-19 01:54:39 +0000"
     },
     "done": true
   },
   "ae2:main/controller": {
     "criteria": {
-      "certus": "2024-11-18 23:05:24 -0300"
+      "certus": "2024-11-19 02:05:24 +0000"
     },
     "done": true
   },
   "ae2:main/crafting_cpu": {
     "criteria": {
-      "cu": "2024-11-18 23:27:35 -0300"
+      "cu": "2024-11-19 02:27:35 +0000"
     },
     "done": true
   },
   "ae2:main/pattern_encoding_terminal": {
     "criteria": {
-      "certus": "2024-11-19 13:01:27 -0300"
+      "certus": "2024-11-19 16:01:27 +0000"
     },
     "done": true
   },
   "ae2:main/network1": {
     "criteria": {
-      "cable": "2024-11-19 13:09:30 -0300"
+      "cable": "2024-11-19 16:09:30 +0000"
     },
     "done": true
   },
   "ae2:main/storage_cell": {
     "criteria": {
-      "c16k": "2024-11-19 13:53:23 -0300"
+      "c16k": "2024-11-19 16:53:23 +0000"
     },
     "done": true
   },
   "integrateddynamics:meneglin_basics/drying": {
     "criteria": {
-      "criteria_0": "2024-11-19 22:16:46 -0300"
+      "criteria_0": "2024-11-20 01:16:46 +0000"
     },
     "done": true
   },
   "integrateddynamics:meneglin_basics/meneglin_discovery": {
     "criteria": {
-      "criteria_0": "2024-11-19 22:17:53 -0300"
+      "criteria_0": "2024-11-20 01:17:53 +0000"
     },
     "done": true
   },
   "integrateddynamics:meneglin_basics/menril_production": {
     "criteria": {
-      "criteria_0": "2024-11-19 22:19:06 -0300"
+      "criteria_0": "2024-11-20 01:19:06 +0000"
     },
     "done": true
   },
   "integrateddynamics:network_foundations/variables": {
     "criteria": {
-      "criteria_0": "2024-11-19 22:22:20 -0300"
+      "criteria_0": "2024-11-20 01:22:20 +0000"
     },
     "done": true
   },
   "integratedtunnels:root": {
     "criteria": {
-      "criteria_0": "2024-11-19 22:22:21 -0300"
+      "criteria_0": "2024-11-20 01:22:21 +0000"
     },
     "done": true
   },
   "integrateddynamics:network_foundations/cables_logic": {
     "criteria": {
-      "criteria_0": "2024-11-19 22:23:01 -0300"
+      "criteria_0": "2024-11-20 01:23:01 +0000"
     },
     "done": true
   },
   "integratedtunnels:interfaces/interface_fluid": {
     "criteria": {
-      "criteria_0": "2024-11-19 22:23:19 -0300"
+      "criteria_0": "2024-11-20 01:23:19 +0000"
     },
     "done": true
   },
   "integrateddynamics:network_foundations/variable_input": {
     "criteria": {
-      "criteria_0": "2024-11-19 22:26:34 -0300"
+      "criteria_0": "2024-11-20 01:26:34 +0000"
     },
     "done": true
   },
   "integrateddynamics:logic_operations/logic_programming": {
     "criteria": {
-      "criteria_0": "2024-11-19 22:30:20 -0300"
+      "criteria_0": "2024-11-20 01:30:20 +0000"
     },
     "done": true
   },
   "integrateddynamics:logic_operations/constant_definition": {
     "criteria": {
-      "criteria_0": "2024-11-19 22:30:26 -0300"
+      "criteria_0": "2024-11-20 01:30:26 +0000"
     },
     "done": true
   },
   "ae2:main/qnb": {
     "criteria": {
-      "certus": "2024-11-20 17:49:53 -0300"
+      "certus": "2024-11-20 20:49:53 +0000"
     },
     "done": true
   },
   "ae2:main/facade": {
     "criteria": {
-      "facade": "2024-11-23 17:40:21 -0300"
+      "facade": "2024-11-23 20:40:21 +0000"
     },
     "done": true
   },
   "ae2:main/recursive": {
     "criteria": {
-      "recursive": "2024-11-23 18:10:39 -0300"
+      "recursive": "2024-11-23 21:10:39 +0000"
     },
     "done": true
   },
   "tombstone:adventure/knowledge_wasted": {
     "criteria": {
-      "coded_trigger": "2024-11-23 18:21:11 -0300"
+      "coded_trigger": "2024-11-23 21:21:11 +0000"
     },
     "done": true
   },
   "tombstone:adventure/soul_magic": {
     "criteria": {
-      "coded_trigger": "2024-11-23 18:21:24 -0300"
+      "coded_trigger": "2024-11-23 21:21:24 +0000"
     },
     "done": true
   },
   "tombstone:adventure/disenchanter": {
     "criteria": {
-      "coded_trigger": "2024-11-23 18:21:24 -0300"
+      "coded_trigger": "2024-11-23 21:21:24 +0000"
     },
     "done": true
   },
   "actuallyadditions:make_first_crystal": {
     "criteria": {
-      "crystal": "2024-12-03 22:27:45 -0300"
+      "crystal": "2024-12-04 01:27:45 +0000"
     },
     "done": true
   },
   "minecraft:end/respawn_dragon": {
     "criteria": {
-      "summoned_dragon": "2024-12-03 22:47:18 -0300"
+      "summoned_dragon": "2024-12-04 01:47:18 +0000"
     },
     "done": true
   },
   "minecraft:end/dragon_breath": {
     "criteria": {
-      "dragon_breath": "2024-12-03 22:47:34 -0300"
+      "dragon_breath": "2024-12-04 01:47:34 +0000"
     },
     "done": true
   },
   "minecraft:husbandry/root": {
     "criteria": {
-      "consumed_item": "2024-12-04 20:14:20 -0300"
+      "consumed_item": "2024-12-04 23:14:20 +0000"
     },
     "done": true
   },
   "evilcraft:evil_source": {
     "criteria": {
-      "criteria_0": "2024-12-05 23:24:32 -0300"
+      "criteria_0": "2024-12-06 02:24:32 +0000"
     },
     "done": true
   },
   "minecraft:story/shiny_gear": {
     "criteria": {
-      "diamond_leggings": "2024-12-05 23:24:48 -0300"
+      "diamond_leggings": "2024-12-06 02:24:48 +0000"
     },
     "done": true
   },
   "occultism:chalks/yellow": {
     "criteria": {
-      "chalk_gold": "2024-12-06 00:00:13 -0300"
+      "chalk_gold": "2024-12-06 03:00:13 +0000"
     },
     "done": true
   },
   "occultism:chalks/white": {
     "criteria": {
-      "chalk_white": "2024-12-06 00:00:33 -0300"
+      "chalk_white": "2024-12-06 03:00:33 +0000"
     },
     "done": true
   },
   "occultism:occultism/possess_phantom": {
     "criteria": {
-      "possess_phantom": "2024-12-06 00:21:30 -0300"
+      "possess_phantom": "2024-12-06 03:21:30 +0000"
     },
     "done": true
   },
   "tombstone:adventure/create_familiar_receptacle": {
     "criteria": {
-      "has_receptacle_of_familiar": "2024-12-06 20:13:03 -0300"
+      "has_receptacle_of_familiar": "2024-12-06 23:13:03 +0000"
     },
     "done": true
   },
   "tombstone:adventure/find_ancient_tablet": {
     "criteria": {
-      "has_ancient_tablet": "2024-12-06 20:13:17 -0300"
+      "has_ancient_tablet": "2024-12-06 23:13:17 +0000"
     },
     "done": true
   },
   "tombstone:adventure/create_magic_tablet": {
     "criteria": {
-      "has_magic_tablet": "2024-12-06 20:13:17 -0300"
+      "has_magic_tablet": "2024-12-06 23:13:17 +0000"
     },
     "done": true
   },
   "actuallyadditions:pickup_coffee": {
     "criteria": {
-      "coffee_beans": "2024-12-06 20:13:58 -0300"
+      "coffee_beans": "2024-12-06 23:13:58 +0000"
     },
     "done": true
   },
   "ae2:main/p2p": {
     "criteria": {
-      "certus": "2024-12-07 12:37:15 -0300"
+      "certus": "2024-12-07 15:37:15 +0000"
     },
     "done": true
   },
   "occultism:chalks/purple": {
     "criteria": {
-      "chalk_purple": "2024-12-08 13:39:02 -0300"
+      "chalk_purple": "2024-12-08 16:39:02 +0000"
     },
     "done": true
   },
   "occultism:occultism/possess_skeleton": {
     "criteria": {
-      "possess_skeleton": "2024-12-08 16:05:31 -0300"
+      "possess_skeleton": "2024-12-08 19:05:31 +0000"
     },
     "done": true
   },
   "apothic_spawners:capturing": {
     "criteria": {
-      "egg": "2025-01-15 18:49:33 -0300"
+      "egg": "2025-01-15 21:49:33 +0000"
     },
     "done": true
   },
   "apothic_spawners:conditions": {
     "criteria": {
-      "modifier": "2025-01-17 23:36:37 -0300"
+      "modifier": "2025-01-18 02:36:37 +0000"
     },
     "done": true
   },
   "apothic_spawners:noai": {
     "criteria": {
-      "modifier": "2025-01-17 23:36:37 -0300"
+      "modifier": "2025-01-18 02:36:37 +0000"
     },
     "done": true
   },
   "apothic_spawners:modifier": {
     "criteria": {
-      "modifier": "2025-01-17 23:36:37 -0300"
+      "modifier": "2025-01-18 02:36:37 +0000"
     },
     "done": true
   },
   "apothic_spawners:mindelay": {
     "criteria": {
-      "modifier": "2025-01-17 23:36:37 -0300"
+      "modifier": "2025-01-18 02:36:37 +0000"
     },
     "done": true
   },
   "apothic_spawners:redstone": {
     "criteria": {
-      "modifier": "2025-01-17 23:36:37 -0300"
+      "modifier": "2025-01-18 02:36:37 +0000"
     },
     "done": true
   },
   "apothic_spawners:light": {
     "criteria": {
-      "modifier": "2025-01-17 23:36:37 -0300"
+      "modifier": "2025-01-18 02:36:37 +0000"
     },
     "done": true
   },
   "apothic_spawners:maxdelay": {
     "criteria": {
-      "modifier": "2025-01-18 13:07:35 -0300"
+      "modifier": "2025-01-18 16:07:35 +0000"
     },
     "done": true
   },
   "occultism:occultism/craft_research_fragment_dust": {
     "criteria": {
-      "craft_research_fragment_dust": "2025-01-18 20:46:37 -0300"
+      "craft_research_fragment_dust": "2025-01-18 23:46:37 +0000"
     },
     "done": true
   },
   "occultism:chalks/lime": {
     "criteria": {
-      "chalk_lime": "2025-01-19 15:48:01 -0300"
+      "chalk_lime": "2025-01-19 18:48:01 +0000"
     },
     "done": true
   },
   "minecraft:adventure/salvage_sherd": {
     "criteria": {
-      "ocean_ruin_warm": "2025-01-19 16:08:43 -0300"
+      "ocean_ruin_warm": "2025-01-19 19:08:43 +0000"
     },
     "done": false
   },
   "minecraft:husbandry/obtain_sniffer_egg": {
     "criteria": {
-      "obtain_sniffer_egg": "2025-01-19 16:08:48 -0300"
+      "obtain_sniffer_egg": "2025-01-19 19:08:48 +0000"
     },
     "done": true
   },
   "occultism:chalks/light_gray": {
     "criteria": {
-      "chalk_light_gray": "2025-01-19 17:14:19 -0300"
+      "chalk_light_gray": "2025-01-19 20:14:19 +0000"
     },
     "done": true
   },
   "minecraft:husbandry/plant_any_sniffer_seed": {
     "criteria": {
-      "torchflower": "2025-01-19 17:24:53 -0300"
+      "torchflower": "2025-01-19 20:24:53 +0000"
     },
     "done": true
   },
   "minecraft:husbandry/plant_seed": {
     "criteria": {
-      "torchflower": "2025-01-19 17:24:53 -0300"
+      "torchflower": "2025-01-19 20:24:53 +0000"
     },
     "done": true
   },
   "occultism:occultism/possess_bee": {
     "criteria": {
-      "possess_bee": "2025-01-19 18:14:56 -0300"
+      "possess_bee": "2025-01-19 21:14:56 +0000"
     },
     "done": true
   },
   "occultism:chalks/orange": {
     "criteria": {
-      "chalk_orange": "2025-01-19 18:21:19 -0300"
+      "chalk_orange": "2025-01-19 21:21:19 +0000"
     },
     "done": true
   },
   "occultism:occultism/craft_gray_paste": {
     "criteria": {
-      "craft_gray_paste": "2025-01-19 19:13:47 -0300"
+      "craft_gray_paste": "2025-01-19 22:13:47 +0000"
     },
     "done": true
   },
   "occultism:chalks/gray": {
     "criteria": {
-      "chalk_gray": "2025-01-19 19:14:51 -0300"
+      "chalk_gray": "2025-01-19 22:14:51 +0000"
     },
     "done": true
   },
   "occultism:occultism/summon_unbound_afrit": {
     "criteria": {
-      "summon_unbound_afrit": "2025-01-19 19:22:12 -0300"
+      "summon_unbound_afrit": "2025-01-19 22:22:12 +0000"
     },
     "done": true
   },
   "occultism:chalks/red": {
     "criteria": {
-      "chalk_red": "2025-01-19 21:12:30 -0300"
+      "chalk_red": "2025-01-20 00:12:30 +0000"
     },
     "done": true
   },
   "minecraft:husbandry/wax_off": {
     "criteria": {
-      "wax_off": "2025-01-19 21:46:47 -0300"
+      "wax_off": "2025-01-20 00:46:47 +0000"
     },
     "done": true
   },
   "occultism:occultism/possess_elder_guardian": {
     "criteria": {
-      "possess_elder_guardian": "2025-01-19 21:57:17 -0300"
+      "possess_elder_guardian": "2025-01-20 00:57:17 +0000"
     },
     "done": true
   },
   "apotheosis:progression/summit": {
     "criteria": {
-      "kill_wither": "2025-01-20 00:24:42 -0300",
-      "rare_chest": "2025-02-10 22:59:02 -0300",
-      "rare_legs": "2025-02-10 22:59:03 -0300",
-      "rare_hand": "2025-02-10 22:57:11 -0300",
-      "rare_helm": "2025-02-10 22:59:02 -0300",
-      "rare_feet": "2025-02-10 23:02:53 -0300"
+      "kill_wither": "2025-01-20 03:24:42 +0000",
+      "rare_chest": "2025-02-11 01:59:02 +0000",
+      "rare_legs": "2025-02-11 01:59:03 +0000",
+      "rare_hand": "2025-02-11 01:57:11 +0000",
+      "rare_helm": "2025-02-11 01:59:02 +0000",
+      "rare_feet": "2025-02-11 02:02:53 +0000"
     },
     "done": true
   },
   "occultism:occultism/craft_witherite_dust": {
     "criteria": {
-      "craft_witherite_dust": "2025-01-20 13:17:22 -0300"
+      "craft_witherite_dust": "2025-01-20 16:17:22 +0000"
     },
     "done": true
   },
   "occultism:chalks/black": {
     "criteria": {
-      "chalk_black": "2025-01-20 13:24:57 -0300"
+      "chalk_black": "2025-01-20 16:24:57 +0000"
     },
     "done": true
   },
   "occultism:occultism/wild_drowned": {
     "criteria": {
-      "wild_drowned": "2025-01-20 15:37:10 -0300"
+      "wild_drowned": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/wild_creeper": {
     "criteria": {
-      "wild_creeper": "2025-01-20 15:37:10 -0300"
+      "wild_creeper": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/craft_familiar_ring": {
     "criteria": {
-      "craft_familiar_ring": "2025-01-20 15:37:10 -0300"
+      "craft_familiar_ring": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/summon_djinni_crusher": {
     "criteria": {
-      "summon_djinni_crusher": "2025-01-20 15:37:10 -0300"
+      "summon_djinni_crusher": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/summon_djinni_manage_machine": {
     "criteria": {
-      "summon_djinni_manage_machine": "2025-01-20 15:37:10 -0300"
+      "summon_djinni_manage_machine": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/summon_foliot_smelter": {
     "criteria": {
-      "summon_foliot_smelter": "2025-01-20 15:37:10 -0300"
+      "summon_foliot_smelter": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/possess_villager": {
     "criteria": {
-      "possess_villager": "2025-01-20 15:37:10 -0300"
+      "possess_villager": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/familiar_parrot": {
     "criteria": {
-      "familiar_parrot": "2025-01-20 15:37:10 -0300"
+      "familiar_parrot": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/possess_goat": {
     "criteria": {
-      "possess_goat": "2025-01-20 15:37:10 -0300"
+      "possess_goat": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/summon_foliot_otherstone_trader": {
     "criteria": {
-      "summon_foliot_otherstone_trader": "2025-01-20 15:37:10 -0300"
+      "summon_foliot_otherstone_trader": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/possess_random_animal_common": {
     "criteria": {
-      "possess_random_animal_common": "2025-01-20 15:37:10 -0300"
+      "possess_random_animal_common": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/possess_random_animal_special": {
     "criteria": {
-      "possess_random_animal_special": "2025-01-20 15:37:10 -0300"
+      "possess_random_animal_special": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/summon_demonic_wife": {
     "criteria": {
-      "summon_demonic_wife": "2025-01-20 15:37:10 -0300"
+      "summon_demonic_wife": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/craft_satchel": {
     "criteria": {
-      "craft_satchel": "2025-01-20 15:37:10 -0300"
+      "craft_satchel": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/familiar_beholder": {
     "criteria": {
-      "familiar_beholder": "2025-01-20 15:37:10 -0300"
+      "familiar_beholder": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/misc_eldritch_chalice": {
     "criteria": {
-      "misc_eldritch_chalice": "2025-01-20 15:37:10 -0300"
+      "misc_eldritch_chalice": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/craft_dimensional_matrix": {
     "criteria": {
-      "craft_dimensional_matrix": "2025-01-20 15:37:10 -0300"
+      "craft_dimensional_matrix": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/misc_chalk_void": {
     "criteria": {
-      "misc_chalk_void": "2025-01-20 15:37:10 -0300"
+      "misc_chalk_void": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/repair_miners": {
     "criteria": {
-      "repair_miners": "2025-01-20 15:37:10 -0300"
+      "repair_miners": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/craft_dimensional_mineshaft": {
     "criteria": {
-      "craft_dimensional_mineshaft": "2025-01-20 15:37:10 -0300"
+      "craft_dimensional_mineshaft": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/wild_hunt": {
     "criteria": {
-      "wild_hunt": "2025-01-20 15:37:10 -0300"
+      "wild_hunt": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/familiar_chimera": {
     "criteria": {
-      "familiar_chimera": "2025-01-20 15:37:10 -0300"
+      "familiar_chimera": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/summon_marid_crusher": {
     "criteria": {
-      "summon_marid_crusher": "2025-01-20 15:37:10 -0300"
+      "summon_marid_crusher": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/misc_chalk_rainbow": {
     "criteria": {
-      "misc_chalk_rainbow": "2025-01-20 15:37:10 -0300"
+      "misc_chalk_rainbow": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/summon_foliot_crusher": {
     "criteria": {
-      "summon_foliot_crusher": "2025-01-20 15:37:10 -0300"
+      "summon_foliot_crusher": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/familiar_headless": {
     "criteria": {
-      "familiar_headless": "2025-01-20 15:37:10 -0300"
+      "familiar_headless": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/craft_stabilizer_tier1": {
     "criteria": {
-      "craft_stabilizer_tier1": "2025-01-20 15:37:10 -0300"
+      "craft_stabilizer_tier1": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/craft_stabilizer_tier2": {
     "criteria": {
-      "craft_stabilizer_tier2": "2025-01-20 15:37:10 -0300"
+      "craft_stabilizer_tier2": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/craft_stabilizer_tier3": {
     "criteria": {
-      "craft_stabilizer_tier3": "2025-01-20 15:37:10 -0300"
+      "craft_stabilizer_tier3": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/craft_stabilizer_tier4": {
     "criteria": {
-      "craft_stabilizer_tier4": "2025-01-20 15:37:10 -0300"
+      "craft_stabilizer_tier4": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/wild_horde_illager": {
     "criteria": {
-      "wild_horde_illager": "2025-01-20 15:37:10 -0300"
+      "wild_horde_illager": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/possess_unbound_otherworld_bird": {
     "criteria": {
-      "possess_unbound_otherworld_bird": "2025-01-20 15:37:10 -0300"
+      "possess_unbound_otherworld_bird": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/summon_afrit_crusher": {
     "criteria": {
-      "summon_afrit_crusher": "2025-01-20 15:37:10 -0300"
+      "summon_afrit_crusher": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/familiar_bat": {
     "criteria": {
-      "familiar_bat": "2025-01-20 15:37:10 -0300"
+      "familiar_bat": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/possess_warden": {
     "criteria": {
-      "possess_warden": "2025-01-20 15:37:10 -0300"
+      "possess_warden": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/misc_bell": {
     "criteria": {
-      "misc_bell": "2025-01-20 15:37:10 -0300"
+      "misc_bell": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/repair_tools": {
     "criteria": {
-      "repair_tools": "2025-01-20 15:37:10 -0300"
+      "repair_tools": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/familiar_otherworld_bird": {
     "criteria": {
-      "familiar_otherworld_bird": "2025-01-20 15:37:10 -0300"
+      "familiar_otherworld_bird": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/familiar_fairy": {
     "criteria": {
-      "familiar_fairy": "2025-01-20 15:37:10 -0300"
+      "familiar_fairy": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/misc_budding_amethyst": {
     "criteria": {
-      "misc_budding_amethyst": "2025-01-20 15:37:10 -0300"
+      "misc_budding_amethyst": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/summon_demonic_husband": {
     "criteria": {
-      "summon_demonic_husband": "2025-01-20 15:37:10 -0300"
+      "summon_demonic_husband": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/familiar_cthulhu": {
     "criteria": {
-      "familiar_cthulhu": "2025-01-20 15:37:10 -0300"
+      "familiar_cthulhu": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/wild_weak_breeze": {
     "criteria": {
-      "wild_weak_breeze": "2025-01-20 15:37:10 -0300"
+      "wild_weak_breeze": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/misc_bee_nest": {
     "criteria": {
-      "misc_bee_nest": "2025-01-20 15:37:10 -0300"
+      "misc_bee_nest": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/possess_ghast": {
     "criteria": {
-      "possess_ghast": "2025-01-20 15:37:10 -0300"
+      "possess_ghast": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/wild_breeze": {
     "criteria": {
-      "wild_breeze": "2025-01-20 15:37:10 -0300"
+      "wild_breeze": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/possess_zombie_piglin": {
     "criteria": {
-      "possess_zombie_piglin": "2025-01-20 15:37:10 -0300"
+      "possess_zombie_piglin": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/summon_foliot_cleaner": {
     "criteria": {
-      "summon_foliot_cleaner": "2025-01-20 15:37:10 -0300"
+      "summon_foliot_cleaner": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/misc_wild_trim": {
     "criteria": {
-      "misc_wild_trim": "2025-01-20 15:37:10 -0300"
+      "misc_wild_trim": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/repair_armors": {
     "criteria": {
-      "repair_armors": "2025-01-20 15:37:10 -0300"
+      "repair_armors": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/wild_silverfish": {
     "criteria": {
-      "wild_silverfish": "2025-01-20 15:37:10 -0300"
+      "wild_silverfish": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/familiar_greedy": {
     "criteria": {
-      "familiar_greedy": "2025-01-20 15:37:10 -0300"
+      "familiar_greedy": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/possess_endermite": {
     "criteria": {
-      "possess_endermite": "2025-01-20 15:37:10 -0300"
+      "possess_endermite": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/possess_iesnium_golem": {
     "criteria": {
-      "possess_iesnium_golem": "2025-01-20 15:37:10 -0300"
+      "possess_iesnium_golem": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/repair_chalks": {
     "criteria": {
-      "repair_chalks": "2025-01-20 15:37:10 -0300"
+      "repair_chalks": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/familiar_dragon": {
     "criteria": {
-      "familiar_dragon": "2025-01-20 15:37:10 -0300"
+      "familiar_dragon": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/wild_random_animal_special": {
     "criteria": {
-      "wild_random_animal_special": "2025-01-20 15:37:10 -0300"
+      "wild_random_animal_special": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/summon_djinni_day_time": {
     "criteria": {
-      "summon_djinni_day_time": "2025-01-20 15:37:10 -0300"
+      "summon_djinni_day_time": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/possess_enderman": {
     "criteria": {
-      "possess_enderman": "2025-01-20 15:37:10 -0300"
+      "possess_enderman": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/craft_storage_controller_base": {
     "criteria": {
-      "craft_storage_controller_base": "2025-01-20 15:37:10 -0300"
+      "craft_storage_controller_base": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/summon_djinni_smelter": {
     "criteria": {
-      "summon_djinni_smelter": "2025-01-20 15:37:10 -0300"
+      "summon_djinni_smelter": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/familiar_beaver": {
     "criteria": {
-      "familiar_beaver": "2025-01-20 15:37:10 -0300"
+      "familiar_beaver": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/craft_iesnium_anvil": {
     "criteria": {
-      "craft_iesnium_anvil": "2025-01-20 15:37:10 -0300"
+      "craft_iesnium_anvil": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/familiar_mummy": {
     "criteria": {
-      "familiar_mummy": "2025-01-20 15:37:10 -0300"
+      "familiar_mummy": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/summon_marid_smelter": {
     "criteria": {
-      "summon_marid_smelter": "2025-01-20 15:37:10 -0300"
+      "summon_marid_smelter": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/wild_random_animal_common": {
     "criteria": {
-      "wild_random_animal_common": "2025-01-20 15:37:10 -0300"
+      "wild_random_animal_common": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/possess_random_animal_rideable": {
     "criteria": {
-      "possess_random_animal_rideable": "2025-01-20 15:37:10 -0300"
+      "possess_random_animal_rideable": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/summon_djinni_night_time": {
     "criteria": {
-      "summon_djinni_night_time": "2025-01-20 15:37:10 -0300"
+      "summon_djinni_night_time": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/craft_iesnium_sacrificial_bowl": {
     "criteria": {
-      "craft_iesnium_sacrificial_bowl": "2025-01-20 15:37:10 -0300"
+      "craft_iesnium_sacrificial_bowl": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/craft_stable_wormhole": {
     "criteria": {
-      "craft_stable_wormhole": "2025-01-20 15:37:10 -0300"
+      "craft_stable_wormhole": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/wild_random_animal_rideable": {
     "criteria": {
-      "wild_random_animal_rideable": "2025-01-20 15:37:10 -0300"
+      "wild_random_animal_rideable": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/resurrect_allay": {
     "criteria": {
-      "resurrect_allay": "2025-01-20 15:37:10 -0300"
+      "resurrect_allay": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/wild_random_animal_water": {
     "criteria": {
-      "wild_random_animal_water": "2025-01-20 15:37:10 -0300"
+      "wild_random_animal_water": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/possess_weak_shulker": {
     "criteria": {
-      "possess_weak_shulker": "2025-01-20 15:37:10 -0300"
+      "possess_weak_shulker": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/misc_stabilized_storage": {
     "criteria": {
-      "misc_stabilized_storage": "2025-01-20 15:37:10 -0300"
+      "misc_stabilized_storage": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/familiar_devil": {
     "criteria": {
-      "familiar_devil": "2025-01-20 15:37:10 -0300"
+      "familiar_devil": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/summon_foliot_transport_items": {
     "criteria": {
-      "summon_foliot_transport_items": "2025-01-20 15:37:10 -0300"
+      "summon_foliot_transport_items": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/craft_miner_afrit_deeps": {
     "criteria": {
-      "craft_miner_afrit_deeps": "2025-01-20 15:37:10 -0300"
+      "craft_miner_afrit_deeps": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/possess_hoglin": {
     "criteria": {
-      "possess_hoglin": "2025-01-20 15:37:10 -0300"
+      "possess_hoglin": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/wild_random_animal_small": {
     "criteria": {
-      "wild_random_animal_small": "2025-01-20 15:37:10 -0300"
+      "wild_random_animal_small": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/summon_foliot_sapling_trader": {
     "criteria": {
-      "summon_foliot_sapling_trader": "2025-01-20 15:37:10 -0300"
+      "summon_foliot_sapling_trader": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/familiar_guardian": {
     "criteria": {
-      "familiar_guardian": "2025-01-20 15:37:10 -0300"
+      "familiar_guardian": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/wild_husk": {
     "criteria": {
-      "wild_husk": "2025-01-20 15:37:10 -0300"
+      "wild_husk": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/craft_ritual_satchel_t1": {
     "criteria": {
-      "craft_ritual_satchel_t1": "2025-01-20 15:37:10 -0300"
+      "craft_ritual_satchel_t1": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/craft_ritual_satchel_t2": {
     "criteria": {
-      "craft_ritual_satchel_t2": "2025-01-20 15:37:10 -0300"
+      "craft_ritual_satchel_t2": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/possess_unbound_parrot": {
     "criteria": {
-      "possess_unbound_parrot": "2025-01-20 15:37:10 -0300"
+      "possess_unbound_parrot": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/craft_infused_pickaxe": {
     "criteria": {
-      "craft_infused_pickaxe": "2025-01-20 15:37:10 -0300"
+      "craft_infused_pickaxe": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/wild_strong_breeze": {
     "criteria": {
-      "wild_strong_breeze": "2025-01-20 15:37:10 -0300"
+      "wild_strong_breeze": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/craft_nature_paste": {
     "criteria": {
-      "craft_nature_paste": "2025-01-20 15:37:10 -0300"
+      "craft_nature_paste": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/summon_djinni_clear_weather": {
     "criteria": {
-      "summon_djinni_clear_weather": "2025-01-20 15:37:10 -0300"
+      "summon_djinni_clear_weather": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/familiar_blacksmith": {
     "criteria": {
-      "familiar_blacksmith": "2025-01-20 15:37:10 -0300"
+      "familiar_blacksmith": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/misc_trinity_gem": {
     "criteria": {
-      "misc_trinity_gem": "2025-01-20 15:37:10 -0300"
+      "misc_trinity_gem": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/possess_random_animal_water": {
     "criteria": {
-      "possess_random_animal_water": "2025-01-20 15:37:10 -0300"
+      "possess_random_animal_water": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/wild_villager": {
     "criteria": {
-      "wild_villager": "2025-01-20 15:37:10 -0300"
+      "wild_villager": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/possess_random_animal_small": {
     "criteria": {
-      "possess_random_animal_small": "2025-01-20 15:37:10 -0300"
+      "possess_random_animal_small": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/craft_infused_lenses": {
     "criteria": {
-      "craft_infused_lenses": "2025-01-20 15:37:10 -0300"
+      "craft_infused_lenses": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/possess_witch": {
     "criteria": {
-      "possess_witch": "2025-01-20 15:37:10 -0300"
+      "possess_witch": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/craft_miner_marid_master": {
     "criteria": {
-      "craft_miner_marid_master": "2025-01-20 15:37:10 -0300"
+      "craft_miner_marid_master": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/possess_shulker": {
     "criteria": {
-      "possess_shulker": "2025-01-20 15:37:10 -0300"
+      "possess_shulker": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/craft_dragonyst_dust": {
     "criteria": {
-      "craft_dragonyst_dust": "2025-01-20 15:37:10 -0300"
+      "craft_dragonyst_dust": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/misc_miner_ancient_eldritch": {
     "criteria": {
-      "misc_miner_ancient_eldritch": "2025-01-20 15:37:10 -0300"
+      "misc_miner_ancient_eldritch": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/misc_reinforced_deepslate": {
     "criteria": {
-      "misc_reinforced_deepslate": "2025-01-20 15:37:10 -0300"
+      "misc_reinforced_deepslate": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/craft_miner_djinni_ores": {
     "criteria": {
-      "craft_miner_djinni_ores": "2025-01-20 15:37:10 -0300"
+      "craft_miner_djinni_ores": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/craft_miner_foliot_unspecialized": {
     "criteria": {
-      "craft_miner_foliot_unspecialized": "2025-01-20 15:37:10 -0300"
+      "craft_miner_foliot_unspecialized": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/summon_unbound_marid": {
     "criteria": {
-      "summon_unbound_marid": "2025-01-20 15:37:10 -0300"
+      "summon_unbound_marid": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/summon_afrit_rain_weather": {
     "criteria": {
-      "summon_afrit_rain_weather": "2025-01-20 15:37:10 -0300"
+      "summon_afrit_rain_weather": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/summon_foliot_lumberjack": {
     "criteria": {
-      "summon_foliot_lumberjack": "2025-01-20 15:37:10 -0300"
+      "summon_foliot_lumberjack": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/craft_storage_remote": {
     "criteria": {
-      "craft_storage_remote": "2025-01-20 15:37:10 -0300"
+      "craft_storage_remote": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/summon_afrit_thunder_weather": {
     "criteria": {
-      "summon_afrit_thunder_weather": "2025-01-20 15:37:10 -0300"
+      "summon_afrit_thunder_weather": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/craft_soul_gem": {
     "criteria": {
-      "craft_soul_gem": "2025-01-20 15:37:10 -0300"
+      "craft_soul_gem": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/summon_afrit_smelter": {
     "criteria": {
-      "summon_afrit_smelter": "2025-01-20 15:37:10 -0300"
+      "summon_afrit_smelter": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/familiar_deer": {
     "criteria": {
-      "familiar_deer": "2025-01-20 15:37:10 -0300"
+      "familiar_deer": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:occultism/resurrect_familiar": {
     "criteria": {
-      "resurrect_familiar": "2025-01-20 15:37:10 -0300"
+      "resurrect_familiar": "2025-01-20 18:37:10 +0000"
     },
     "done": true
   },
   "occultism:chalks/blue": {
     "criteria": {
-      "chalk_blue": "2025-01-20 15:52:20 -0300"
+      "chalk_blue": "2025-01-20 18:52:20 +0000"
     },
     "done": true
   },
   "minecraft:adventure/summon_iron_golem": {
     "criteria": {
-      "summoned_golem": "2025-01-21 14:24:57 -0300"
+      "summoned_golem": "2025-01-21 17:24:57 +0000"
     },
     "done": true
   },
   "tombstone:adventure/create_voodoo_poppet": {
     "criteria": {
-      "has_voodoo_poppet": "2025-01-21 15:30:55 -0300"
+      "has_voodoo_poppet": "2025-01-21 18:30:55 +0000"
     },
     "done": true
   },
   "tombstone:adventure/enchant_voodoo_poppet": {
     "criteria": {
-      "has_enchanted_voodoo_poppet": "2025-01-21 15:30:55 -0300"
+      "has_enchanted_voodoo_poppet": "2025-01-21 18:30:55 +0000"
     },
     "done": true
   },
   "integratedtunnels:interfaces/interface_item": {
     "criteria": {
-      "criteria_0": "2025-01-21 17:38:41 -0300"
+      "criteria_0": "2025-01-21 20:38:41 +0000"
     },
     "done": true
   },
   "integrateddynamics:network_foundations/variable_output": {
     "criteria": {
-      "criteria_0": "2025-01-21 17:39:03 -0300"
+      "criteria_0": "2025-01-21 20:39:03 +0000"
     },
     "done": true
   },
   "integrateddynamics:basic_network_components/value_displaying": {
     "criteria": {
-      "criteria_0": "2025-01-21 17:39:27 -0300"
+      "criteria_0": "2025-01-21 20:39:27 +0000"
     },
     "done": true
   },
   "integratedterminals:storage_terminal/menril_glass": {
     "criteria": {
-      "criteria_0": "2025-01-21 17:41:41 -0300"
+      "criteria_0": "2025-01-21 20:41:41 +0000"
     },
     "done": true
   },
   "integratedterminals:storage_terminal/craft_storage_terminal": {
     "criteria": {
-      "criteria_0": "2025-01-21 17:42:09 -0300"
+      "criteria_0": "2025-01-21 20:42:09 +0000"
     },
     "done": true
   },
   "integratedterminals:storage_terminal/gui_storage_terminal": {
     "criteria": {
-      "criteria_0": "2025-01-21 18:04:10 -0300"
+      "criteria_0": "2025-01-21 21:04:10 +0000"
     },
     "done": true
   },
   "apotheosis:progression/haven": {
     "criteria": {
-      "affixed": "2025-01-21 18:30:31 -0300"
+      "affixed": "2025-01-21 21:30:31 +0000"
     },
     "done": true
   },
   "minecraft:husbandry/fishy_business": {
     "criteria": {
-      "pufferfish": "2025-01-21 18:40:18 -0300"
+      "pufferfish": "2025-01-21 21:40:18 +0000"
     },
     "done": true
   },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
-      "tamed_animal": "2025-01-23 18:58:29 -0300"
+      "tamed_animal": "2025-01-23 21:58:29 +0000"
     },
     "done": true
   },
   "ars_nouveau:imbuement_chamber": {
     "criteria": {
-      "has_imbuement_chamber": "2025-01-23 20:12:27 -0300"
+      "has_imbuement_chamber": "2025-01-23 23:12:27 +0000"
     },
     "done": true
   },
   "ars_nouveau:source_jar": {
     "criteria": {
-      "has_source_jar": "2025-01-23 20:22:04 -0300"
+      "has_source_jar": "2025-01-23 23:22:04 +0000"
     },
     "done": true
   },
   "ars_nouveau:ritual_brazier": {
     "criteria": {
-      "has_ritual_brazier": "2025-01-23 20:54:04 -0300"
+      "has_ritual_brazier": "2025-01-23 23:54:04 +0000"
     },
     "done": true
   },
   "ars_nouveau:enchanting_apparatus": {
     "criteria": {
-      "has_enchanting_apparatus": "2025-01-23 20:54:44 -0300"
+      "has_enchanting_apparatus": "2025-01-23 23:54:44 +0000"
     },
     "done": true
   },
   "ars_nouveau:mob_jar": {
     "criteria": {
-      "has_mob_jar": "2025-01-23 21:22:34 -0300"
+      "has_mob_jar": "2025-01-24 00:22:34 +0000"
     },
     "done": true
   },
   "integratedtunnels:importer_exporter/importer_item": {
     "criteria": {
-      "criteria_0": "2025-01-23 21:56:14 -0300"
+      "criteria_0": "2025-01-24 00:56:14 +0000"
     },
     "done": true
   },
   "minecraft:story/iron_tools": {
     "criteria": {
-      "iron_pickaxe": "2025-01-23 21:59:54 -0300"
+      "iron_pickaxe": "2025-01-24 00:59:54 +0000"
     },
     "done": true
   },
   "mekanism:heat_transport": {
     "criteria": {
-      "basic_thermodynamic_conductor": "2025-01-26 00:54:12 -0300"
+      "basic_thermodynamic_conductor": "2025-01-26 03:54:12 +0000"
     },
     "done": true
   },
   "mekanism:chemical_crystallizer": {
     "criteria": {
-      "chemical_dissolution_chamber": "2025-01-31 20:02:07 -0300",
-      "chemical_crystallizer": "2025-01-26 14:06:46 -0300"
+      "chemical_dissolution_chamber": "2025-01-31 23:02:07 +0000",
+      "chemical_crystallizer": "2025-01-26 17:06:46 +0000"
     },
     "done": false
   },
   "ae2:main/ioport": {
     "criteria": {
-      "certus": "2025-01-28 21:38:56 -0300"
+      "certus": "2025-01-29 00:38:56 +0000"
     },
     "done": true
   },
   "minecraft:adventure/avoid_vibration": {
     "criteria": {
-      "avoid_vibration": "2025-01-29 00:57:28 -0300"
+      "avoid_vibration": "2025-01-29 03:57:28 +0000"
     },
     "done": true
   },
   "mekanism:configuration_copying": {
     "criteria": {
-      "paste": "2025-01-31 19:54:48 -0300",
-      "copy": "2025-01-31 19:54:46 -0300"
+      "paste": "2025-01-31 22:54:48 +0000",
+      "copy": "2025-01-31 22:54:46 +0000"
     },
     "done": true
   },
   "mekanism:yellow_cake": {
     "criteria": {
-      "yellow_cake_uranium": "2025-01-31 19:57:16 -0300"
+      "yellow_cake_uranium": "2025-01-31 22:57:16 +0000"
     },
     "done": true
   },
   "mekanism:sna": {
     "criteria": {
-      "solar_neutron_activator": "2025-01-31 20:41:28 -0300"
+      "solar_neutron_activator": "2025-01-31 23:41:28 +0000"
     },
     "done": true
   },
   "mekanism:laser": {
     "criteria": {
-      "laser": "2025-01-31 21:14:37 -0300"
+      "laser": "2025-02-01 00:14:37 +0000"
     },
     "done": true
   },
   "mekanism:auto_collection": {
     "criteria": {
-      "laser_tractor_beam": "2025-01-31 21:17:51 -0300"
+      "laser_tractor_beam": "2025-02-01 00:17:51 +0000"
     },
     "done": true
   },
   "mekanism:chemical_transport": {
     "criteria": {
-      "basic_pressurized_tube": "2025-01-31 22:00:35 -0300"
+      "basic_pressurized_tube": "2025-02-01 01:00:35 +0000"
     },
     "done": true
   },
   "mekanism:waste_removal": {
     "criteria": {
-      "radioactive_waste_barrel": "2025-01-31 22:02:52 -0300"
+      "radioactive_waste_barrel": "2025-02-01 01:02:52 +0000"
     },
     "done": true
   },
   "mekanism:polonium": {
     "criteria": {
-      "pellet_polonium": "2025-02-01 11:18:17 -0300"
+      "pellet_polonium": "2025-02-01 14:18:17 +0000"
     },
     "done": true
   },
   "mekanism:pump": {
     "criteria": {
-      "electric_pump": "2025-02-01 13:13:28 -0300"
+      "electric_pump": "2025-02-01 16:13:28 +0000"
     },
     "done": true
   },
   "mekanism:plutonium": {
     "criteria": {
-      "pellet_plutonium": "2025-02-01 14:04:52 -0300"
+      "pellet_plutonium": "2025-02-01 17:04:52 +0000"
     },
     "done": true
   },
   "mekanism:radiation_poisoning": {
     "criteria": {
-      "poisoned": "2025-02-03 14:31:44 -0300"
+      "poisoned": "2025-02-03 17:31:44 +0000"
     },
     "done": true
   },
   "mekanism:sps": {
     "criteria": {
-      "sps_casing": "2025-02-03 18:16:04 -0300",
-      "sps_port": "2025-02-03 18:28:30 -0300"
+      "sps_casing": "2025-02-03 21:16:04 +0000",
+      "sps_port": "2025-02-03 21:28:30 +0000"
     },
     "done": true
   },
   "minecraft:story/obtain_armor": {
     "criteria": {
-      "iron_leggings": "2025-02-05 12:11:25 -0300"
+      "iron_leggings": "2025-02-05 15:11:25 +0000"
     },
     "done": true
   },
   "apothic_spawners:ultimate_spawner": {
     "criteria": {
-      "modifier": "2025-02-05 14:30:30 -0300"
+      "modifier": "2025-02-05 17:30:30 +0000"
     },
     "done": true
   },
   "apothic_spawners:players": {
     "criteria": {
-      "modifier": "2025-02-05 14:30:30 -0300"
+      "modifier": "2025-02-05 17:30:30 +0000"
     },
     "done": true
   },
   "mekanism:qio_drive_array": {
     "criteria": {
-      "qio_drive_array": "2025-02-06 20:49:51 -0300"
+      "qio_drive_array": "2025-02-06 23:49:51 +0000"
     },
     "done": true
   },
   "mekanism:ultimate_qio_drive": {
     "criteria": {
-      "qio_drive_supermassive": "2025-02-06 20:59:25 -0300"
+      "qio_drive_supermassive": "2025-02-06 23:59:25 +0000"
     },
     "done": true
   },
   "mekanism:advanced_qio_drive": {
     "criteria": {
-      "qio_drive_hyper_dense": "2025-02-06 21:00:21 -0300"
+      "qio_drive_hyper_dense": "2025-02-07 00:00:21 +0000"
     },
     "done": true
   },
   "mekanism:basic_qio_drive": {
     "criteria": {
-      "qio_drive_base": "2025-02-06 21:00:31 -0300"
+      "qio_drive_base": "2025-02-07 00:00:31 +0000"
     },
     "done": true
   },
   "mekanism:elite_qio_drive": {
     "criteria": {
-      "qio_drive_time_dilating": "2025-02-06 21:00:40 -0300"
+      "qio_drive_time_dilating": "2025-02-07 00:00:40 +0000"
     },
     "done": true
   },
   "mekanism:qio_importer": {
     "criteria": {
-      "qio_importer": "2025-02-06 21:02:07 -0300"
+      "qio_importer": "2025-02-07 00:02:07 +0000"
     },
     "done": true
   },
   "mekanism:qio_exporter": {
     "criteria": {
-      "qio_exporter": "2025-02-06 21:02:56 -0300"
+      "qio_exporter": "2025-02-07 00:02:56 +0000"
     },
     "done": true
   },
   "mekanism:qio_dashboard": {
     "criteria": {
-      "qio_dashboard": "2025-02-06 21:03:40 -0300"
+      "qio_dashboard": "2025-02-07 00:03:40 +0000"
     },
     "done": true
   },
   "mekanism:portable_qio_dashboard": {
     "criteria": {
-      "portable_qio_dashboard": "2025-02-06 21:04:13 -0300"
+      "portable_qio_dashboard": "2025-02-07 00:04:13 +0000"
     },
     "done": true
   },
   "mekanism:modification_station": {
     "criteria": {
-      "modification_station": "2025-02-07 20:54:54 -0300"
+      "modification_station": "2025-02-07 23:54:54 +0000"
     },
     "done": true
   },
   "mekanism:antimatter": {
     "criteria": {
-      "pellet_antimatter": "2025-02-07 21:11:50 -0300"
+      "pellet_antimatter": "2025-02-08 00:11:50 +0000"
     },
     "done": true
   },
   "apothic_enchanting:enchanter": {
     "criteria": {
-      "enchanting_table": "2025-02-08 23:05:15 -0300"
+      "enchanting_table": "2025-02-09 02:05:15 +0000"
     },
     "done": true
   },
   "apotheosis:progression/ascent": {
     "criteria": {
-      "uncommon_legs": "2025-02-10 22:50:47 -0300",
-      "uncommon_chest": "2025-02-10 22:50:40 -0300",
-      "kill_apothic_invader": "2025-02-10 22:55:35 -0300",
-      "uncommon_hand": "2025-02-10 22:49:28 -0300",
-      "uncommon_helm": "2025-02-10 22:50:26 -0300",
-      "uncommon_feet": "2025-02-10 22:50:53 -0300"
+      "uncommon_legs": "2025-02-11 01:50:47 +0000",
+      "uncommon_chest": "2025-02-11 01:50:40 +0000",
+      "kill_apothic_invader": "2025-02-11 01:55:35 +0000",
+      "uncommon_hand": "2025-02-11 01:49:28 +0000",
+      "uncommon_helm": "2025-02-11 01:50:26 +0000",
+      "uncommon_feet": "2025-02-11 01:50:53 +0000"
     },
     "done": true
   },
   "apotheosis:progression/frontier": {
     "criteria": {
-      "common_helm": "2025-02-10 22:50:26 -0300",
-      "common_hand": "2025-02-10 22:49:28 -0300",
-      "common_chest": "2025-02-10 22:50:40 -0300",
-      "common_legs": "2025-02-10 22:50:47 -0300",
-      "common_feet": "2025-02-10 22:50:53 -0300"
+      "common_helm": "2025-02-11 01:50:26 +0000",
+      "common_hand": "2025-02-11 01:49:28 +0000",
+      "common_chest": "2025-02-11 01:50:40 +0000",
+      "common_legs": "2025-02-11 01:50:47 +0000",
+      "common_feet": "2025-02-11 01:50:53 +0000"
     },
     "done": true
   },
   "apotheosis:progression/pinnacle": {
     "criteria": {
-      "epic_legs": "2025-02-10 23:06:42 -0300",
-      "epic_feet": "2025-02-10 23:06:38 -0300",
-      "epic_hand": "2025-02-10 23:04:09 -0300",
-      "epic_helm": "2025-02-10 22:59:02 -0300",
-      "kill_ender_dragon": "2025-02-10 23:09:00 -0300",
-      "epic_chest": "2025-02-10 23:06:42 -0300"
+      "epic_legs": "2025-02-11 02:06:42 +0000",
+      "epic_feet": "2025-02-11 02:06:38 +0000",
+      "epic_hand": "2025-02-11 02:04:09 +0000",
+      "epic_helm": "2025-02-11 01:59:02 +0000",
+      "kill_ender_dragon": "2025-02-11 02:09:00 +0000",
+      "epic_chest": "2025-02-11 02:06:42 +0000"
     },
     "done": true
   },
   "twilightforest:fiery_set": {
     "criteria": {
-      "fiery_boots": "2025-02-10 23:03:36 -0300"
+      "fiery_boots": "2025-02-11 02:03:36 +0000"
     },
     "done": false
   },
   "apothic_enchanting:bookshelf": {
     "criteria": {
-      "bookshelf": "2025-02-15 17:18:38 -0300"
+      "bookshelf": "2025-02-15 20:18:38 +0000"
     },
     "done": true
   },
   "apothic_enchanting:hellshelf": {
     "criteria": {
-      "hellshelf": "2025-02-15 17:20:55 -0300"
+      "hellshelf": "2025-02-15 20:20:55 +0000"
     },
     "done": true
   },
   "apothic_enchanting:30ench": {
     "criteria": {
-      "enchanted_item": "2025-02-16 00:05:35 -0300"
+      "enchanted_item": "2025-02-16 03:05:35 +0000"
     },
     "done": true
   },
   "minecraft:story/enchant_item": {
     "criteria": {
-      "enchanted_item": "2025-02-16 00:05:35 -0300"
+      "enchanted_item": "2025-02-16 03:05:35 +0000"
     },
     "done": true
   },
   "apothic_enchanting:upgrade_hellshelf": {
     "criteria": {
-      "glowing": "2025-02-22 22:43:08 -0300"
+      "glowing": "2025-02-23 01:43:08 +0000"
     },
     "done": true
   },
   "apothic_enchanting:enchanting_stats": {
     "criteria": {
-      "enchanted_item": "2025-02-22 23:18:36 -0300"
+      "enchanted_item": "2025-02-23 02:18:36 +0000"
     },
     "done": true
   },
   "apothic_enchanting:seashelf": {
     "criteria": {
-      "seashelf": "2025-02-22 23:25:58 -0300"
+      "seashelf": "2025-02-23 02:25:58 +0000"
     },
     "done": true
   },
   "apothic_enchanting:upgrade_seashelf": {
     "criteria": {
-      "heart": "2025-02-22 23:26:28 -0300"
+      "heart": "2025-02-23 02:26:28 +0000"
     },
     "done": true
   },
   "apothic_enchanting:60ench": {
     "criteria": {
-      "enchanted_item": "2025-02-22 23:27:08 -0300"
+      "enchanted_item": "2025-02-23 02:27:08 +0000"
     },
     "done": true
   },
   "apothic_enchanting:deepshelf": {
     "criteria": {
-      "deepshelf": "2025-02-22 23:31:26 -0300"
+      "deepshelf": "2025-02-23 02:31:26 +0000"
     },
     "done": true
   },
   "apothic_enchanting:sculkshelf": {
     "criteria": {
-      "echoing": "2025-02-22 23:40:16 -0300"
+      "echoing": "2025-02-23 02:40:16 +0000"
     },
     "done": true
   },
   "apothic_enchanting:arcana50": {
     "criteria": {
-      "enchanted_item": "2025-02-22 23:44:19 -0300"
+      "enchanted_item": "2025-02-23 02:44:19 +0000"
     },
     "done": true
   },
   "apothic_enchanting:quanta50": {
     "criteria": {
-      "enchanted_item": "2025-02-22 23:46:39 -0300"
+      "enchanted_item": "2025-02-23 02:46:39 +0000"
     },
     "done": true
   },
   "apothic_enchanting:arcana100": {
     "criteria": {
-      "enchanted_item": "2025-02-22 23:53:37 -0300"
+      "enchanted_item": "2025-02-23 02:53:37 +0000"
     },
     "done": true
   },
   "apothic_enchanting:80ench": {
     "criteria": {
-      "enchanted_item": "2025-02-23 00:05:06 -0300"
+      "enchanted_item": "2025-02-23 03:05:06 +0000"
     },
     "done": true
   },
   "apothic_enchanting:quanta100": {
     "criteria": {
-      "enchanted_item": "2025-02-23 00:05:38 -0300"
+      "enchanted_item": "2025-02-23 03:05:38 +0000"
     },
     "done": true
   },
   "apothic_enchanting:endshelf": {
     "criteria": {
-      "endshelf": "2025-02-23 00:34:01 -0300"
+      "endshelf": "2025-02-23 03:34:01 +0000"
     },
     "done": true
   },
   "apothic_enchanting:upgrade_endshelf": {
     "criteria": {
-      "draconic": "2025-02-23 00:37:07 -0300"
+      "draconic": "2025-02-23 03:37:07 +0000"
     },
     "done": true
   },
   "apothic_enchanting:max_stats": {
     "criteria": {
-      "enchanted_item": "2025-02-23 01:00:39 -0300"
+      "enchanted_item": "2025-02-23 04:00:39 +0000"
     },
     "done": true
   },
   "apothic_enchanting:100ench": {
     "criteria": {
-      "enchanted_item": "2025-02-23 01:05:05 -0300"
+      "enchanted_item": "2025-02-23 04:05:05 +0000"
     },
     "done": true
   },
   "minecraft:adventure/kill_mob_near_sculk_catalyst": {
     "criteria": {
-      "kill_mob_near_sculk_catalyst": "2025-03-03 23:40:00 -0300"
+      "kill_mob_near_sculk_catalyst": "2025-03-04 02:40:00 +0000"
     },
     "done": true
   },
   "create:root": {
     "criteria": {
-      "0": "2025-04-17 23:42:37 -0300"
+      "0": "2025-04-18 02:42:37 +0000"
     },
     "done": true
   },
   "apotheosis:progression/root": {
     "criteria": {
-      "tick": "2025-04-17 23:42:38 -0300"
+      "tick": "2025-04-18 02:42:38 +0000"
     },
     "done": true
   },
   "tombstone:recipe/dust_of_frost": {
     "criteria": {
-      "has_ingredient": "2025-05-25 01:54:52 -0300"
+      "has_ingredient": "2025-05-25 04:54:52 +0000"
     },
     "done": true
   },
   "tombstone:recipe/dust_of_vanishing": {
     "criteria": {
-      "has_ingredient": "2025-05-25 01:54:52 -0300"
+      "has_ingredient": "2025-05-25 04:54:52 +0000"
     },
     "done": true
   },
   "tombstone:recipe/smoke_ball": {
     "criteria": {
-      "has_ingredient": "2025-05-25 01:54:52 -0300"
+      "has_ingredient": "2025-05-25 04:54:52 +0000"
     },
     "done": true
   },
   "lootr:root": {
     "criteria": {
-      "always_true": "2025-07-14 20:15:08 -0300"
+      "always_true": "2025-07-14 23:15:08 +0000"
     },
     "done": true
   },
   "constructionstick:iron_stick": {
     "criteria": {
-      "iron_stick": "2025-08-02 22:27:58 -0300"
+      "iron_stick": "2025-08-03 01:27:58 +0000"
     },
     "done": true
   },
   "ae2wtlib:recipe/magnet_card": {
     "criteria": {
-      "has_wct": "2025-10-04 16:24:26 -0300"
+      "has_wct": "2025-10-04 19:24:26 +0000"
     },
     "done": true
   },
   "ae2wtlib:recipe/wireless_pattern_encoding_terminal": {
     "criteria": {
-      "has_wt": "2025-10-04 16:24:26 -0300"
+      "has_wt": "2025-10-04 19:24:26 +0000"
     },
     "done": true
   },
   "ae2wtlib:recipe/wireless_universal_terminal/upgrade_crafting": {
     "criteria": {
-      "has_wct": "2025-10-04 16:24:26 -0300"
+      "has_wct": "2025-10-04 19:24:26 +0000"
     },
     "done": true
   },
   "ae2wtlib:recipe/wireless_universal_terminal/ce": {
     "criteria": {
-      "has_wpt": "2025-10-04 16:24:26 -0300",
-      "has_wct": "2025-10-04 16:24:26 -0300"
+      "has_wpt": "2025-10-04 19:24:26 +0000",
+      "has_wct": "2025-10-04 19:24:26 +0000"
     },
     "done": true
   },
   "ae2wtlib:recipe/wireless_universal_terminal/ca": {
     "criteria": {
-      "has_wit": "2025-10-04 16:24:26 -0300",
-      "has_wct": "2025-10-04 16:24:26 -0300"
+      "has_wit": "2025-10-04 19:24:26 +0000",
+      "has_wct": "2025-10-04 19:24:26 +0000"
     },
     "done": true
   },
   "ae2wtlib:recipe/wireless_universal_terminal/upgrade_pattern_access": {
     "criteria": {
-      "has_wit": "2025-10-04 16:24:26 -0300"
+      "has_wit": "2025-10-04 19:24:26 +0000"
     },
     "done": true
   },
   "ae2wtlib:recipe/wireless_universal_terminal/upgrade_pattern_encoding": {
     "criteria": {
-      "has_wpt": "2025-10-04 16:24:26 -0300"
+      "has_wpt": "2025-10-04 19:24:26 +0000"
     },
     "done": true
   },
   "ae2wtlib:recipe/quantum_bridge_card": {
     "criteria": {
-      "has_wit": "2025-10-04 16:24:26 -0300",
-      "has_wpt": "2025-10-04 16:24:26 -0300",
-      "has_wct": "2025-10-04 16:24:26 -0300"
+      "has_wit": "2025-10-04 19:24:26 +0000",
+      "has_wpt": "2025-10-04 19:24:26 +0000",
+      "has_wct": "2025-10-04 19:24:26 +0000"
     },
     "done": true
   },
   "ae2wtlib:recipe/wireless_universal_terminal/ae": {
     "criteria": {
-      "has_wit": "2025-10-04 16:24:26 -0300",
-      "has_wpt": "2025-10-04 16:24:26 -0300"
+      "has_wit": "2025-10-04 19:24:26 +0000",
+      "has_wpt": "2025-10-04 19:24:26 +0000"
     },
     "done": true
   },
   "ae2wtlib:recipe/wireless_pattern_access_terminal": {
     "criteria": {
-      "has_wt": "2025-10-04 16:24:26 -0300"
+      "has_wt": "2025-10-04 19:24:26 +0000"
     },
     "done": true
   },
   "vanilla_refresh:player/tick": {
     "criteria": {
-      "s": "2025-10-18 15:12:13 -0300"
+      "s": "2025-10-18 18:12:13 +0000"
     },
     "done": true
   },
   "vanilla_refresh:biome/plains": {
     "criteria": {
-      "requirement": "2025-10-18 15:12:38 -0300"
+      "requirement": "2025-10-18 18:12:38 +0000"
     },
     "done": true
   },
   "ars_nouveau:poof_mob": {
     "criteria": {
-      "poof_mob": "2025-10-18 15:17:01 -0300"
+      "poof_mob": "2025-10-18 18:17:01 +0000"
     },
     "done": true
   },
   "vanilla_refresh:biome/deep_dark": {
     "criteria": {
-      "requirement": "2025-10-18 15:31:55 -0300"
+      "requirement": "2025-10-18 18:31:55 +0000"
     },
     "done": true
   },
   "vanilla_refresh:biome/savanna": {
     "criteria": {
-      "requirement": "2025-10-18 15:32:11 -0300"
+      "requirement": "2025-10-18 18:32:11 +0000"
     },
     "done": true
   },
   "tombstone:event/root": {
     "criteria": {
-      "halloween": "2025-10-22 21:22:57 -0300"
+      "halloween": "2025-10-23 00:22:57 +0000"
     },
     "done": true
   },
   "tombstone:event/halloween": {
     "criteria": {
-      "coded_trigger": "2025-10-22 21:22:57 -0300"
+      "coded_trigger": "2025-10-23 00:22:57 +0000"
     },
     "done": true
   },
   "javd:enter_mining_dimension": {
     "criteria": {
-      "enter_dimension": "2025-10-22 21:39:46 -0300"
+      "enter_dimension": "2025-10-23 00:39:46 +0000"
     },
     "done": true
   },
   "tombstone:event/christmas": {
     "criteria": {
-      "coded_trigger": "2025-12-13 10:59:55 -0300"
+      "coded_trigger": "2025-12-13 13:59:55 +0000"
     },
     "done": true
   },
   "tombstone:event/mysterious_gift": {
     "criteria": {
-      "coded_trigger": "2025-12-13 10:59:55 -0300"
+      "coded_trigger": "2025-12-13 13:59:55 +0000"
     },
     "done": true
   },
   "vanilla_refresh:biome/birch_forest": {
     "criteria": {
-      "requirement": "2025-12-20 15:48:31 -0300"
+      "requirement": "2025-12-20 18:48:31 +0000"
     },
     "done": true
   },
   "naturescompass:repair_natures_compass": {
     "criteria": {
-      "has_item": "2026-06-07 02:26:50 -0300"
+      "has_item": "2026-06-07 05:26:50 +0000"
     },
     "done": true
   },
   "industrialforegoing:dissolution_chamber/brown_laser_lens": {
     "criteria": {
-      "has_the_recipe": "2026-06-29 19:25:47 -0300"
+      "has_the_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "industrialforegoing:dissolution_chamber/light_blue_laser_lens": {
     "criteria": {
-      "has_the_recipe": "2026-06-29 19:25:47 -0300"
+      "has_the_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "tombstone:recipe/scroll_of_preservation": {
     "criteria": {
-      "has_recipe": "2026-06-29 19:25:47 -0300"
+      "has_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "industrialforegoing:dissolution_chamber/infinity_drill": {
     "criteria": {
-      "has_the_recipe": "2026-06-29 19:25:47 -0300"
+      "has_the_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "industrialforegoing:dissolution_chamber/green_laser_lens": {
     "criteria": {
-      "has_the_recipe": "2026-06-29 19:25:47 -0300"
+      "has_the_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "industrialforegoing:dissolution_chamber/gray_laser_lens": {
     "criteria": {
-      "has_the_recipe": "2026-06-29 19:25:47 -0300"
+      "has_the_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "industrialforegoing:dissolution_chamber/black_laser_lens": {
     "criteria": {
-      "has_the_recipe": "2026-06-29 19:25:47 -0300"
+      "has_the_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "tombstone:recipe/green_subaraki_grave": {
     "criteria": {
-      "has_recipe": "2026-06-29 19:25:47 -0300"
+      "has_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "industrialforegoing:dissolution_chamber/processing_addon_5": {
     "criteria": {
-      "has_the_recipe": "2026-06-29 19:25:47 -0300"
+      "has_the_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "industrialforegoing:dissolution_chamber/processing_addon_6": {
     "criteria": {
-      "has_the_recipe": "2026-06-29 19:25:47 -0300"
+      "has_the_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "industrialforegoing:dissolution_chamber/processing_addon_3": {
     "criteria": {
-      "has_the_recipe": "2026-06-29 19:25:47 -0300"
+      "has_the_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "industrialforegoing:dissolution_chamber/processing_addon_4": {
     "criteria": {
-      "has_the_recipe": "2026-06-29 19:25:47 -0300"
+      "has_the_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "tombstone:recipe/green_tombstone": {
     "criteria": {
-      "has_recipe": "2026-06-29 19:25:47 -0300"
+      "has_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "industrialforegoing:dissolution_chamber/processing_addon_7": {
     "criteria": {
-      "has_the_recipe": "2026-06-29 19:25:47 -0300"
+      "has_the_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "industrialforegoing:dissolution_chamber/processing_addon_8": {
     "criteria": {
-      "has_the_recipe": "2026-06-29 19:25:47 -0300"
+      "has_the_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "tombstone:recipe/dark_marble_stairs": {
     "criteria": {
-      "has_recipe": "2026-06-29 19:25:47 -0300"
+      "has_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "industrialforegoing:dissolution_chamber/pink_slime_ingot": {
     "criteria": {
-      "has_the_recipe": "2026-06-29 19:25:47 -0300"
+      "has_the_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "tombstone:recipe/white_grave_original": {
     "criteria": {
-      "has_recipe": "2026-06-29 19:25:47 -0300"
+      "has_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "industrialforegoing:dissolution_chamber/infinity_hammer": {
     "criteria": {
-      "has_the_recipe": "2026-06-29 19:25:47 -0300"
+      "has_the_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "tombstone:recipe/blue_marble_wall": {
     "criteria": {
-      "has_recipe": "2026-06-29 19:25:47 -0300"
+      "has_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "industrialforegoing:dissolution_chamber/industrialforegoing.efficiency_addon_tier_2": {
     "criteria": {
-      "has_the_recipe": "2026-06-29 19:25:47 -0300"
+      "has_the_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "tombstone:recipe/white_tombstone": {
     "criteria": {
-      "has_recipe": "2026-06-29 19:25:47 -0300"
+      "has_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "industrialforegoing:dissolution_chamber/cyan_laser_lens": {
     "criteria": {
-      "has_the_recipe": "2026-06-29 19:25:47 -0300"
+      "has_the_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "tombstone:recipe/scroll_of_frost_resistance": {
     "criteria": {
-      "has_recipe": "2026-06-29 19:25:47 -0300"
+      "has_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "industrialforegoing:dissolution_chamber/efficiency_addon_6": {
     "criteria": {
-      "has_the_recipe": "2026-06-29 19:25:47 -0300"
+      "has_the_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "industrialforegoing:dissolution_chamber/efficiency_addon_5": {
     "criteria": {
-      "has_the_recipe": "2026-06-29 19:25:47 -0300"
+      "has_the_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "industrialforegoing:dissolution_chamber/efficiency_addon_8": {
     "criteria": {
-      "has_the_recipe": "2026-06-29 19:25:47 -0300"
+      "has_the_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "industrialforegoing:dissolution_chamber/efficiency_addon_7": {
     "criteria": {
-      "has_the_recipe": "2026-06-29 19:25:47 -0300"
+      "has_the_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "industrialforegoing:dissolution_chamber/efficiency_addon_4": {
     "criteria": {
-      "has_the_recipe": "2026-06-29 19:25:47 -0300"
+      "has_the_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "industrialforegoing:dissolution_chamber/efficiency_addon_3": {
     "criteria": {
-      "has_the_recipe": "2026-06-29 19:25:47 -0300"
+      "has_the_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "tombstone:recipe/blue_marble_stairs": {
     "criteria": {
-      "has_recipe": "2026-06-29 19:25:47 -0300"
+      "has_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "industrialforegoing:dissolution_chamber/light_gray_laser_lens": {
     "criteria": {
-      "has_the_recipe": "2026-06-29 19:25:47 -0300"
+      "has_the_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "industrialforegoing:dissolution_chamber/supreme_machine_frame": {
     "criteria": {
-      "has_the_recipe": "2026-06-29 19:25:47 -0300"
+      "has_the_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "tombstone:recipe/white_subaraki_grave": {
     "criteria": {
-      "has_recipe": "2026-06-29 19:25:47 -0300"
+      "has_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "tombstone:recipe/white_marble_slab": {
     "criteria": {
-      "has_recipe": "2026-06-29 19:25:47 -0300"
+      "has_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "tombstone:recipe/scroll_of_purification": {
     "criteria": {
-      "has_recipe": "2026-06-29 19:25:47 -0300"
+      "has_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "industrialforegoing:dissolution_chamber/range_addon_tier_8": {
     "criteria": {
-      "has_the_recipe": "2026-06-29 19:25:47 -0300"
+      "has_the_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "industrialforegoing:dissolution_chamber/range_addon_tier_9": {
     "criteria": {
-      "has_the_recipe": "2026-06-29 19:25:47 -0300"
+      "has_the_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "tombstone:recipe/green_marble_slab": {
     "criteria": {
-      "has_recipe": "2026-06-29 19:25:47 -0300"
+      "has_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "industrialforegoing:dissolution_chamber/orange_laser_lens": {
     "criteria": {
-      "has_the_recipe": "2026-06-29 19:25:47 -0300"
+      "has_the_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "industrialforegoing:dissolution_chamber/mycelial_reactor": {
     "criteria": {
-      "has_the_recipe": "2026-06-29 19:25:47 -0300"
+      "has_the_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "industrialforegoing:dissolution_chamber/range_addon_tier_6": {
     "criteria": {
-      "has_the_recipe": "2026-06-29 19:25:47 -0300"
+      "has_the_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "industrialforegoing:dissolution_chamber/range_addon_tier_7": {
     "criteria": {
-      "has_the_recipe": "2026-06-29 19:25:47 -0300"
+      "has_the_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "industrialforegoing:dissolution_chamber/range_addon_tier_4": {
     "criteria": {
-      "has_the_recipe": "2026-06-29 19:25:47 -0300"
+      "has_the_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "industrialforegoing:dissolution_chamber/range_addon_tier_5": {
     "criteria": {
-      "has_the_recipe": "2026-06-29 19:25:47 -0300"
+      "has_the_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "industrialforegoing:dissolution_chamber/range_addon_tier_2": {
     "criteria": {
-      "has_the_recipe": "2026-06-29 19:25:47 -0300"
+      "has_the_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "industrialforegoing:dissolution_chamber/range_addon_tier_3": {
     "criteria": {
-      "has_the_recipe": "2026-06-29 19:25:47 -0300"
+      "has_the_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "industrialforegoing:dissolution_chamber/range_addon_tier_0": {
     "criteria": {
-      "has_the_recipe": "2026-06-29 19:25:47 -0300"
+      "has_the_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "industrialforegoing:dissolution_chamber/range_addon_tier_1": {
     "criteria": {
-      "has_the_recipe": "2026-06-29 19:25:47 -0300"
+      "has_the_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "tombstone:recipe/black_grave_cross": {
     "criteria": {
-      "has_recipe": "2026-06-29 19:25:47 -0300"
+      "has_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "tombstone:recipe/black_tombstone": {
     "criteria": {
-      "has_recipe": "2026-06-29 19:25:47 -0300"
+      "has_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "tombstone:recipe/green_marble_wall": {
     "criteria": {
-      "has_recipe": "2026-06-29 19:25:47 -0300"
+      "has_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "tombstone:recipe/receptacle_of_familiar": {
     "criteria": {
-      "has_recipe": "2026-06-29 19:25:47 -0300"
+      "has_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "tombstone:recipe/scroll_of_true_sight": {
     "criteria": {
-      "has_recipe": "2026-06-29 19:25:47 -0300"
+      "has_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "tombstone:recipe/white_grave_simple": {
     "criteria": {
-      "has_recipe": "2026-06-29 19:25:47 -0300"
+      "has_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "industrialforegoing:dissolution_chamber/efficiency_addon_tier_1": {
     "criteria": {
-      "has_the_recipe": "2026-06-29 19:25:47 -0300"
+      "has_the_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "industrialforegoing:dissolution_chamber/efficiency_addon_tier_2": {
     "criteria": {
-      "has_the_recipe": "2026-06-29 19:25:47 -0300"
+      "has_the_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "industrialforegoing:dissolution_chamber/advanced_machine_frame": {
     "criteria": {
-      "has_the_recipe": "2026-06-29 19:25:47 -0300"
+      "has_the_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "industrialforegoing:dissolution_chamber/pink_slime_ball": {
     "criteria": {
-      "has_the_recipe": "2026-06-29 19:25:47 -0300"
+      "has_the_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "tombstone:recipe/white_marble_wall": {
     "criteria": {
-      "has_recipe": "2026-06-29 19:25:47 -0300"
+      "has_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "tombstone:recipe/blue_grave_original": {
     "criteria": {
-      "has_recipe": "2026-06-29 19:25:47 -0300"
+      "has_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "tombstone:recipe/scroll_of_unstable_intangibility": {
     "criteria": {
-      "has_recipe": "2026-06-29 19:25:47 -0300"
+      "has_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "tombstone:recipe/blue_subaraki_grave": {
     "criteria": {
-      "has_recipe": "2026-06-29 19:25:47 -0300"
+      "has_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "industrialforegoing:dissolution_chamber/infinity_nuke": {
     "criteria": {
-      "has_the_recipe": "2026-06-29 19:25:47 -0300"
+      "has_the_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "tombstone:recipe/scroll_of_aquatic_life": {
     "criteria": {
-      "has_recipe": "2026-06-29 19:25:47 -0300"
+      "has_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "industrialforegoing:dissolution_chamber/speed_addon_tier_2": {
     "criteria": {
-      "has_the_recipe": "2026-06-29 19:25:47 -0300"
+      "has_the_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "industrialforegoing:dissolution_chamber/speed_addon_tier_1": {
     "criteria": {
-      "has_the_recipe": "2026-06-29 19:25:47 -0300"
+      "has_the_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "industrialforegoing:dissolution_chamber/infinity_trident": {
     "criteria": {
-      "has_the_recipe": "2026-06-29 19:25:47 -0300"
+      "has_the_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "tombstone:recipe/blue_grave_cross": {
     "criteria": {
-      "has_recipe": "2026-06-29 19:25:47 -0300"
+      "has_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "tombstone:recipe/green_grave_original": {
     "criteria": {
-      "has_recipe": "2026-06-29 19:25:47 -0300"
+      "has_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "tombstone:recipe/green_marble_stairs": {
     "criteria": {
-      "has_recipe": "2026-06-29 19:25:47 -0300"
+      "has_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "industrialforegoing:dissolution_chamber/white_laser_lens": {
     "criteria": {
-      "has_the_recipe": "2026-06-29 19:25:47 -0300"
+      "has_the_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "tombstone:recipe/black_grave_simple": {
     "criteria": {
-      "has_recipe": "2026-06-29 19:25:47 -0300"
+      "has_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "tombstone:recipe/blue_grave_simple": {
     "criteria": {
-      "has_recipe": "2026-06-29 19:25:47 -0300"
+      "has_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "tombstone:recipe/dark_marble_slab": {
     "criteria": {
-      "has_recipe": "2026-06-29 19:25:47 -0300"
+      "has_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "industrialforegoing:dissolution_chamber/lime_laser_lens": {
     "criteria": {
-      "has_the_recipe": "2026-06-29 19:25:47 -0300"
+      "has_the_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "tombstone:recipe/scroll_of_knowledge": {
     "criteria": {
-      "has_recipe": "2026-06-29 19:25:47 -0300"
+      "has_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "industrialforegoing:dissolution_chamber/speed_addon_3": {
     "criteria": {
-      "has_the_recipe": "2026-06-29 19:25:47 -0300"
+      "has_the_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "industrialforegoing:dissolution_chamber/speed_addon_4": {
     "criteria": {
-      "has_the_recipe": "2026-06-29 19:25:47 -0300"
+      "has_the_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "industrialforegoing:dissolution_chamber/speed_addon_7": {
     "criteria": {
-      "has_the_recipe": "2026-06-29 19:25:47 -0300"
+      "has_the_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "industrialforegoing:dissolution_chamber/speed_addon_8": {
     "criteria": {
-      "has_the_recipe": "2026-06-29 19:25:47 -0300"
+      "has_the_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "tombstone:recipe/green_grave_normal": {
     "criteria": {
-      "has_recipe": "2026-06-29 19:25:47 -0300"
+      "has_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "industrialforegoing:dissolution_chamber/speed_addon_5": {
     "criteria": {
-      "has_the_recipe": "2026-06-29 19:25:47 -0300"
+      "has_the_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "industrialforegoing:dissolution_chamber/speed_addon_6": {
     "criteria": {
-      "has_the_recipe": "2026-06-29 19:25:47 -0300"
+      "has_the_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "tombstone:recipe/scroll_of_mercy": {
     "criteria": {
-      "has_recipe": "2026-06-29 19:25:47 -0300"
+      "has_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "tombstone:recipe/scroll_of_lightning_resistance": {
     "criteria": {
-      "has_recipe": "2026-06-29 19:25:47 -0300"
+      "has_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "industrialforegoing:dissolution_chamber/blue_laser_lens": {
     "criteria": {
-      "has_the_recipe": "2026-06-29 19:25:47 -0300"
+      "has_the_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "tombstone:recipe/green_grave_simple": {
     "criteria": {
-      "has_recipe": "2026-06-29 19:25:47 -0300"
+      "has_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "industrialforegoing:dissolution_chamber/xp_bottles": {
     "criteria": {
-      "has_the_recipe": "2026-06-29 19:25:47 -0300"
+      "has_the_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "industrialforegoing:dissolution_chamber/magenta_laser_lens": {
     "criteria": {
-      "has_the_recipe": "2026-06-29 19:25:47 -0300"
+      "has_the_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "tombstone:recipe/blue_marble_slab": {
     "criteria": {
-      "has_recipe": "2026-06-29 19:25:47 -0300"
+      "has_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "industrialforegoing:dissolution_chamber/purple_laser_lens": {
     "criteria": {
-      "has_the_recipe": "2026-06-29 19:25:47 -0300"
+      "has_the_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "industrialforegoing:dissolution_chamber/yellow_laser_lens": {
     "criteria": {
-      "has_the_recipe": "2026-06-29 19:25:47 -0300"
+      "has_the_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "tombstone:recipe/tablet_of_cupidity": {
     "criteria": {
-      "has_recipe": "2026-06-29 19:25:47 -0300"
+      "has_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "tombstone:recipe/blue_grave_normal": {
     "criteria": {
-      "has_recipe": "2026-06-29 19:25:47 -0300"
+      "has_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "tombstone:recipe/white_grave_normal": {
     "criteria": {
-      "has_recipe": "2026-06-29 19:25:47 -0300"
+      "has_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "industrialforegoing:dissolution_chamber/simple_machine_frame": {
     "criteria": {
-      "has_the_recipe": "2026-06-29 19:25:47 -0300"
+      "has_the_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "industrialforegoing:dissolution_chamber/infinity_launcher": {
     "criteria": {
-      "has_the_recipe": "2026-06-29 19:25:47 -0300"
+      "has_the_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "tombstone:recipe/tablet_of_assistance": {
     "criteria": {
-      "has_recipe": "2026-06-29 19:25:47 -0300"
+      "has_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "tombstone:recipe/blue_tombstone": {
     "criteria": {
-      "has_recipe": "2026-06-29 19:25:47 -0300"
+      "has_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "tombstone:recipe/enchanted_grave_key": {
     "criteria": {
-      "has_recipe": "2026-06-29 19:25:47 -0300"
+      "has_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "tombstone:recipe/tablet_of_home": {
     "criteria": {
-      "has_recipe": "2026-06-29 19:25:47 -0300"
+      "has_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "industrialforegoing:dissolution_chamber/pink_laser_lens": {
     "criteria": {
-      "has_the_recipe": "2026-06-29 19:25:47 -0300"
+      "has_the_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "industrialforegoing:dissolution_chamber/mechanical_dirt": {
     "criteria": {
-      "has_the_recipe": "2026-06-29 19:25:47 -0300"
+      "has_the_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "industrialforegoing:dissolution_chamber/industrialforegoing.speed_addon_tier_2": {
     "criteria": {
-      "has_the_recipe": "2026-06-29 19:25:47 -0300"
+      "has_the_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "industrialforegoing:dissolution_chamber/processing_addon_tier_1": {
     "criteria": {
-      "has_the_recipe": "2026-06-29 19:25:47 -0300"
+      "has_the_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "tombstone:recipe/scroll_of_reach": {
     "criteria": {
-      "has_recipe": "2026-06-29 19:25:47 -0300"
+      "has_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "industrialforegoing:dissolution_chamber/processing_addon_tier_2": {
     "criteria": {
-      "has_the_recipe": "2026-06-29 19:25:47 -0300"
+      "has_the_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "tombstone:recipe/white_grave_cross": {
     "criteria": {
-      "has_recipe": "2026-06-29 19:25:47 -0300"
+      "has_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "tombstone:recipe/tablet_of_recall": {
     "criteria": {
-      "has_recipe": "2026-06-29 19:25:47 -0300"
+      "has_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "industrialforegoing:dissolution_chamber/range_addon_tier_11": {
     "criteria": {
-      "has_the_recipe": "2026-06-29 19:25:47 -0300"
+      "has_the_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "industrialforegoing:dissolution_chamber/range_addon_tier_10": {
     "criteria": {
-      "has_the_recipe": "2026-06-29 19:25:47 -0300"
+      "has_the_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "industrialforegoing:dissolution_chamber/infinity_saw": {
     "criteria": {
-      "has_the_recipe": "2026-06-29 19:25:47 -0300"
+      "has_the_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "tombstone:recipe/scroll_of_feather_fall": {
     "criteria": {
-      "has_recipe": "2026-06-29 19:25:47 -0300"
+      "has_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "tombstone:recipe/green_grave_cross": {
     "criteria": {
-      "has_recipe": "2026-06-29 19:25:47 -0300"
+      "has_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "industrialforegoing:dissolution_chamber/red_laser_lens": {
     "criteria": {
-      "has_the_recipe": "2026-06-29 19:25:47 -0300"
+      "has_the_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "tombstone:recipe/tablet_of_guard": {
     "criteria": {
-      "has_recipe": "2026-06-29 19:25:47 -0300"
+      "has_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "tombstone:recipe/black_subaraki_grave": {
     "criteria": {
-      "has_recipe": "2026-06-29 19:25:47 -0300"
+      "has_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "tombstone:recipe/black_grave_normal": {
     "criteria": {
-      "has_recipe": "2026-06-29 19:25:47 -0300"
+      "has_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "tombstone:recipe/white_marble_stairs": {
     "criteria": {
-      "has_recipe": "2026-06-29 19:25:47 -0300"
+      "has_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "industrialforegoing:dissolution_chamber/industrialforegoing.processing_addon_tier_2": {
     "criteria": {
-      "has_the_recipe": "2026-06-29 19:25:47 -0300"
+      "has_the_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "tombstone:recipe/black_grave_original": {
     "criteria": {
-      "has_recipe": "2026-06-29 19:25:47 -0300"
+      "has_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "tombstone:recipe/dark_marble_wall": {
     "criteria": {
-      "has_recipe": "2026-06-29 19:25:47 -0300"
+      "has_recipe": "2026-06-29 22:25:47 +0000"
     },
     "done": true
   },
   "vanilla_refresh:location/the_nether": {
     "criteria": {
-      "requirement": "2026-06-30 00:12:32 -0300"
+      "requirement": "2026-06-30 03:12:32 +0000"
     },
     "done": true
   },
   "vanilla_refresh:biome/nether/soul_sand_valley": {
     "criteria": {
-      "requirement": "2026-06-30 00:12:39 -0300"
+      "requirement": "2026-06-30 03:12:39 +0000"
     },
     "done": true
   },
   "vanilla_refresh:biome/lush_caves": {
     "criteria": {
-      "requirement": "2026-06-30 00:16:48 -0300"
+      "requirement": "2026-06-30 03:16:48 +0000"
     },
     "done": true
   },
   "vanilla_refresh:location/the_end": {
     "criteria": {
-      "requirement": "2026-06-30 00:17:15 -0300"
+      "requirement": "2026-06-30 03:17:15 +0000"
     },
     "done": true
   },
   "vanilla_refresh:biome/snowy_taiga": {
     "criteria": {
-      "requirement": "2026-07-14 22:31:48 -0300"
+      "requirement": "2026-07-15 01:31:48 +0000"
     },
     "done": true
   },
   "vanilla_refresh:biome/snowy_plains": {
     "criteria": {
-      "requirement": "2026-07-14 22:34:01 -0300"
+      "requirement": "2026-07-15 01:34:01 +0000"
     },
     "done": true
   },
   "vanilla_refresh:biome/forest": {
     "criteria": {
-      "requirement": "2026-07-14 22:34:23 -0300"
+      "requirement": "2026-07-15 01:34:23 +0000"
     },
     "done": true
   },
   "vanilla_refresh:player/end_teleport": {
     "criteria": {
-      "s3": "2026-07-14 22:45:48 -0300"
+      "s3": "2026-07-15 01:45:48 +0000"
     },
     "done": false
   },
   "vanilla_refresh:biome/flower_forest": {
     "criteria": {
-      "requirement": "2026-07-14 22:45:59 -0300"
+      "requirement": "2026-07-15 01:45:59 +0000"
     },
     "done": true
   },
   "vanilla_refresh:biome/meadows": {
     "criteria": {
-      "requirement": "2026-07-14 22:46:08 -0300"
+      "requirement": "2026-07-15 01:46:08 +0000"
     },
     "done": true
   },
   "twilightforest:root": {
     "criteria": {
-      "make_portal": "2026-07-14 22:50:01 -0300"
+      "make_portal": "2026-07-15 01:50:01 +0000"
     },
     "done": true
   },
   "create:copper": {
     "criteria": {
-      "0": "2026-08-15 10:58:45 -0300"
+      "0": "2026-08-15 13:58:45 +0000"
     },
     "done": true
   },
   "wcwt:obtain_wireless_comprehensive_work_terminal": {
     "criteria": {
-      "has_terminal": "2026-08-17 13:49:00 -0300"
+      "has_terminal": "2026-08-17 16:49:00 +0000"
     },
     "done": true
   },
   "evilcraft:cannibal": {
     "criteria": {
-      "criteria_0": "2026-08-18 20:13:44 -0300"
+      "criteria_0": "2026-08-18 23:13:44 +0000"
     },
     "done": true
   },
   "constructionstick:root": {
     "criteria": {
-      "stick": "2026-08-18 20:16:10 -0300"
+      "stick": "2026-08-18 23:16:10 +0000"
     },
     "done": true
   },
   "naturescompass:natures_compass_sapling": {
     "criteria": {
-      "has_sapling": "2026-08-18 20:19:40 -0300"
+      "has_sapling": "2026-08-18 23:19:40 +0000"
     },
     "done": true
   },
   "ae2:main/network_tool": {
     "criteria": {
-      "network_tool": "2026-08-18 20:48:14 -0300"
+      "network_tool": "2026-08-18 23:48:14 +0000"
     },
     "done": true
   },
   "lootr:1chest": {
     "criteria": {
-      "opened_chest": "2026-08-19 22:22:41 -0300"
+      "opened_chest": "2026-08-20 01:22:41 +0000"
     },
     "done": true
   },
   "lootr:social": {
     "criteria": {
-      "opened_chest": "2026-08-19 22:22:41 -0300"
+      "opened_chest": "2026-08-20 01:22:41 +0000"
     },
     "done": false
   },
   "irons_spellbooks:irons_spellbooks/ink_root": {
     "criteria": {
-      "requirement": "2026-08-19 22:24:33 -0300"
+      "requirement": "2026-08-20 01:24:33 +0000"
     },
     "done": true
   },
   "vanilla_refresh:biome/cherry_grove": {
     "criteria": {
-      "requirement": "2026-08-19 23:14:06 -0300"
+      "requirement": "2026-08-20 02:14:06 +0000"
     },
     "done": true
   },
   "vanilla_refresh:biome/ocean": {
     "criteria": {
-      "requirement": "2026-08-19 23:16:04 -0300"
+      "requirement": "2026-08-20 02:16:04 +0000"
     },
     "done": true
   },
   "vanilla_refresh:biome/old_growth_spruce_taiga": {
     "criteria": {
-      "requirement": "2026-08-19 23:18:58 -0300"
+      "requirement": "2026-08-20 02:18:58 +0000"
     },
     "done": true
   },
   "vanilla_refresh:biome/old_growth_pine_taiga": {
     "criteria": {
-      "requirement": "2026-08-19 23:19:04 -0300"
+      "requirement": "2026-08-20 02:19:04 +0000"
     },
     "done": true
   },
   "mekanism:cleaning_gauges": {
     "criteria": {
-      "use_dropper": "2026-08-20 22:39:19 -0300"
+      "use_dropper": "2026-08-21 01:39:19 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:rocket_science": {
+    "criteria": {
+      "has_nasa_workbench": "2026-08-30 20:01:18 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:under_pressure": {
+    "criteria": {
+      "has_compressor": "2026-08-30 20:02:03 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:carbon_footprint": {
+    "criteria": {
+      "has_coal_generator": "2026-08-30 20:02:38 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:ad_astra": {
+    "criteria": {
+      "has_coal_generator": "2026-08-30 20:02:38 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:smart_blasting": {
+    "criteria": {
+      "has_etrionic_blast_furnace": "2026-08-30 20:04:00 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:tier_1_rocket": {
+    "criteria": {
+      "has_tier_1_rocket": "2026-08-30 20:13:15 +0000"
+    },
+    "done": true
+  },
+  "vanilla_refresh:biome/desert": {
+    "criteria": {
+      "requirement": "2026-08-30 20:27:33 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:moon": {
+    "criteria": {
+      "entered_moon": "2026-08-30 21:29:41 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:moon_cheese": {
+    "criteria": {
+      "has_moon_cheese": "2026-09-01 00:44:51 +0000"
     },
     "done": true
   },
