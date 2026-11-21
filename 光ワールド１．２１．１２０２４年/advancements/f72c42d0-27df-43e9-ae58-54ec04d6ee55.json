@@ -241,17 +241,21 @@
       "minecraft:ghast": "2024-12-03 22:39:26 -0300",
       "minecraft:ender_dragon": "2024-11-13 23:31:23 -0300",
       "minecraft:shulker": "2024-11-11 21:04:34 -0300",
+      "minecraft:cave_spider": "2026-11-20 18:02:11 -0300",
       "minecraft:piglin": "2025-02-10 22:55:35 -0300",
       "minecraft:guardian": "2025-01-20 15:37:28 -0300",
       "minecraft:breeze": "2025-03-08 18:30:45 -0300",
+      "minecraft:vindicator": "2026-11-20 17:18:08 -0300",
       "minecraft:enderman": "2024-11-06 00:00:24 -0300",
       "minecraft:magma_cube": "2024-11-13 23:13:35 -0300",
       "minecraft:spider": "2024-11-05 23:34:33 -0300",
+      "minecraft:vex": "2026-11-20 17:18:08 -0300",
       "minecraft:zombie": "2024-11-05 23:35:03 -0300",
       "minecraft:creeper": "2024-11-05 23:37:56 -0300",
       "minecraft:wither": "2024-11-14 14:27:20 -0300",
       "minecraft:zombie_villager": "2024-11-09 14:52:25 -0300",
-      "minecraft:slime": "2025-01-16 22:05:17 -0300"
+      "minecraft:slime": "2025-01-16 22:05:17 -0300",
+      "minecraft:evoker": "2026-11-20 17:18:08 -0300"
     },
     "done": false
   },
@@ -2790,12 +2794,6 @@
     },
     "done": true
   },
-  "vanilla_refresh:player/end_teleport": {
-    "criteria": {
-      "s3": "2026-11-17 22:19:07 -0300"
-    },
-    "done": false
-  },
   "vanilla_refresh:biome/flower_forest": {
     "criteria": {
       "requirement": "2026-07-14 22:45:59 -0300"
@@ -2961,6 +2959,156 @@
   "trashcans:ultimate_trash_can": {
     "criteria": {
       "has_ultimate_trash_can": "2026-11-15 00:22:33 -0300"
+    },
+    "done": true
+  },
+  "vanilla_refresh:player/end_teleport": {
+    "criteria": {
+      "s3": "2026-11-18 22:32:45 -0300"
+    },
+    "done": false
+  },
+  "vanilla_refresh:player/hurt": {
+    "criteria": {
+      "requirement": "2026-11-18 22:53:40 -0300"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_log": "2026-11-19 14:55:51 -0300"
+    },
+    "done": true
+  },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2026-11-19 15:52:12 -0300"
+    },
+    "done": true
+  },
+  "create:andesite_casing": {
+    "criteria": {
+      "0": "2026-11-19 15:53:28 -0300"
+    },
+    "done": true
+  },
+  "vanilla_refresh:has/smooth_stone": {
+    "criteria": {
+      "has_stone_slab": "2026-11-19 16:08:45 -0300"
+    },
+    "done": true
+  },
+  "twilightforest:progress_yeti": {
+    "criteria": {
+      "fur": "2026-11-19 23:07:17 -0300"
+    },
+    "done": false
+  },
+  "vanilla_refresh:biome/jungle": {
+    "criteria": {
+      "requirement": "2026-11-19 23:12:10 -0300"
+    },
+    "done": true
+  },
+  "occultism:occultism/craft_iesnium_butcher_knife": {
+    "criteria": {
+      "craft_iesnium_butcher_knife": "2026-11-19 23:52:42 -0300"
+    },
+    "done": true
+  },
+  "vanilla_refresh:biome/dark_forest": {
+    "criteria": {
+      "requirement": "2026-11-19 23:56:33 -0300"
+    },
+    "done": true
+  },
+  "occultism:chalks/green": {
+    "criteria": {
+      "chalk_green": "2026-11-20 00:12:22 -0300"
+    },
+    "done": true
+  },
+  "occultism:chalks/light_blue": {
+    "criteria": {
+      "chalk_light_blue": "2026-11-20 00:17:10 -0300"
+    },
+    "done": true
+  },
+  "vanilla_refresh:biome/nether/crimson_forest": {
+    "criteria": {
+      "requirement": "2026-11-20 00:20:01 -0300"
+    },
+    "done": true
+  },
+  "vanilla_refresh:biome/nether/warped_forest": {
+    "criteria": {
+      "requirement": "2026-11-20 00:20:28 -0300"
+    },
+    "done": true
+  },
+  "vanilla_refresh:biome/nether/basalt_deltas": {
+    "criteria": {
+      "requirement": "2026-11-20 00:20:52 -0300"
+    },
+    "done": true
+  },
+  "occultism:chalks/pink": {
+    "criteria": {
+      "chalk_pink": "2026-11-20 00:38:23 -0300"
+    },
+    "done": true
+  },
+  "occultism:chalks/cyan": {
+    "criteria": {
+      "chalk_cyan": "2026-11-20 00:41:25 -0300"
+    },
+    "done": true
+  },
+  "vanilla_refresh:biome/mangrove_swamp": {
+    "criteria": {
+      "requirement": "2026-11-20 00:46:07 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/brush_armadillo": {
+    "criteria": {
+      "brush_armadillo": "2026-11-20 00:47:52 -0300"
+    },
+    "done": true
+  },
+  "vanilla_refresh:biome/badlands": {
+    "criteria": {
+      "requirement": "2026-11-20 00:52:19 -0300"
+    },
+    "done": true
+  },
+  "occultism:chalks/brown": {
+    "criteria": {
+      "chalk_brown": "2026-11-20 01:18:55 -0300"
+    },
+    "done": true
+  },
+  "occultism:chalks/magenta": {
+    "criteria": {
+      "chalk_magenta": "2026-11-20 01:36:47 -0300"
+    },
+    "done": true
+  },
+  "vanilla_refresh:biome/dripstone_caves": {
+    "criteria": {
+      "requirement": "2026-11-20 17:16:59 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2026-11-20 17:23:00 -0300"
+    },
+    "done": true
+  },
+  "apothic_spawners:root": {
+    "criteria": {
+      "spawner": "2026-11-20 18:07:40 -0300"
     },
     "done": true
   },
