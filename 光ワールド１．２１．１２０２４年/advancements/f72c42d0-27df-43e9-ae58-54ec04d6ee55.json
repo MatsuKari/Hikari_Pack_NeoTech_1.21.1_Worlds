@@ -235,27 +235,35 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2024-11-09 17:20:32 -0300",
+      "minecraft:pillager": "2026-11-21 14:43:26 -0300",
       "minecraft:skeleton": "2024-11-05 23:36:34 -0300",
+      "minecraft:ravager": "2026-11-21 15:20:29 -0300",
+      "minecraft:bogged": "2026-11-21 14:47:21 -0300",
+      "minecraft:ghast": "2024-12-03 22:39:26 -0300",
+      "minecraft:guardian": "2025-01-20 15:37:28 -0300",
+      "minecraft:breeze": "2025-03-08 18:30:45 -0300",
+      "minecraft:vindicator": "2026-11-20 17:18:08 -0300",
+      "minecraft:magma_cube": "2024-11-13 23:13:35 -0300",
+      "minecraft:spider": "2024-11-05 23:34:33 -0300",
+      "minecraft:piglin_brute": "2026-11-23 17:58:42 -0300",
+      "minecraft:creeper": "2024-11-05 23:37:56 -0300",
+      "minecraft:wither": "2024-11-14 14:27:20 -0300",
+      "minecraft:slime": "2025-01-16 22:05:17 -0300",
+      "minecraft:evoker": "2026-11-20 17:18:08 -0300",
+      "minecraft:zombified_piglin": "2026-11-23 17:57:20 -0300",
+      "minecraft:witch": "2026-11-21 15:20:00 -0300",
       "minecraft:wither_skeleton": "2024-11-13 23:14:57 -0300",
       "minecraft:husk": "2024-11-05 23:57:03 -0300",
-      "minecraft:ghast": "2024-12-03 22:39:26 -0300",
       "minecraft:ender_dragon": "2024-11-13 23:31:23 -0300",
       "minecraft:shulker": "2024-11-11 21:04:34 -0300",
       "minecraft:cave_spider": "2026-11-20 18:02:11 -0300",
       "minecraft:piglin": "2025-02-10 22:55:35 -0300",
-      "minecraft:guardian": "2025-01-20 15:37:28 -0300",
-      "minecraft:breeze": "2025-03-08 18:30:45 -0300",
-      "minecraft:vindicator": "2026-11-20 17:18:08 -0300",
       "minecraft:enderman": "2024-11-06 00:00:24 -0300",
-      "minecraft:magma_cube": "2024-11-13 23:13:35 -0300",
-      "minecraft:spider": "2024-11-05 23:34:33 -0300",
+      "minecraft:stray": "2026-11-23 18:03:48 -0300",
+      "minecraft:endermite": "2026-11-23 18:04:23 -0300",
       "minecraft:vex": "2026-11-20 17:18:08 -0300",
       "minecraft:zombie": "2024-11-05 23:35:03 -0300",
-      "minecraft:creeper": "2024-11-05 23:37:56 -0300",
-      "minecraft:wither": "2024-11-14 14:27:20 -0300",
-      "minecraft:zombie_villager": "2024-11-09 14:52:25 -0300",
-      "minecraft:slime": "2025-01-16 22:05:17 -0300",
-      "minecraft:evoker": "2026-11-20 17:18:08 -0300"
+      "minecraft:zombie_villager": "2024-11-09 14:52:25 -0300"
     },
     "done": false
   },
@@ -2962,12 +2970,6 @@
     },
     "done": true
   },
-  "vanilla_refresh:player/end_teleport": {
-    "criteria": {
-      "s3": "2026-11-18 22:32:45 -0300"
-    },
-    "done": false
-  },
   "vanilla_refresh:player/hurt": {
     "criteria": {
       "requirement": "2026-11-18 22:53:40 -0300"
@@ -3109,6 +3111,90 @@
   "apothic_spawners:root": {
     "criteria": {
       "spawner": "2026-11-20 18:07:40 -0300"
+    },
+    "done": true
+  },
+  "lootr:pot_opened": {
+    "criteria": {
+      "pot_opened": "2026-11-21 14:47:18 -0300"
+    },
+    "done": true
+  },
+  "lootr:archaeologist": {
+    "criteria": {
+      "got_pot": "2026-11-21 14:47:18 -0300"
+    },
+    "done": false
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "opened_10": "2026-11-21 14:48:28 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/revaulting": {
+    "criteria": {
+      "revaulting": "2026-11-21 14:59:24 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/under_lock_and_key": {
+    "criteria": {
+      "under_lock_and_key": "2026-11-21 14:59:52 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2026-11-21 15:22:07 -0300"
+    },
+    "done": true
+  },
+  "occultism:occultism/misc_celestial_chalice": {
+    "criteria": {
+      "misc_celestial_chalice": "2026-11-21 15:24:12 -0300"
+    },
+    "done": true
+  },
+  "occultism:chalks/rainbow": {
+    "criteria": {
+      "chalk_rainbow": "2026-11-21 15:34:23 -0300"
+    },
+    "done": true
+  },
+  "occultism:occultism/possess_blaze": {
+    "criteria": {
+      "possess_blaze": "2026-11-23 16:15:07 -0300"
+    },
+    "done": true
+  },
+  "vanilla_refresh:biome/mushroom_fields": {
+    "criteria": {
+      "requirement": "2026-11-23 17:29:15 -0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2026-11-23 18:02:39 -0300"
+    },
+    "done": true
+  },
+  "apotheosis:gateways/summit": {
+    "criteria": {
+      "complete_summit_gate": "2026-11-23 18:04:48 -0300"
+    },
+    "done": true
+  },
+  "vanilla_refresh:player/end_teleport": {
+    "criteria": {
+      "s3": "2026-11-23 20:40:32 -0300"
+    },
+    "done": false
+  },
+  "apotheosis:gateways/pinnacle": {
+    "criteria": {
+      "complete_pinnacle_gate": "2026-11-23 20:30:14 -0300"
     },
     "done": true
   },
